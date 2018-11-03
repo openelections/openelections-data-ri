@@ -1,4 +1,5 @@
 import requests
+import json
 import unicodecsv
 from BeautifulSoup import BeautifulSoup
 
@@ -11,6 +12,14 @@ def parse():
             for table in soup.findAll('table')[0:2]:
                 w.writerow(_parse_table(table, jurisdiction))
 
+def parse_json():
+    with open('20141104__ri__general__town.csv', 'wb') as csvfile:
+        w = unicodecsv.writer(csvfile, encoding='utf-8')
+        for jurisdiction in _get_jurisdictions():
+            r = requests.get("https://rigov.s3.amazonaws.com/election/results/2014/general_election/%s.json" % jurisdiction['slug'])
+            for contest in r.json()['contests']:
+                for candidate in contest['candidates']:
+                    w.writerow([jurisdiction['name'], contest['name'], candidate['party_code'], candidate['name'], candidate['votes']])
 
 def _parse_table(table, jurisdiction):
     results = []

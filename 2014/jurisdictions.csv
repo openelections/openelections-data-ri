@@ -1,1 +1,40 @@
-name,type,slugBarrington,municipality,barrBristol,municipality,bristolBurrillville,municipality,burrCentral Falls,municipality,centCharlestown,municipality,charlestownCoventry,municipality,coventryCranston,municipality,cranstonCumberland,municipality,cumberEast Greenwich,municipality,egreenEast Providence,municipality,eastprovExeter,municipality,exeterFoster,municipality,fosterGlocester,municipality,glocHopkinton,municipality,hopJamestown,municipality,jamesJohnston,municipality,johnLincoln,municipality,lincLittle Compton,municipality,littlecompMiddletown,municipality,middleNarragansett,municipality,narrNew Shoreham,municipality,newshoreNewport,municipality,newportNorth Kingstown,municipality,nkingNorth Providence,municipality,nprovNorth Smithfield,municipality,nsmithPawtucket,municipality,pawPortsmouth,municipality,portProvidence,municipality,provRichmond,municipality,richmondScituate,municipality,scituateSmithfield,municipality,smithSouth Kingstown,municipality,skingTiverton,municipality,tivWarren,municipality,warrenWarwick,municipality,warwickWest Greenwich,municipality,wgreenWest Warwick,municipality,wwarWesterly,municipality,westerlyWoonsocket,municipality,woonsocket
+name,type,slug
+Barrington,municipality,barrington
+Bristol,municipality,bristol
+Burrillville,municipality,burrillville
+Central Falls,municipality,central_falls
+Charlestown,municipality,charlestown
+Coventry,municipality,coventry
+Cranston,municipality,cranston
+Cumberland,municipality,cumberland
+East Greenwich,municipality,east_greenwich
+East Providence,municipality,east_providence
+Exeter,municipality,exeter
+Foster,municipality,foster
+Glocester,municipality,glocester
+Hopkinton,municipality,hopkinton
+Jamestown,municipality,jamestown
+Johnston,municipality,johnston
+Lincoln,municipality,lincoln
+Little Compton,municipality,little_compton
+Middletown,municipality,middletown
+Narragansett,municipality,narragansett
+New Shoreham,municipality,new_shoreham
+Newport,municipality,newport
+North Kingstown,municipality,north_kingstown
+North Providence,municipality,north_providence
+North Smithfield,municipality,north_smithfield
+Pawtucket,municipality,pawtucket
+Portsmouth,municipality,portsmouth
+Providence,municipality,providence
+Richmond,municipality,richmond
+Scituate,municipality,scituate
+Smithfield,municipality,smithfield
+South Kingstown,municipality,south_kingstown
+Tiverton,municipality,tiverton
+Warren,municipality,warren
+Warwick,municipality,warwick
+West Greenwich,municipality,west_greenwich
+West Warwick,municipality,west_warwick
+Westerly,municipality,westerly
+Woonsocket,municipality,woonsocket
