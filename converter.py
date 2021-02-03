@@ -2,7 +2,7 @@ import re
 import csv
 
 def convert():
-    with open("20201103__ri__general__precinct.csv", "wt") as csvfile:
+    with open("20200908__ri__primary__precinct.csv", "wt") as csvfile:
         w = csv.writer(csvfile)
         w.writerow(['office', 'district', 'candidate', 'party', 'precinct', 'votes', 'absentee_votes'])
         for line in get_lines():
@@ -98,7 +98,7 @@ def party_shortener(long):
         return ""
 
 def get_lines():
-    with open("rigen2020l.asc") as f:
+    with open("ripri2020l.asc") as f:
         return f.readlines()
 
 convert()
