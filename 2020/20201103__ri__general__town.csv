@@ -40,8 +40,8 @@ Barrington,4. POLICE DEPARTMENT - CONSTABLES TOWN OF BARRINGTON,,NON,Approve,615
 Barrington,4. POLICE DEPARTMENT - CONSTABLES TOWN OF BARRINGTON,,NON,Reject,3666
 Barrington,5. FINANCIAL PROVISIONS - PROPOSED BUDGET,,NON,Approve,7216
 Barrington,5. FINANCIAL PROVISIONS - PROPOSED BUDGET,,NON,Reject,2356
-Barrington,6. FINANCIAL TOWN MEETING:  EMERGENCY BUDGET,,NON,Approve,5889
-Barrington,6. FINANCIAL TOWN MEETING:  EMERGENCY BUDGET,,NON,Reject,3585
+Barrington,6. FINANCIAL TOWN MEETING: EMERGENCY BUDGET,,NON,Approve,5889
+Barrington,6. FINANCIAL TOWN MEETING: EMERGENCY BUDGET,,NON,Reject,3585
 Bristol,President,,DEM,Joseph R. Biden,6813
 Bristol,President,,REP,Donald J. Trump,4595
 Bristol,President,,Lib,Jo Jorgensen,139
@@ -417,9 +417,9 @@ Cumberland,State House,57,DEM,James N. McLaughlin,3463
 Cumberland,State House,57,NON,WRITE-IN,105
 Cumberland,Mayor TOWN OF CUMBERLAND,,DEM,Jeffrey J. Mutter,15594
 Cumberland,Mayor TOWN OF CUMBERLAND,,NON,WRITE-IN,564
-Cumberland,Town Council  At-Large TOWN OF CUMBERLAND,,DEM,Peter J. Bradley,11430
-Cumberland,Town Council  At-Large TOWN OF CUMBERLAND,,DEM,Michael L. Kinch,11159
-Cumberland,Town Council  At-Large TOWN OF CUMBERLAND,,NON,WRITE-IN,531
+Cumberland,Town Council At-Large TOWN OF CUMBERLAND,,DEM,Peter J. Bradley,11430
+Cumberland,Town Council At-Large TOWN OF CUMBERLAND,,DEM,Michael L. Kinch,11159
+Cumberland,Town Council At-Large TOWN OF CUMBERLAND,,NON,WRITE-IN,531
 Cumberland,Town Council District 1 Cumberland,,Ind,James K. Metivier,1711
 Cumberland,Town Council District 1 Cumberland,,DEM,James T. Higgins,985
 Cumberland,Town Council District 1 Cumberland,,NON,WRITE-IN,18
@@ -539,8 +539,8 @@ East Providence,School Committee Ward 4 East Providence,,NON,Jessica Beauchaine,
 East Providence,School Committee Ward 4 East Providence,,NON,WRITE-IN,141
 East Providence,1. CHANGING THE OFFICIAL NAME OF THE STATE,,NON,Approve,11352
 East Providence,1. CHANGING THE OFFICIAL NAME OF THE STATE,,NON,Reject,8927
-East Providence,2.  Charter Commission CITY OF EAST PROVIDENCE,,NON,Approve,12951
-East Providence,2.  Charter Commission CITY OF EAST PROVIDENCE,,NON,Reject,6250
+East Providence,2. Charter Commission CITY OF EAST PROVIDENCE,,NON,Approve,12951
+East Providence,2. Charter Commission CITY OF EAST PROVIDENCE,,NON,Reject,6250
 Exeter,President,,REP,Donald J. Trump,2009
 Exeter,President,,DEM,Joseph R. Biden,1974
 Exeter,President,,Lib,Jo Jorgensen,55
@@ -584,8 +584,8 @@ Exeter,Town Sergeant TOWN OF EXETER,,Ind,William Gilbert Donovan,3160
 Exeter,Town Sergeant TOWN OF EXETER,,NON,WRITE-IN,22
 Exeter,Town Treasurer TOWN OF EXETER,,DEM,Maria Lawler,3014
 Exeter,Town Treasurer TOWN OF EXETER,,NON,WRITE-IN,52
-Exeter,Director Of  Social Services TOWN OF EXETER,,Ind,Jessica Leah DeMartino,3067
-Exeter,Director Of  Social Services TOWN OF EXETER,,NON,WRITE-IN,12
+Exeter,Director Of Social Services TOWN OF EXETER,,Ind,Jessica Leah DeMartino,3067
+Exeter,Director Of Social Services TOWN OF EXETER,,NON,WRITE-IN,12
 Exeter,Zoning Inspector TOWN OF EXETER,,REP,Hal Morgan,3096
 Exeter,Zoning Inspector TOWN OF EXETER,,NON,WRITE-IN,51
 Exeter,1. CHANGING THE OFFICIAL NAME OF THE STATE,,NON,Reject,2174
@@ -679,8 +679,8 @@ Glocester,Town Council TOWN OF GLOCESTER,,REP,Stephen W. Arnold,2923
 Glocester,Town Council TOWN OF GLOCESTER,,Ind,David R. Laplante,2777
 Glocester,Town Council TOWN OF GLOCESTER,,Ind,Michelle N. Allen,2747
 Glocester,Town Council TOWN OF GLOCESTER,,NON,WRITE-IN,129
-Glocester,Director Of  Human Services TOWN OF GLOCESTER,,REP,John S. Luszcz,4714
-Glocester,Director Of  Human Services TOWN OF GLOCESTER,,NON,WRITE-IN,76
+Glocester,Director Of Human Services TOWN OF GLOCESTER,,REP,John S. Luszcz,4714
+Glocester,Director Of Human Services TOWN OF GLOCESTER,,NON,WRITE-IN,76
 Glocester,Town Sergeant TOWN OF GLOCESTER,,REP,Kevin P. Walsh,4791
 Glocester,Town Sergeant TOWN OF GLOCESTER,,NON,WRITE-IN,80
 Glocester,1. CHANGING THE OFFICIAL NAME OF THE STATE,,NON,Reject,3597
@@ -746,8 +746,8 @@ Hopkinton,Chariho School Committee TOWN OF HOPKINTON,,Ind,Catherine M. Giusti,37
 Hopkinton,Chariho School Committee TOWN OF HOPKINTON,,NON,WRITE-IN,58
 Hopkinton,Town Sergeant TOWN OF HOPKINTON,,REP,Larry C. Phelps,3509
 Hopkinton,Town Sergeant TOWN OF HOPKINTON,,NON,WRITE-IN,102
-Hopkinton,Director Of  Public Welfare TOWN OF HOPKINTON,,Ind,Joseph Moreau,3716
-Hopkinton,Director Of  Public Welfare TOWN OF HOPKINTON,,NON,WRITE-IN,41
+Hopkinton,Director Of Public Welfare TOWN OF HOPKINTON,,Ind,Joseph Moreau,3716
+Hopkinton,Director Of Public Welfare TOWN OF HOPKINTON,,NON,WRITE-IN,41
 Hopkinton,Town Moderator TOWN OF HOPKINTON,,REP,Edwin Warren James,3471
 Hopkinton,Town Moderator TOWN OF HOPKINTON,,NON,WRITE-IN,97
 Hopkinton,1. CHANGING THE OFFICIAL NAME OF THE STATE,,NON,Reject,2540
@@ -957,7 +957,7 @@ Middletown,Non-Partisan School Committee TOWN OF MIDDLETOWN,,NON,Tami E. Holden,
 Middletown,Non-Partisan School Committee TOWN OF MIDDLETOWN,,NON,William R. O&#39;Connell,2736
 Middletown,Non-Partisan School Committee TOWN OF MIDDLETOWN,,NON,Cynthia L. Perry,2668
 Middletown,Non-Partisan School Committee TOWN OF MIDDLETOWN,,NON,Vanessa G. Ellermann,2128
-Middletown,Non-Partisan School Committee TOWN OF MIDDLETOWN,,NON,Frances Marie  Connolly Moldveen,1092
+Middletown,Non-Partisan School Committee TOWN OF MIDDLETOWN,,NON,Frances Marie Connolly Moldveen,1092
 Middletown,Non-Partisan School Committee TOWN OF MIDDLETOWN,,NON,WRITE-IN,65
 Middletown,Non-Partisan Town Council TOWN OF MIDDLETOWN,,NON,Terri Flynn,3825
 Middletown,Non-Partisan Town Council TOWN OF MIDDLETOWN,,NON,Paul M. Rodrigues,3162
@@ -1033,8 +1033,8 @@ Narragansett,3. AMENDMENT TO THE NARRAGANSETT CODE OF ORDINANCES,,NON,Yes,5643
 Narragansett,3. AMENDMENT TO THE NARRAGANSETT CODE OF ORDINANCES,,NON,No,2807
 Narragansett,4. AMENDMENT TO THE NARRAGANSETT HOME RULE CHARTER,,NON,Yes,5718
 Narragansett,4. AMENDMENT TO THE NARRAGANSETT HOME RULE CHARTER,,NON,No,2534
-Narragansett,5. ADOPTION OF RESOLUTION  DISPOSITION OF REAL PROPERTY,,NON,Yes,5567
-Narragansett,5. ADOPTION OF RESOLUTION  DISPOSITION OF REAL PROPERTY,,NON,No,2695
+Narragansett,5. ADOPTION OF RESOLUTION DISPOSITION OF REAL PROPERTY,,NON,Yes,5567
+Narragansett,5. ADOPTION OF RESOLUTION DISPOSITION OF REAL PROPERTY,,NON,No,2695
 New Shoreham,President,,DEM,Joseph R. Biden,748
 New Shoreham,President,,REP,Donald J. Trump,195
 New Shoreham,President,,NON,WRITE-IN,7
@@ -1575,10 +1575,10 @@ Scituate,Town Moderator TOWN OF SCITUATE,,REP,David M. Dagostino,3289
 Scituate,Town Moderator TOWN OF SCITUATE,,DEM,John C. Tessitore,1839
 Scituate,Town Moderator TOWN OF SCITUATE,,Ind,Steven A. Venditelli,1004
 Scituate,Town Moderator TOWN OF SCITUATE,,NON,WRITE-IN,10
-Scituate,Director Of  Public Welfare TOWN OF SCITUATE,,REP,"Joseph Adam Steiner, III",4935
-Scituate,Director Of  Public Welfare TOWN OF SCITUATE,,NON,WRITE-IN,92
-Scituate,Board Of  Assessment Review TOWN OF SCITUATE,,DEM,Joseph J. DeAngelis,4328
-Scituate,Board Of  Assessment Review TOWN OF SCITUATE,,NON,WRITE-IN,189
+Scituate,Director Of Public Welfare TOWN OF SCITUATE,,REP,"Joseph Adam Steiner, III",4935
+Scituate,Director Of Public Welfare TOWN OF SCITUATE,,NON,WRITE-IN,92
+Scituate,Board Of Assessment Review TOWN OF SCITUATE,,DEM,Joseph J. DeAngelis,4328
+Scituate,Board Of Assessment Review TOWN OF SCITUATE,,NON,WRITE-IN,189
 Scituate,1. CHANGING THE OFFICIAL NAME OF THE STATE,,NON,Reject,4051
 Scituate,1. CHANGING THE OFFICIAL NAME OF THE STATE,,NON,Approve,2282
 Scituate,2. Constitution of the State of Rhode Island &amp; Prov,,NON,Reject,3255
@@ -1984,7 +1984,7 @@ Westerly,State Senate,38,NON,WRITE-IN,379
 Westerly,State House,36,REP,Blake A. Filippi,664
 Westerly,State House,36,NON,WRITE-IN,18
 Westerly,State House,37,DEM,Samuel A. Azzinaro,5341
-Westerly,State House,37,Ind,"Timothy Shawn  McLaughlin, Jr.",2318
+Westerly,State House,37,Ind,"Timothy Shawn McLaughlin, Jr.",2318
 Westerly,State House,37,NON,WRITE-IN,33
 Westerly,State House,38,DEM,Brian Patrick Kennedy,1974
 Westerly,State House,38,REP,"Donald J. Kohlman, II",1204
