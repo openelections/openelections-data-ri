@@ -76,7 +76,7 @@ def district_shortener(long):
     if long:
         try:
             num = re.findall('\d+', long)[0]
-        except:
+        except IndexError:
             num = None
     else:
         num = ''
