@@ -1,0 +1,568 @@
+county,office,district,party,candidate,votes,election_day,mail,early_voting
+Barrington,U.S. House,1,DEM,Allen R. Waters,24,22,0,2
+Barrington,U.S. House,1,DEM,Ana Quezada,8,4,1,3
+Barrington,U.S. House,1,DEM,Donald R. Carlson,34,3,19,12
+Barrington,U.S. House,1,DEM,Gabriel Amo,1251,801,104,346
+Barrington,U.S. House,1,DEM,J. Aaron Regunberg,585,380,69,136
+Barrington,U.S. House,1,DEM,John Goncalves,44,31,3,10
+Barrington,U.S. House,1,DEM,Sabina Matos,100,59,15,26
+Barrington,U.S. House,1,DEM,Sandra C. Cano,259,183,30,46
+Barrington,U.S. House,1,DEM,Spencer Dickinson,7,3,0,4
+Barrington,U.S. House,1,DEM,Stephanie Beaute,37,21,11,5
+Barrington,U.S. House,1,DEM,Stephen M. Casey,50,33,3,14
+Barrington,U.S. House,1,DEM,Walter Berbrick,73,51,9,13
+Barrington,U.S. House,1,REP,"Gerry W. Leonard, Jr.*",165,108,19,38
+Barrington,U.S. House,1,REP,Terri Flynn,52,32,6,14
+Barrington Limited,U.S. House,1,DEM,Allen R. Waters,0,0,0,0
+Barrington Limited,U.S. House,1,DEM,Ana Quezada,0,0,0,0
+Barrington Limited,U.S. House,1,DEM,Donald R. Carlson,0,0,0,0
+Barrington Limited,U.S. House,1,DEM,Gabriel Amo,0,0,0,0
+Barrington Limited,U.S. House,1,DEM,J. Aaron Regunberg,0,0,0,0
+Barrington Limited,U.S. House,1,DEM,John Goncalves,0,0,0,0
+Barrington Limited,U.S. House,1,DEM,Sabina Matos,0,0,0,0
+Barrington Limited,U.S. House,1,DEM,Sandra C. Cano,0,0,0,0
+Barrington Limited,U.S. House,1,DEM,Spencer Dickinson,0,0,0,0
+Barrington Limited,U.S. House,1,DEM,Stephanie Beaute,0,0,0,0
+Barrington Limited,U.S. House,1,DEM,Stephen M. Casey,0,0,0,0
+Barrington Limited,U.S. House,1,DEM,Walter Berbrick,0,0,0,0
+Barrington Limited,U.S. House,1,REP,"Gerry W. Leonard, Jr.*",0,0,0,0
+Barrington Limited,U.S. House,1,REP,Terri Flynn,0,0,0,0
+Bristol,U.S. House,1,DEM,Allen R. Waters,42,31,3,8
+Bristol,U.S. House,1,DEM,Ana Quezada,7,6,1,0
+Bristol,U.S. House,1,DEM,Donald R. Carlson,38,4,19,15
+Bristol,U.S. House,1,DEM,Gabriel Amo,789,541,98,150
+Bristol,U.S. House,1,DEM,J. Aaron Regunberg,570,349,100,121
+Bristol,U.S. House,1,DEM,John Goncalves,27,19,7,1
+Bristol,U.S. House,1,DEM,Sabina Matos,94,45,32,17
+Bristol,U.S. House,1,DEM,Sandra C. Cano,175,126,20,29
+Bristol,U.S. House,1,DEM,Spencer Dickinson,10,4,5,1
+Bristol,U.S. House,1,DEM,Stephanie Beaute,16,10,4,2
+Bristol,U.S. House,1,DEM,Stephen M. Casey,55,39,9,7
+Bristol,U.S. House,1,DEM,Walter Berbrick,101,72,14,15
+Bristol,U.S. House,1,REP,"Gerry W. Leonard, Jr.*",176,128,29,19
+Bristol,U.S. House,1,REP,Terri Flynn,66,47,14,5
+Bristol Limited,U.S. House,1,DEM,Allen R. Waters,0,0,0,0
+Bristol Limited,U.S. House,1,DEM,Ana Quezada,0,0,0,0
+Bristol Limited,U.S. House,1,DEM,Donald R. Carlson,0,0,0,0
+Bristol Limited,U.S. House,1,DEM,Gabriel Amo,0,0,0,0
+Bristol Limited,U.S. House,1,DEM,J. Aaron Regunberg,0,0,0,0
+Bristol Limited,U.S. House,1,DEM,John Goncalves,0,0,0,0
+Bristol Limited,U.S. House,1,DEM,Sabina Matos,0,0,0,0
+Bristol Limited,U.S. House,1,DEM,Sandra C. Cano,0,0,0,0
+Bristol Limited,U.S. House,1,DEM,Spencer Dickinson,0,0,0,0
+Bristol Limited,U.S. House,1,DEM,Stephanie Beaute,0,0,0,0
+Bristol Limited,U.S. House,1,DEM,Stephen M. Casey,0,0,0,0
+Bristol Limited,U.S. House,1,DEM,Walter Berbrick,0,0,0,0
+Bristol Limited,U.S. House,1,REP,"Gerry W. Leonard, Jr.*",0,0,0,0
+Bristol Limited,U.S. House,1,REP,Terri Flynn,0,0,0,0
+Central Falls,U.S. House,1,DEM,Allen R. Waters,6,4,0,2
+Central Falls,U.S. House,1,DEM,Ana Quezada,117,38,75,4
+Central Falls,U.S. House,1,DEM,Donald R. Carlson,10,2,6,2
+Central Falls,U.S. House,1,DEM,Gabriel Amo,70,47,15,8
+Central Falls,U.S. House,1,DEM,J. Aaron Regunberg,62,41,9,12
+Central Falls,U.S. House,1,DEM,John Goncalves,8,4,2,2
+Central Falls,U.S. House,1,DEM,Sabina Matos,78,49,13,16
+Central Falls,U.S. House,1,DEM,Sandra C. Cano,209,153,19,37
+Central Falls,U.S. House,1,DEM,Spencer Dickinson,4,3,1,0
+Central Falls,U.S. House,1,DEM,Stephanie Beaute,9,5,3,1
+Central Falls,U.S. House,1,DEM,Stephen M. Casey,21,14,2,5
+Central Falls,U.S. House,1,DEM,Walter Berbrick,7,4,2,1
+Central Falls,U.S. House,1,REP,"Gerry W. Leonard, Jr.*",27,24,3,0
+Central Falls,U.S. House,1,REP,Terri Flynn,11,8,1,2
+Central Falls Limited,U.S. House,1,DEM,Allen R. Waters,0,0,0,0
+Central Falls Limited,U.S. House,1,DEM,Ana Quezada,0,0,0,0
+Central Falls Limited,U.S. House,1,DEM,Donald R. Carlson,0,0,0,0
+Central Falls Limited,U.S. House,1,DEM,Gabriel Amo,0,0,0,0
+Central Falls Limited,U.S. House,1,DEM,J. Aaron Regunberg,0,0,0,0
+Central Falls Limited,U.S. House,1,DEM,John Goncalves,0,0,0,0
+Central Falls Limited,U.S. House,1,DEM,Sabina Matos,0,0,0,0
+Central Falls Limited,U.S. House,1,DEM,Sandra C. Cano,0,0,0,0
+Central Falls Limited,U.S. House,1,DEM,Spencer Dickinson,0,0,0,0
+Central Falls Limited,U.S. House,1,DEM,Stephanie Beaute,0,0,0,0
+Central Falls Limited,U.S. House,1,DEM,Stephen M. Casey,0,0,0,0
+Central Falls Limited,U.S. House,1,DEM,Walter Berbrick,0,0,0,0
+Central Falls Limited,U.S. House,1,REP,"Gerry W. Leonard, Jr.*",0,0,0,0
+Central Falls Limited,U.S. House,1,REP,Terri Flynn,0,0,0,0
+Cumberland,U.S. House,1,DEM,Allen R. Waters,31,25,6,0
+Cumberland,U.S. House,1,DEM,Ana Quezada,7,2,3,2
+Cumberland,U.S. House,1,DEM,Donald R. Carlson,38,11,19,8
+Cumberland,U.S. House,1,DEM,Gabriel Amo,1060,833,100,127
+Cumberland,U.S. House,1,DEM,J. Aaron Regunberg,539,422,62,55
+Cumberland,U.S. House,1,DEM,John Goncalves,40,34,5,1
+Cumberland,U.S. House,1,DEM,Sabina Matos,211,140,43,28
+Cumberland,U.S. House,1,DEM,Sandra C. Cano,431,319,55,57
+Cumberland,U.S. House,1,DEM,Spencer Dickinson,59,51,3,5
+Cumberland,U.S. House,1,DEM,Stephanie Beaute,13,10,2,1
+Cumberland,U.S. House,1,DEM,Stephen M. Casey,277,241,17,19
+Cumberland,U.S. House,1,DEM,Walter Berbrick,132,102,13,17
+Cumberland,U.S. House,1,REP,"Gerry W. Leonard, Jr.*",253,197,27,29
+Cumberland,U.S. House,1,REP,Terri Flynn,68,55,5,8
+Cumberland Limited,U.S. House,1,DEM,Allen R. Waters,0,0,0,0
+Cumberland Limited,U.S. House,1,DEM,Ana Quezada,0,0,0,0
+Cumberland Limited,U.S. House,1,DEM,Donald R. Carlson,0,0,0,0
+Cumberland Limited,U.S. House,1,DEM,Gabriel Amo,0,0,0,0
+Cumberland Limited,U.S. House,1,DEM,J. Aaron Regunberg,0,0,0,0
+Cumberland Limited,U.S. House,1,DEM,John Goncalves,0,0,0,0
+Cumberland Limited,U.S. House,1,DEM,Sabina Matos,0,0,0,0
+Cumberland Limited,U.S. House,1,DEM,Sandra C. Cano,0,0,0,0
+Cumberland Limited,U.S. House,1,DEM,Spencer Dickinson,0,0,0,0
+Cumberland Limited,U.S. House,1,DEM,Stephanie Beaute,0,0,0,0
+Cumberland Limited,U.S. House,1,DEM,Stephen M. Casey,0,0,0,0
+Cumberland Limited,U.S. House,1,DEM,Walter Berbrick,0,0,0,0
+Cumberland Limited,U.S. House,1,REP,"Gerry W. Leonard, Jr.*",0,0,0,0
+Cumberland Limited,U.S. House,1,REP,Terri Flynn,0,0,0,0
+East Providence,U.S. House,1,DEM,Allen R. Waters,62,37,3,22
+East Providence,U.S. House,1,DEM,Ana Quezada,31,13,12,6
+East Providence,U.S. House,1,DEM,Donald R. Carlson,104,10,39,55
+East Providence,U.S. House,1,DEM,Gabriel Amo,1296,791,126,379
+East Providence,U.S. House,1,DEM,J. Aaron Regunberg,939,581,117,241
+East Providence,U.S. House,1,DEM,John Goncalves,135,90,13,32
+East Providence,U.S. House,1,DEM,Sabina Matos,384,178,62,144
+East Providence,U.S. House,1,DEM,Sandra C. Cano,438,251,69,118
+East Providence,U.S. House,1,DEM,Spencer Dickinson,24,10,4,10
+East Providence,U.S. House,1,DEM,Stephanie Beaute,45,22,11,12
+East Providence,U.S. House,1,DEM,Stephen M. Casey,157,87,12,58
+East Providence,U.S. House,1,DEM,Walter Berbrick,137,93,19,25
+East Providence,U.S. House,1,REP,"Gerry W. Leonard, Jr.*",276,180,28,68
+East Providence,U.S. House,1,REP,Terri Flynn,75,31,14,30
+East Providence Limited,U.S. House,1,DEM,Allen R. Waters,0,0,0,0
+East Providence Limited,U.S. House,1,DEM,Ana Quezada,0,0,0,0
+East Providence Limited,U.S. House,1,DEM,Donald R. Carlson,0,0,0,0
+East Providence Limited,U.S. House,1,DEM,Gabriel Amo,0,0,0,0
+East Providence Limited,U.S. House,1,DEM,J. Aaron Regunberg,0,0,0,0
+East Providence Limited,U.S. House,1,DEM,John Goncalves,0,0,0,0
+East Providence Limited,U.S. House,1,DEM,Sabina Matos,0,0,0,0
+East Providence Limited,U.S. House,1,DEM,Sandra C. Cano,0,0,0,0
+East Providence Limited,U.S. House,1,DEM,Spencer Dickinson,0,0,0,0
+East Providence Limited,U.S. House,1,DEM,Stephanie Beaute,0,0,0,0
+East Providence Limited,U.S. House,1,DEM,Stephen M. Casey,0,0,0,0
+East Providence Limited,U.S. House,1,DEM,Walter Berbrick,0,0,0,0
+East Providence Limited,U.S. House,1,REP,"Gerry W. Leonard, Jr.*",0,0,0,0
+East Providence Limited,U.S. House,1,REP,Terri Flynn,0,0,0,0
+Federal Precinct #1,U.S. House,1,DEM,Allen R. Waters,0,0,0,0
+Federal Precinct #1,U.S. House,1,DEM,Ana Quezada,0,0,0,0
+Federal Precinct #1,U.S. House,1,DEM,Donald R. Carlson,0,0,0,0
+Federal Precinct #1,U.S. House,1,DEM,Gabriel Amo,1,0,1,0
+Federal Precinct #1,U.S. House,1,DEM,J. Aaron Regunberg,0,0,0,0
+Federal Precinct #1,U.S. House,1,DEM,John Goncalves,0,0,0,0
+Federal Precinct #1,U.S. House,1,DEM,Sabina Matos,0,0,0,0
+Federal Precinct #1,U.S. House,1,DEM,Sandra C. Cano,0,0,0,0
+Federal Precinct #1,U.S. House,1,DEM,Spencer Dickinson,0,0,0,0
+Federal Precinct #1,U.S. House,1,DEM,Stephanie Beaute,0,0,0,0
+Federal Precinct #1,U.S. House,1,DEM,Stephen M. Casey,1,0,1,0
+Federal Precinct #1,U.S. House,1,DEM,Walter Berbrick,0,0,0,0
+Federal Precinct #1,U.S. House,1,REP,"Gerry W. Leonard, Jr.*",0,0,0,0
+Federal Precinct #1,U.S. House,1,REP,Terri Flynn,0,0,0,0
+Federal Precinct #1S,U.S. House,1,DEM,Allen R. Waters,0,0,0,0
+Federal Precinct #1S,U.S. House,1,DEM,Ana Quezada,0,0,0,0
+Federal Precinct #1S,U.S. House,1,DEM,Donald R. Carlson,0,0,0,0
+Federal Precinct #1S,U.S. House,1,DEM,Gabriel Amo,0,0,0,0
+Federal Precinct #1S,U.S. House,1,DEM,J. Aaron Regunberg,0,0,0,0
+Federal Precinct #1S,U.S. House,1,DEM,John Goncalves,0,0,0,0
+Federal Precinct #1S,U.S. House,1,DEM,Sabina Matos,0,0,0,0
+Federal Precinct #1S,U.S. House,1,DEM,Sandra C. Cano,0,0,0,0
+Federal Precinct #1S,U.S. House,1,DEM,Spencer Dickinson,0,0,0,0
+Federal Precinct #1S,U.S. House,1,DEM,Stephanie Beaute,0,0,0,0
+Federal Precinct #1S,U.S. House,1,DEM,Stephen M. Casey,0,0,0,0
+Federal Precinct #1S,U.S. House,1,DEM,Walter Berbrick,0,0,0,0
+Federal Precinct #1S,U.S. House,1,REP,"Gerry W. Leonard, Jr.*",0,0,0,0
+Federal Precinct #1S,U.S. House,1,REP,Terri Flynn,0,0,0,0
+Foster,Town Council TOWN OF FOSTER,,REP,Catherine Bay,71,55,1,15
+Foster,Town Council TOWN OF FOSTER,,REP,Ronald F. Cervasio,80,57,0,23
+Jamestown,U.S. House,1,DEM,Allen R. Waters,15,9,0,6
+Jamestown,U.S. House,1,DEM,Ana Quezada,2,0,0,2
+Jamestown,U.S. House,1,DEM,Donald R. Carlson,54,2,12,40
+Jamestown,U.S. House,1,DEM,Gabriel Amo,351,175,15,161
+Jamestown,U.S. House,1,DEM,J. Aaron Regunberg,226,106,12,108
+Jamestown,U.S. House,1,DEM,John Goncalves,5,2,1,2
+Jamestown,U.S. House,1,DEM,Sabina Matos,31,7,4,20
+Jamestown,U.S. House,1,DEM,Sandra C. Cano,250,104,20,126
+Jamestown,U.S. House,1,DEM,Spencer Dickinson,13,5,3,5
+Jamestown,U.S. House,1,DEM,Stephanie Beaute,4,1,0,3
+Jamestown,U.S. House,1,DEM,Stephen M. Casey,36,17,1,18
+Jamestown,U.S. House,1,DEM,Walter Berbrick,36,22,0,14
+Jamestown,U.S. House,1,REP,"Gerry W. Leonard, Jr.*",144,70,3,71
+Jamestown,U.S. House,1,REP,Terri Flynn,9,2,2,5
+Jamestown Limited,U.S. House,1,DEM,Allen R. Waters,0,0,0,0
+Jamestown Limited,U.S. House,1,DEM,Ana Quezada,0,0,0,0
+Jamestown Limited,U.S. House,1,DEM,Donald R. Carlson,0,0,0,0
+Jamestown Limited,U.S. House,1,DEM,Gabriel Amo,0,0,0,0
+Jamestown Limited,U.S. House,1,DEM,J. Aaron Regunberg,0,0,0,0
+Jamestown Limited,U.S. House,1,DEM,John Goncalves,0,0,0,0
+Jamestown Limited,U.S. House,1,DEM,Sabina Matos,0,0,0,0
+Jamestown Limited,U.S. House,1,DEM,Sandra C. Cano,0,0,0,0
+Jamestown Limited,U.S. House,1,DEM,Spencer Dickinson,0,0,0,0
+Jamestown Limited,U.S. House,1,DEM,Stephanie Beaute,0,0,0,0
+Jamestown Limited,U.S. House,1,DEM,Stephen M. Casey,0,0,0,0
+Jamestown Limited,U.S. House,1,DEM,Walter Berbrick,0,0,0,0
+Jamestown Limited,U.S. House,1,REP,"Gerry W. Leonard, Jr.*",0,0,0,0
+Jamestown Limited,U.S. House,1,REP,Terri Flynn,0,0,0,0
+Lincoln,U.S. House,1,DEM,Allen R. Waters,33,18,1,14
+Lincoln,U.S. House,1,DEM,Ana Quezada,5,5,0,0
+Lincoln,U.S. House,1,DEM,Donald R. Carlson,30,5,9,16
+Lincoln,U.S. House,1,DEM,Gabriel Amo,629,475,45,109
+Lincoln,U.S. House,1,DEM,J. Aaron Regunberg,440,307,39,94
+Lincoln,U.S. House,1,DEM,John Goncalves,32,26,2,4
+Lincoln,U.S. House,1,DEM,Sabina Matos,117,62,24,31
+Lincoln,U.S. House,1,DEM,Sandra C. Cano,224,162,20,42
+Lincoln,U.S. House,1,DEM,Spencer Dickinson,27,17,1,9
+Lincoln,U.S. House,1,DEM,Stephanie Beaute,26,16,4,6
+Lincoln,U.S. House,1,DEM,Stephen M. Casey,204,148,6,50
+Lincoln,U.S. House,1,DEM,Walter Berbrick,58,48,1,9
+Lincoln,U.S. House,1,REP,"Gerry W. Leonard, Jr.*",211,161,11,39
+Lincoln,U.S. House,1,REP,Terri Flynn,65,46,3,16
+Lincoln Limited,U.S. House,1,DEM,Allen R. Waters,0,0,0,0
+Lincoln Limited,U.S. House,1,DEM,Ana Quezada,0,0,0,0
+Lincoln Limited,U.S. House,1,DEM,Donald R. Carlson,0,0,0,0
+Lincoln Limited,U.S. House,1,DEM,Gabriel Amo,0,0,0,0
+Lincoln Limited,U.S. House,1,DEM,J. Aaron Regunberg,0,0,0,0
+Lincoln Limited,U.S. House,1,DEM,John Goncalves,0,0,0,0
+Lincoln Limited,U.S. House,1,DEM,Sabina Matos,0,0,0,0
+Lincoln Limited,U.S. House,1,DEM,Sandra C. Cano,0,0,0,0
+Lincoln Limited,U.S. House,1,DEM,Spencer Dickinson,0,0,0,0
+Lincoln Limited,U.S. House,1,DEM,Stephanie Beaute,0,0,0,0
+Lincoln Limited,U.S. House,1,DEM,Stephen M. Casey,0,0,0,0
+Lincoln Limited,U.S. House,1,DEM,Walter Berbrick,0,0,0,0
+Lincoln Limited,U.S. House,1,REP,"Gerry W. Leonard, Jr.*",0,0,0,0
+Lincoln Limited,U.S. House,1,REP,Terri Flynn,0,0,0,0
+Little Compton,U.S. House,1,DEM,Allen R. Waters,4,1,0,3
+Little Compton,U.S. House,1,DEM,Ana Quezada,2,2,0,0
+Little Compton,U.S. House,1,DEM,Donald R. Carlson,9,3,2,4
+Little Compton,U.S. House,1,DEM,Gabriel Amo,207,118,16,73
+Little Compton,U.S. House,1,DEM,J. Aaron Regunberg,118,63,13,42
+Little Compton,U.S. House,1,DEM,John Goncalves,5,4,0,1
+Little Compton,U.S. House,1,DEM,Sabina Matos,18,8,3,7
+Little Compton,U.S. House,1,DEM,Sandra C. Cano,22,13,4,5
+Little Compton,U.S. House,1,DEM,Spencer Dickinson,4,3,0,1
+Little Compton,U.S. House,1,DEM,Stephanie Beaute,6,4,0,2
+Little Compton,U.S. House,1,DEM,Stephen M. Casey,11,10,0,1
+Little Compton,U.S. House,1,DEM,Walter Berbrick,7,6,0,1
+Little Compton,U.S. House,1,REP,"Gerry W. Leonard, Jr.*",76,48,5,23
+Little Compton,U.S. House,1,REP,Terri Flynn,6,5,0,1
+Little Compton Limited,U.S. House,1,DEM,Allen R. Waters,0,0,0,0
+Little Compton Limited,U.S. House,1,DEM,Ana Quezada,0,0,0,0
+Little Compton Limited,U.S. House,1,DEM,Donald R. Carlson,0,0,0,0
+Little Compton Limited,U.S. House,1,DEM,Gabriel Amo,0,0,0,0
+Little Compton Limited,U.S. House,1,DEM,J. Aaron Regunberg,0,0,0,0
+Little Compton Limited,U.S. House,1,DEM,John Goncalves,0,0,0,0
+Little Compton Limited,U.S. House,1,DEM,Sabina Matos,0,0,0,0
+Little Compton Limited,U.S. House,1,DEM,Sandra C. Cano,0,0,0,0
+Little Compton Limited,U.S. House,1,DEM,Spencer Dickinson,0,0,0,0
+Little Compton Limited,U.S. House,1,DEM,Stephanie Beaute,0,0,0,0
+Little Compton Limited,U.S. House,1,DEM,Stephen M. Casey,0,0,0,0
+Little Compton Limited,U.S. House,1,DEM,Walter Berbrick,0,0,0,0
+Little Compton Limited,U.S. House,1,REP,"Gerry W. Leonard, Jr.*",0,0,0,0
+Little Compton Limited,U.S. House,1,REP,Terri Flynn,0,0,0,0
+Middletown,U.S. House,1,DEM,Allen R. Waters,14,9,0,5
+Middletown,U.S. House,1,DEM,Ana Quezada,4,3,1,0
+Middletown,U.S. House,1,DEM,Donald R. Carlson,45,3,16,26
+Middletown,U.S. House,1,DEM,Gabriel Amo,386,240,45,101
+Middletown,U.S. House,1,DEM,J. Aaron Regunberg,271,148,48,75
+Middletown,U.S. House,1,DEM,John Goncalves,17,12,1,4
+Middletown,U.S. House,1,DEM,Sabina Matos,75,32,27,16
+Middletown,U.S. House,1,DEM,Sandra C. Cano,169,97,20,52
+Middletown,U.S. House,1,DEM,Spencer Dickinson,8,5,1,2
+Middletown,U.S. House,1,DEM,Stephanie Beaute,19,11,7,1
+Middletown,U.S. House,1,DEM,Stephen M. Casey,42,23,3,16
+Middletown,U.S. House,1,DEM,Walter Berbrick,131,69,21,41
+Middletown,U.S. House,1,REP,"Gerry W. Leonard, Jr.*",144,97,20,27
+Middletown,U.S. House,1,REP,Terri Flynn,105,66,13,26
+Middletown Limited,U.S. House,1,DEM,Allen R. Waters,0,0,0,0
+Middletown Limited,U.S. House,1,DEM,Ana Quezada,0,0,0,0
+Middletown Limited,U.S. House,1,DEM,Donald R. Carlson,0,0,0,0
+Middletown Limited,U.S. House,1,DEM,Gabriel Amo,0,0,0,0
+Middletown Limited,U.S. House,1,DEM,J. Aaron Regunberg,0,0,0,0
+Middletown Limited,U.S. House,1,DEM,John Goncalves,0,0,0,0
+Middletown Limited,U.S. House,1,DEM,Sabina Matos,0,0,0,0
+Middletown Limited,U.S. House,1,DEM,Sandra C. Cano,0,0,0,0
+Middletown Limited,U.S. House,1,DEM,Spencer Dickinson,0,0,0,0
+Middletown Limited,U.S. House,1,DEM,Stephanie Beaute,1,1,0,0
+Middletown Limited,U.S. House,1,DEM,Stephen M. Casey,0,0,0,0
+Middletown Limited,U.S. House,1,DEM,Walter Berbrick,0,0,0,0
+Middletown Limited,U.S. House,1,REP,"Gerry W. Leonard, Jr.*",0,0,0,0
+Middletown Limited,U.S. House,1,REP,Terri Flynn,0,0,0,0
+Newport,U.S. House,1,DEM,Allen R. Waters,16,11,0,5
+Newport,U.S. House,1,DEM,Ana Quezada,2,2,0,0
+Newport,U.S. House,1,DEM,Donald R. Carlson,38,4,20,14
+Newport,U.S. House,1,DEM,Gabriel Amo,809,553,79,177
+Newport,U.S. House,1,DEM,J. Aaron Regunberg,479,287,55,137
+Newport,U.S. House,1,DEM,John Goncalves,14,4,4,6
+Newport,U.S. House,1,DEM,Sabina Matos,118,68,17,33
+Newport,U.S. House,1,DEM,Sandra C. Cano,240,136,21,83
+Newport,U.S. House,1,DEM,Spencer Dickinson,13,9,1,3
+Newport,U.S. House,1,DEM,Stephanie Beaute,20,10,6,4
+Newport,U.S. House,1,DEM,Stephen M. Casey,35,23,4,8
+Newport,U.S. House,1,DEM,Walter Berbrick,118,75,12,31
+Newport,U.S. House,1,REP,"Gerry W. Leonard, Jr.*",110,75,11,24
+Newport,U.S. House,1,REP,Terri Flynn,71,50,8,13
+Newport Limited,U.S. House,1,DEM,Allen R. Waters,0,0,0,0
+Newport Limited,U.S. House,1,DEM,Ana Quezada,0,0,0,0
+Newport Limited,U.S. House,1,DEM,Donald R. Carlson,0,0,0,0
+Newport Limited,U.S. House,1,DEM,Gabriel Amo,0,0,0,0
+Newport Limited,U.S. House,1,DEM,J. Aaron Regunberg,0,0,0,0
+Newport Limited,U.S. House,1,DEM,John Goncalves,0,0,0,0
+Newport Limited,U.S. House,1,DEM,Sabina Matos,0,0,0,0
+Newport Limited,U.S. House,1,DEM,Sandra C. Cano,0,0,0,0
+Newport Limited,U.S. House,1,DEM,Spencer Dickinson,0,0,0,0
+Newport Limited,U.S. House,1,DEM,Stephanie Beaute,0,0,0,0
+Newport Limited,U.S. House,1,DEM,Stephen M. Casey,0,0,0,0
+Newport Limited,U.S. House,1,DEM,Walter Berbrick,0,0,0,0
+Newport Limited,U.S. House,1,REP,"Gerry W. Leonard, Jr.*",0,0,0,0
+Newport Limited,U.S. House,1,REP,Terri Flynn,0,0,0,0
+North Providence,U.S. House,1,DEM,Allen R. Waters,34,27,3,4
+North Providence,U.S. House,1,DEM,Ana Quezada,31,18,9,4
+North Providence,U.S. House,1,DEM,Donald R. Carlson,47,6,24,17
+North Providence,U.S. House,1,DEM,Gabriel Amo,641,423,89,129
+North Providence,U.S. House,1,DEM,J. Aaron Regunberg,550,339,96,115
+North Providence,U.S. House,1,DEM,John Goncalves,34,22,6,6
+North Providence,U.S. House,1,DEM,Sabina Matos,206,119,45,42
+North Providence,U.S. House,1,DEM,Sandra C. Cano,428,282,68,78
+North Providence,U.S. House,1,DEM,Spencer Dickinson,41,27,7,7
+North Providence,U.S. House,1,DEM,Stephanie Beaute,32,21,4,7
+North Providence,U.S. House,1,DEM,Stephen M. Casey,196,154,12,30
+North Providence,U.S. House,1,DEM,Walter Berbrick,90,66,9,15
+North Providence,U.S. House,1,REP,"Gerry W. Leonard, Jr.*",111,90,4,17
+North Providence,U.S. House,1,REP,Terri Flynn,37,29,3,5
+North Providence Limited,U.S. House,1,DEM,Allen R. Waters,0,0,0,0
+North Providence Limited,U.S. House,1,DEM,Ana Quezada,0,0,0,0
+North Providence Limited,U.S. House,1,DEM,Donald R. Carlson,0,0,0,0
+North Providence Limited,U.S. House,1,DEM,Gabriel Amo,0,0,0,0
+North Providence Limited,U.S. House,1,DEM,J. Aaron Regunberg,0,0,0,0
+North Providence Limited,U.S. House,1,DEM,John Goncalves,0,0,0,0
+North Providence Limited,U.S. House,1,DEM,Sabina Matos,0,0,0,0
+North Providence Limited,U.S. House,1,DEM,Sandra C. Cano,0,0,0,0
+North Providence Limited,U.S. House,1,DEM,Spencer Dickinson,0,0,0,0
+North Providence Limited,U.S. House,1,DEM,Stephanie Beaute,0,0,0,0
+North Providence Limited,U.S. House,1,DEM,Stephen M. Casey,0,0,0,0
+North Providence Limited,U.S. House,1,DEM,Walter Berbrick,0,0,0,0
+North Providence Limited,U.S. House,1,REP,"Gerry W. Leonard, Jr.*",0,0,0,0
+North Providence Limited,U.S. House,1,REP,Terri Flynn,0,0,0,0
+North Smithfield,U.S. House,1,DEM,Allen R. Waters,12,11,0,1
+North Smithfield,U.S. House,1,DEM,Ana Quezada,0,0,0,0
+North Smithfield,U.S. House,1,DEM,Donald R. Carlson,14,2,9,3
+North Smithfield,U.S. House,1,DEM,Gabriel Amo,221,156,28,37
+North Smithfield,U.S. House,1,DEM,J. Aaron Regunberg,165,112,23,30
+North Smithfield,U.S. House,1,DEM,John Goncalves,21,16,4,1
+North Smithfield,U.S. House,1,DEM,Sabina Matos,52,35,10,7
+North Smithfield,U.S. House,1,DEM,Sandra C. Cano,60,43,6,11
+North Smithfield,U.S. House,1,DEM,Spencer Dickinson,16,14,2,0
+North Smithfield,U.S. House,1,DEM,Stephanie Beaute,7,6,1,0
+North Smithfield,U.S. House,1,DEM,Stephen M. Casey,153,116,4,33
+North Smithfield,U.S. House,1,DEM,Walter Berbrick,28,25,3,0
+North Smithfield,U.S. House,1,REP,"Gerry W. Leonard, Jr.*",160,109,8,43
+North Smithfield,U.S. House,1,REP,Terri Flynn,47,30,9,8
+North Smithfield Limited,U.S. House,1,DEM,Allen R. Waters,0,0,0,0
+North Smithfield Limited,U.S. House,1,DEM,Ana Quezada,0,0,0,0
+North Smithfield Limited,U.S. House,1,DEM,Donald R. Carlson,0,0,0,0
+North Smithfield Limited,U.S. House,1,DEM,Gabriel Amo,0,0,0,0
+North Smithfield Limited,U.S. House,1,DEM,J. Aaron Regunberg,0,0,0,0
+North Smithfield Limited,U.S. House,1,DEM,John Goncalves,0,0,0,0
+North Smithfield Limited,U.S. House,1,DEM,Sabina Matos,0,0,0,0
+North Smithfield Limited,U.S. House,1,DEM,Sandra C. Cano,0,0,0,0
+North Smithfield Limited,U.S. House,1,DEM,Spencer Dickinson,0,0,0,0
+North Smithfield Limited,U.S. House,1,DEM,Stephanie Beaute,0,0,0,0
+North Smithfield Limited,U.S. House,1,DEM,Stephen M. Casey,0,0,0,0
+North Smithfield Limited,U.S. House,1,DEM,Walter Berbrick,0,0,0,0
+North Smithfield Limited,U.S. House,1,REP,"Gerry W. Leonard, Jr.*",0,0,0,0
+North Smithfield Limited,U.S. House,1,REP,Terri Flynn,0,0,0,0
+Pawtucket,U.S. House,1,DEM,Allen R. Waters,26,21,3,2
+Pawtucket,U.S. House,1,DEM,Ana Quezada,69,25,31,13
+Pawtucket,U.S. House,1,DEM,Donald R. Carlson,54,16,30,8
+Pawtucket,U.S. House,1,DEM,Gabriel Amo,1140,834,149,157
+Pawtucket,U.S. House,1,DEM,J. Aaron Regunberg,857,604,150,103
+Pawtucket,U.S. House,1,DEM,John Goncalves,86,65,12,9
+Pawtucket,U.S. House,1,DEM,Sabina Matos,321,193,61,67
+Pawtucket,U.S. House,1,DEM,Sandra C. Cano,1117,727,227,163
+Pawtucket,U.S. House,1,DEM,Spencer Dickinson,35,21,8,6
+Pawtucket,U.S. House,1,DEM,Stephanie Beaute,42,26,9,7
+Pawtucket,U.S. House,1,DEM,Stephen M. Casey,139,107,16,16
+Pawtucket,U.S. House,1,DEM,Walter Berbrick,103,67,17,19
+Pawtucket,U.S. House,1,REP,"Gerry W. Leonard, Jr.*",217,171,22,24
+Pawtucket,U.S. House,1,REP,Terri Flynn,64,49,9,6
+Pawtucket Limited,U.S. House,1,DEM,Allen R. Waters,0,0,0,0
+Pawtucket Limited,U.S. House,1,DEM,Ana Quezada,0,0,0,0
+Pawtucket Limited,U.S. House,1,DEM,Donald R. Carlson,0,0,0,0
+Pawtucket Limited,U.S. House,1,DEM,Gabriel Amo,0,0,0,0
+Pawtucket Limited,U.S. House,1,DEM,J. Aaron Regunberg,0,0,0,0
+Pawtucket Limited,U.S. House,1,DEM,John Goncalves,0,0,0,0
+Pawtucket Limited,U.S. House,1,DEM,Sabina Matos,0,0,0,0
+Pawtucket Limited,U.S. House,1,DEM,Sandra C. Cano,0,0,0,0
+Pawtucket Limited,U.S. House,1,DEM,Spencer Dickinson,0,0,0,0
+Pawtucket Limited,U.S. House,1,DEM,Stephanie Beaute,0,0,0,0
+Pawtucket Limited,U.S. House,1,DEM,Stephen M. Casey,0,0,0,0
+Pawtucket Limited,U.S. House,1,DEM,Walter Berbrick,0,0,0,0
+Pawtucket Limited,U.S. House,1,REP,"Gerry W. Leonard, Jr.*",0,0,0,0
+Pawtucket Limited,U.S. House,1,REP,Terri Flynn,0,0,0,0
+Portsmouth,U.S. House,1,DEM,Allen R. Waters,42,27,1,14
+Portsmouth,U.S. House,1,DEM,Ana Quezada,4,3,1,0
+Portsmouth,U.S. House,1,DEM,Donald R. Carlson,25,2,10,13
+Portsmouth,U.S. House,1,DEM,Gabriel Amo,544,348,60,136
+Portsmouth,U.S. House,1,DEM,J. Aaron Regunberg,528,294,74,160
+Portsmouth,U.S. House,1,DEM,John Goncalves,15,10,3,2
+Portsmouth,U.S. House,1,DEM,Sabina Matos,96,36,23,37
+Portsmouth,U.S. House,1,DEM,Sandra C. Cano,169,87,24,58
+Portsmouth,U.S. House,1,DEM,Spencer Dickinson,10,2,1,7
+Portsmouth,U.S. House,1,DEM,Stephanie Beaute,16,7,2,7
+Portsmouth,U.S. House,1,DEM,Stephen M. Casey,62,46,2,14
+Portsmouth,U.S. House,1,DEM,Walter Berbrick,154,97,10,47
+Portsmouth,U.S. House,1,REP,"Gerry W. Leonard, Jr.*",211,146,12,53
+Portsmouth,U.S. House,1,REP,Terri Flynn,107,59,10,38
+Portsmouth Limited,U.S. House,1,DEM,Allen R. Waters,0,0,0,0
+Portsmouth Limited,U.S. House,1,DEM,Ana Quezada,0,0,0,0
+Portsmouth Limited,U.S. House,1,DEM,Donald R. Carlson,0,0,0,0
+Portsmouth Limited,U.S. House,1,DEM,Gabriel Amo,0,0,0,0
+Portsmouth Limited,U.S. House,1,DEM,J. Aaron Regunberg,0,0,0,0
+Portsmouth Limited,U.S. House,1,DEM,John Goncalves,0,0,0,0
+Portsmouth Limited,U.S. House,1,DEM,Sabina Matos,0,0,0,0
+Portsmouth Limited,U.S. House,1,DEM,Sandra C. Cano,0,0,0,0
+Portsmouth Limited,U.S. House,1,DEM,Spencer Dickinson,0,0,0,0
+Portsmouth Limited,U.S. House,1,DEM,Stephanie Beaute,0,0,0,0
+Portsmouth Limited,U.S. House,1,DEM,Stephen M. Casey,0,0,0,0
+Portsmouth Limited,U.S. House,1,DEM,Walter Berbrick,0,0,0,0
+Portsmouth Limited,U.S. House,1,REP,"Gerry W. Leonard, Jr.*",0,0,0,0
+Portsmouth Limited,U.S. House,1,REP,Terri Flynn,0,0,0,0
+Providence,State Senate,,DEM,Jacob Bissaillon*,752,474,248,30
+Providence,State Senate,,DEM,Mario Mancebo,45,28,12,5
+Providence,State Senate,,DEM,Michelle Rivera,268,199,59,10
+Providence,State Senate,,DEM,Nathan Biah,344,275,55,14
+Providence,State Senate,,REP,Niyoka Powell*,18,15,3,0
+Providence,U.S. House,1,DEM,Allen R. Waters,48,31,15,2
+Providence,U.S. House,1,DEM,Ana Quezada,1090,390,654,46
+Providence,U.S. House,1,DEM,Donald R. Carlson,64,24,29,11
+Providence,U.S. House,1,DEM,Gabriel Amo,2128,1730,241,157
+Providence,U.S. House,1,DEM,J. Aaron Regunberg,2461,1963,289,209
+Providence,U.S. House,1,DEM,John Goncalves,544,440,75,29
+Providence,U.S. House,1,DEM,Sabina Matos,942,689,180,73
+Providence,U.S. House,1,DEM,Sandra C. Cano,905,707,130,68
+Providence,U.S. House,1,DEM,Spencer Dickinson,17,14,2,1
+Providence,U.S. House,1,DEM,Stephanie Beaute,83,56,17,10
+Providence,U.S. House,1,DEM,Stephen M. Casey,66,59,5,2
+Providence,U.S. House,1,DEM,Walter Berbrick,90,72,12,6
+Providence,U.S. House,1,REP,"Gerry W. Leonard, Jr.*",83,77,6,0
+Providence,U.S. House,1,REP,Terri Flynn,29,26,3,0
+Providence Limited 1,U.S. House,1,DEM,Allen R. Waters,0,0,0,0
+Providence Limited 1,U.S. House,1,DEM,Ana Quezada,0,0,0,0
+Providence Limited 1,U.S. House,1,DEM,Donald R. Carlson,0,0,0,0
+Providence Limited 1,U.S. House,1,DEM,Gabriel Amo,0,0,0,0
+Providence Limited 1,U.S. House,1,DEM,J. Aaron Regunberg,0,0,0,0
+Providence Limited 1,U.S. House,1,DEM,John Goncalves,0,0,0,0
+Providence Limited 1,U.S. House,1,DEM,Sabina Matos,0,0,0,0
+Providence Limited 1,U.S. House,1,DEM,Sandra C. Cano,0,0,0,0
+Providence Limited 1,U.S. House,1,DEM,Spencer Dickinson,0,0,0,0
+Providence Limited 1,U.S. House,1,DEM,Stephanie Beaute,0,0,0,0
+Providence Limited 1,U.S. House,1,DEM,Stephen M. Casey,0,0,0,0
+Providence Limited 1,U.S. House,1,DEM,Walter Berbrick,0,0,0,0
+Providence Limited 1,U.S. House,1,REP,"Gerry W. Leonard, Jr.*",0,0,0,0
+Providence Limited 1,U.S. House,1,REP,Terri Flynn,0,0,0,0
+Smithfield,U.S. House,1,DEM,Allen R. Waters,23,22,0,1
+Smithfield,U.S. House,1,DEM,Ana Quezada,12,6,6,0
+Smithfield,U.S. House,1,DEM,Donald R. Carlson,26,5,17,4
+Smithfield,U.S. House,1,DEM,Gabriel Amo,429,296,74,59
+Smithfield,U.S. House,1,DEM,J. Aaron Regunberg,341,220,52,69
+Smithfield,U.S. House,1,DEM,John Goncalves,23,17,5,1
+Smithfield,U.S. House,1,DEM,Sabina Matos,84,40,34,10
+Smithfield,U.S. House,1,DEM,Sandra C. Cano,171,127,27,17
+Smithfield,U.S. House,1,DEM,Spencer Dickinson,33,24,4,5
+Smithfield,U.S. House,1,DEM,Stephanie Beaute,16,11,2,3
+Smithfield,U.S. House,1,DEM,Stephen M. Casey,161,125,8,28
+Smithfield,U.S. House,1,DEM,Walter Berbrick,72,48,12,12
+Smithfield,U.S. House,1,REP,"Gerry W. Leonard, Jr.*",212,163,21,28
+Smithfield,U.S. House,1,REP,Terri Flynn,40,25,10,5
+Smithfield Limited,U.S. House,1,DEM,Allen R. Waters,0,0,0,0
+Smithfield Limited,U.S. House,1,DEM,Ana Quezada,0,0,0,0
+Smithfield Limited,U.S. House,1,DEM,Donald R. Carlson,0,0,0,0
+Smithfield Limited,U.S. House,1,DEM,Gabriel Amo,0,0,0,0
+Smithfield Limited,U.S. House,1,DEM,J. Aaron Regunberg,0,0,0,0
+Smithfield Limited,U.S. House,1,DEM,John Goncalves,0,0,0,0
+Smithfield Limited,U.S. House,1,DEM,Sabina Matos,0,0,0,0
+Smithfield Limited,U.S. House,1,DEM,Sandra C. Cano,0,0,0,0
+Smithfield Limited,U.S. House,1,DEM,Spencer Dickinson,0,0,0,0
+Smithfield Limited,U.S. House,1,DEM,Stephanie Beaute,0,0,0,0
+Smithfield Limited,U.S. House,1,DEM,Stephen M. Casey,0,0,0,0
+Smithfield Limited,U.S. House,1,DEM,Walter Berbrick,0,0,0,0
+Smithfield Limited,U.S. House,1,REP,"Gerry W. Leonard, Jr.*",0,0,0,0
+Smithfield Limited,U.S. House,1,REP,Terri Flynn,0,0,0,0
+Tiverton,U.S. House,1,DEM,Allen R. Waters,21,12,0,9
+Tiverton,U.S. House,1,DEM,Ana Quezada,0,0,0,0
+Tiverton,U.S. House,1,DEM,Donald R. Carlson,14,2,10,2
+Tiverton,U.S. House,1,DEM,Gabriel Amo,380,268,26,86
+Tiverton,U.S. House,1,DEM,J. Aaron Regunberg,266,179,33,54
+Tiverton,U.S. House,1,DEM,John Goncalves,18,16,1,1
+Tiverton,U.S. House,1,DEM,Sabina Matos,77,47,16,14
+Tiverton,U.S. House,1,DEM,Sandra C. Cano,73,45,8,20
+Tiverton,U.S. House,1,DEM,Spencer Dickinson,16,9,3,4
+Tiverton,U.S. House,1,DEM,Stephanie Beaute,11,5,3,3
+Tiverton,U.S. House,1,DEM,Stephen M. Casey,28,19,0,9
+Tiverton,U.S. House,1,DEM,Walter Berbrick,59,43,5,11
+Tiverton,U.S. House,1,REP,"Gerry W. Leonard, Jr.*",191,137,11,43
+Tiverton,U.S. House,1,REP,Terri Flynn,47,36,2,9
+Tiverton Limited,U.S. House,1,DEM,Allen R. Waters,0,0,0,0
+Tiverton Limited,U.S. House,1,DEM,Ana Quezada,0,0,0,0
+Tiverton Limited,U.S. House,1,DEM,Donald R. Carlson,0,0,0,0
+Tiverton Limited,U.S. House,1,DEM,Gabriel Amo,0,0,0,0
+Tiverton Limited,U.S. House,1,DEM,J. Aaron Regunberg,0,0,0,0
+Tiverton Limited,U.S. House,1,DEM,John Goncalves,0,0,0,0
+Tiverton Limited,U.S. House,1,DEM,Sabina Matos,0,0,0,0
+Tiverton Limited,U.S. House,1,DEM,Sandra C. Cano,0,0,0,0
+Tiverton Limited,U.S. House,1,DEM,Spencer Dickinson,0,0,0,0
+Tiverton Limited,U.S. House,1,DEM,Stephanie Beaute,0,0,0,0
+Tiverton Limited,U.S. House,1,DEM,Stephen M. Casey,0,0,0,0
+Tiverton Limited,U.S. House,1,DEM,Walter Berbrick,0,0,0,0
+Tiverton Limited,U.S. House,1,REP,"Gerry W. Leonard, Jr.*",0,0,0,0
+Tiverton Limited,U.S. House,1,REP,Terri Flynn,0,0,0,0
+Warren,U.S. House,1,DEM,Allen R. Waters,14,11,1,2
+Warren,U.S. House,1,DEM,Ana Quezada,6,3,1,2
+Warren,U.S. House,1,DEM,Donald R. Carlson,23,2,7,14
+Warren,U.S. House,1,DEM,Gabriel Amo,330,243,28,59
+Warren,U.S. House,1,DEM,J. Aaron Regunberg,294,186,36,72
+Warren,U.S. House,1,DEM,John Goncalves,28,13,4,11
+Warren,U.S. House,1,DEM,Sabina Matos,52,23,14,15
+Warren,U.S. House,1,DEM,Sandra C. Cano,92,64,13,15
+Warren,U.S. House,1,DEM,Spencer Dickinson,5,4,1,0
+Warren,U.S. House,1,DEM,Stephanie Beaute,8,3,2,3
+Warren,U.S. House,1,DEM,Stephen M. Casey,34,21,4,9
+Warren,U.S. House,1,DEM,Walter Berbrick,35,27,2,6
+Warren,U.S. House,1,REP,"Gerry W. Leonard, Jr.*",89,58,16,15
+Warren,U.S. House,1,REP,Terri Flynn,23,14,5,4
+Warren Limited,U.S. House,1,DEM,Allen R. Waters,0,0,0,0
+Warren Limited,U.S. House,1,DEM,Ana Quezada,0,0,0,0
+Warren Limited,U.S. House,1,DEM,Donald R. Carlson,0,0,0,0
+Warren Limited,U.S. House,1,DEM,Gabriel Amo,0,0,0,0
+Warren Limited,U.S. House,1,DEM,J. Aaron Regunberg,0,0,0,0
+Warren Limited,U.S. House,1,DEM,John Goncalves,0,0,0,0
+Warren Limited,U.S. House,1,DEM,Sabina Matos,0,0,0,0
+Warren Limited,U.S. House,1,DEM,Sandra C. Cano,0,0,0,0
+Warren Limited,U.S. House,1,DEM,Spencer Dickinson,0,0,0,0
+Warren Limited,U.S. House,1,DEM,Stephanie Beaute,0,0,0,0
+Warren Limited,U.S. House,1,DEM,Stephen M. Casey,0,0,0,0
+Warren Limited,U.S. House,1,DEM,Walter Berbrick,0,0,0,0
+Warren Limited,U.S. House,1,REP,"Gerry W. Leonard, Jr.*",0,0,0,0
+Warren Limited,U.S. House,1,REP,Terri Flynn,0,0,0,0
+Woonsocket,U.S. House,1,DEM,Allen R. Waters,36,29,3,4
+Woonsocket,U.S. House,1,DEM,Ana Quezada,18,7,11,0
+Woonsocket,U.S. House,1,DEM,Donald R. Carlson,23,8,9,6
+Woonsocket,U.S. House,1,DEM,Gabriel Amo,284,223,35,26
+Woonsocket,U.S. House,1,DEM,J. Aaron Regunberg,269,210,38,21
+Woonsocket,U.S. House,1,DEM,John Goncalves,22,14,4,4
+Woonsocket,U.S. House,1,DEM,Sabina Matos,154,102,42,10
+Woonsocket,U.S. House,1,DEM,Sandra C. Cano,142,105,23,14
+Woonsocket,U.S. House,1,DEM,Spencer Dickinson,12,7,4,1
+Woonsocket,U.S. House,1,DEM,Stephanie Beaute,17,12,4,1
+Woonsocket,U.S. House,1,DEM,Stephen M. Casey,601,509,44,48
+Woonsocket,U.S. House,1,DEM,Walter Berbrick,22,17,5,0
+Woonsocket,U.S. House,1,REP,"Gerry W. Leonard, Jr.*",220,192,12,16
+Woonsocket,U.S. House,1,REP,Terri Flynn,67,58,7,2
+Woonsocket Limited,U.S. House,1,DEM,Allen R. Waters,0,0,0,0
+Woonsocket Limited,U.S. House,1,DEM,Ana Quezada,0,0,0,0
+Woonsocket Limited,U.S. House,1,DEM,Donald R. Carlson,0,0,0,0
+Woonsocket Limited,U.S. House,1,DEM,Gabriel Amo,0,0,0,0
+Woonsocket Limited,U.S. House,1,DEM,J. Aaron Regunberg,0,0,0,0
+Woonsocket Limited,U.S. House,1,DEM,John Goncalves,0,0,0,0
+Woonsocket Limited,U.S. House,1,DEM,Sabina Matos,0,0,0,0
+Woonsocket Limited,U.S. House,1,DEM,Sandra C. Cano,0,0,0,0
+Woonsocket Limited,U.S. House,1,DEM,Spencer Dickinson,0,0,0,0
+Woonsocket Limited,U.S. House,1,DEM,Stephanie Beaute,0,0,0,0
+Woonsocket Limited,U.S. House,1,DEM,Stephen M. Casey,0,0,0,0
+Woonsocket Limited,U.S. House,1,DEM,Walter Berbrick,0,0,0,0
+Woonsocket Limited,U.S. House,1,REP,"Gerry W. Leonard, Jr.*",0,0,0,0
+Woonsocket Limited,U.S. House,1,REP,Terri Flynn,0,0,0,0

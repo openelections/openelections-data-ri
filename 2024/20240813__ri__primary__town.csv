@@ -1,0 +1,990 @@
+county,office,district,party,candidate,votes,election_day,mail,early_voting
+Barrington,State House,66,DEM,Jennifer Smith Boylan*,709,423,70,216
+Barrington,State House,66,REP,Janine A. Wolf*,85,52,8,25
+Barrington,State House,67,DEM,Jason P. Knight*,662,428,51,183
+Barrington,State Senate,32,DEM,Pamela J. Lauria*,1359,840,121,398
+Barrington,Town Council Town of Barrington,,DEM,Anthony P. Arico,366,239,28,99
+Barrington,Town Council Town of Barrington,,DEM,Jordan M. Jancosek*,1113,683,99,331
+Barrington,Town Council Town of Barrington,,DEM,Kerry G. O'Neill*,1214,742,109,363
+Barrington,Town Council Town of Barrington,,DEM,Liana M. Cassar*,1241,748,123,370
+Barrington,U.S. House,1,DEM,Gabriel Amo*,1424,881,124,419
+Barrington,U.S. House,1,REP,Allen R. Waters,186,117,20,49
+Barrington,U.S. Senate,,DEM,Michael J. Costa,138,105,7,26
+Barrington,U.S. Senate,,DEM,Sheldon Whitehouse*,1385,846,128,411
+Barrington,U.S. Senate,,REP,Patricia Morgan,133,79,15,39
+Barrington,U.S. Senate,,REP,Raymond T. McKay,72,45,7,20
+Barrington Limited,U.S. House,1,DEM,Gabriel Amo*,0,0,0,0
+Barrington Limited,U.S. House,1,REP,Allen R. Waters,0,0,0,0
+Barrington Limited,U.S. Senate,,DEM,Michael J. Costa,0,0,0,0
+Barrington Limited,U.S. Senate,,DEM,Sheldon Whitehouse*,0,0,0,0
+Barrington Limited,U.S. Senate,,REP,Patricia Morgan,0,0,0,0
+Barrington Limited,U.S. Senate,,REP,Raymond T. McKay,0,0,0,0
+Bristol,State House,68,DEM,June S. Speakman*,443,270,86,87
+Bristol,State House,69,DEM,Susan Ann Donovan*,439,279,96,64
+Bristol,State Senate,10,DEM,"Walter S. Felag, Jr.*",279,187,70,22
+Bristol,State Senate,10,REP,Allyn E. Meyers*,87,59,19,9
+Bristol,State Senate,11,DEM,Linda L. Ujifusa*,278,161,53,64
+Bristol,State Senate,32,DEM,Pamela J. Lauria*,303,183,52,68
+Bristol,U.S. House,1,DEM,Gabriel Amo*,933,576,190,167
+Bristol,U.S. House,1,REP,Allen R. Waters,243,184,29,30
+Bristol,U.S. Senate,,DEM,Michael J. Costa,140,110,14,16
+Bristol,U.S. Senate,,DEM,Sheldon Whitehouse*,902,550,185,167
+Bristol,U.S. Senate,,REP,Patricia Morgan,221,165,23,33
+Bristol,U.S. Senate,,REP,Raymond T. McKay,65,48,12,5
+Bristol Limited,U.S. House,1,DEM,Gabriel Amo*,0,0,0,0
+Bristol Limited,U.S. House,1,REP,Allen R. Waters,0,0,0,0
+Bristol Limited,U.S. Senate,,DEM,Michael J. Costa,0,0,0,0
+Bristol Limited,U.S. Senate,,DEM,Sheldon Whitehouse*,0,0,0,0
+Bristol Limited,U.S. Senate,,REP,Patricia Morgan,0,0,0,0
+Bristol Limited,U.S. Senate,,REP,Raymond T. McKay,0,0,0,0
+Burrillville,State House,47,DEM,Paul A. Roselli,236,131,77,28
+Burrillville,State House,47,REP,David J. Place*,216,151,25,40
+Burrillville,State House,48,REP,Brian C. Newberry*,64,53,3,8
+Burrillville,State Senate,23,DEM,Lewis J. Pryeor,276,162,84,30
+Burrillville,State Senate,23,REP,Jessica de la Cruz*,280,207,27,46
+Burrillville,U.S. House,2,DEM,Seth Magaziner*,311,179,98,34
+Burrillville,U.S. House,2,REP,Steven Corvi*,254,185,26,43
+Burrillville,U.S. Senate,,DEM,Michael J. Costa,47,38,5,4
+Burrillville,U.S. Senate,,DEM,Sheldon Whitehouse*,288,162,94,32
+Burrillville,U.S. Senate,,REP,Patricia Morgan,175,129,15,31
+Burrillville,U.S. Senate,,REP,Raymond T. McKay,109,78,13,18
+Burrillville Limited,U.S. House,2,DEM,Seth Magaziner*,0,0,0,0
+Burrillville Limited,U.S. House,2,REP,Steven Corvi*,0,0,0,0
+Burrillville Limited,U.S. Senate,,DEM,Michael J. Costa,0,0,0,0
+Burrillville Limited,U.S. Senate,,DEM,Sheldon Whitehouse*,0,0,0,0
+Burrillville Limited,U.S. Senate,,REP,Patricia Morgan,0,0,0,0
+Burrillville Limited,U.S. Senate,,REP,Raymond T. McKay,0,0,0,0
+Central Falls,State House,56,DEM,Joshua J. Giraldo,153,113,25,15
+Central Falls,State House,57,DEM,Brandon T. Voas,78,56,9,13
+Central Falls,State House,57,DEM,Raiden Phoenix Witt,31,23,7,1
+Central Falls,State House,60,DEM,Karen Alzate*,10,6,4,0
+Central Falls,State Senate,16,DEM,Jonathon Acosta*,268,192,44,32
+Central Falls,U.S. House,1,DEM,Gabriel Amo*,272,198,44,30
+Central Falls,U.S. House,1,REP,Allen R. Waters,30,22,5,3
+Central Falls,U.S. Senate,,DEM,Michael J. Costa,74,55,14,5
+Central Falls,U.S. Senate,,DEM,Sheldon Whitehouse*,234,172,34,28
+Central Falls,U.S. Senate,,REP,Patricia Morgan,23,18,4,1
+Central Falls,U.S. Senate,,REP,Raymond T. McKay,14,10,2,2
+Central Falls Limited,U.S. House,1,DEM,Gabriel Amo*,0,0,0,0
+Central Falls Limited,U.S. House,1,REP,Allen R. Waters,0,0,0,0
+Central Falls Limited,U.S. Senate,,DEM,Michael J. Costa,0,0,0,0
+Central Falls Limited,U.S. Senate,,DEM,Sheldon Whitehouse*,0,0,0,0
+Central Falls Limited,U.S. Senate,,REP,Patricia Morgan,0,0,0,0
+Central Falls Limited,U.S. Senate,,REP,Raymond T. McKay,0,0,0,0
+Charlestown,State House,36,DEM,Tina L. Spears*,369,219,61,89
+Charlestown,State Senate,34,DEM,Stephen Moffitt*,171,109,23,39
+Charlestown,State Senate,34,REP,Elaine J. Morgan*,85,57,5,23
+Charlestown,State Senate,38,DEM,Victoria Gu*,184,102,35,47
+Charlestown,State Senate,38,REP,Westin J. Place*,85,48,18,19
+Charlestown,U.S. House,2,DEM,Seth Magaziner*,379,226,61,92
+Charlestown,U.S. House,2,REP,Steven Corvi*,156,96,22,38
+Charlestown,U.S. Senate,,DEM,Michael J. Costa,30,19,3,8
+Charlestown,U.S. Senate,,DEM,Sheldon Whitehouse*,376,227,61,88
+Charlestown,U.S. Senate,,REP,Patricia Morgan,134,85,17,32
+Charlestown,U.S. Senate,,REP,Raymond T. McKay,46,29,6,11
+Charlestown Limited,U.S. House,2,DEM,Seth Magaziner*,0,0,0,0
+Charlestown Limited,U.S. House,2,REP,Steven Corvi*,0,0,0,0
+Charlestown Limited,U.S. Senate,,DEM,Michael J. Costa,0,0,0,0
+Charlestown Limited,U.S. Senate,,DEM,Sheldon Whitehouse*,0,0,0,0
+Charlestown Limited,U.S. Senate,,REP,Patricia Morgan,0,0,0,0
+Charlestown Limited,U.S. Senate,,REP,Raymond T. McKay,0,0,0,0
+Coventry,State House,25,DEM,Thomas E. Noret*,66,57,8,1
+Coventry,State House,26,DEM,"Earl A. Read, III*",147,103,39,5
+Coventry,State House,26,REP,Jeffrey W. Fisher*,105,93,12,0
+Coventry,State House,27,DEM,Patricia A. Serpa*,89,69,17,3
+Coventry,State House,27,REP,Andrew N. Kowalski*,47,39,3,5
+Coventry,State House,28,DEM,Scott Guthrie*,356,273,62,21
+Coventry,State House,28,REP,George A. Nardone*,274,234,16,24
+Coventry,State House,29,REP,Sherry L. Roberts*,125,100,17,8
+Coventry,State House,40,DEM,Linda A. Nichols,46,40,3,3
+Coventry,State House,40,REP,Michael W. Chippendale*,29,28,1,0
+Coventry,State Senate,21,REP,Gordon Rogers*,180,150,13,17
+Coventry,State Senate,33,DEM,Leonidas P. Raptakis,676,480,155,41
+Coventry,State Senate,33,REP,James P. Pierson*,387,330,38,19
+Coventry,U.S. House,2,DEM,Seth Magaziner*,970,709,203,58
+Coventry,U.S. House,2,REP,Steven Corvi*,570,485,49,36
+Coventry,U.S. Senate,,DEM,Michael J. Costa,193,163,25,5
+Coventry,U.S. Senate,,DEM,Sheldon Whitehouse*,892,637,192,63
+Coventry,U.S. Senate,,REP,Patricia Morgan,511,444,37,30
+Coventry,U.S. Senate,,REP,Raymond T. McKay,201,162,23,16
+Coventry Limited,U.S. House,2,DEM,Seth Magaziner*,0,0,0,0
+Coventry Limited,U.S. House,2,REP,Steven Corvi*,0,0,0,0
+Coventry Limited,U.S. Senate,,DEM,Michael J. Costa,0,0,0,0
+Coventry Limited,U.S. Senate,,DEM,Sheldon Whitehouse*,0,0,0,0
+Coventry Limited,U.S. Senate,,REP,Patricia Morgan,0,0,0,0
+Coventry Limited,U.S. Senate,,REP,Raymond T. McKay,0,0,0,0
+Cranston,Rep Mayor City of Cranston,,REP,Barbara Ann Fenton Fung,2547,2173,120,254
+Cranston,Rep Mayor City of Cranston,,REP,Kenneth J. Hopkins*,3599,3009,129,461
+Cranston,State House,14,DEM,Charlene Lima*,368,235,97,36
+Cranston,State House,14,DEM,Giona A. Picheco,241,145,56,40
+Cranston,State House,15,DEM,Maria A. Bucci*,479,384,69,26
+Cranston,State House,15,REP,Christopher G. Paplauskas,1456,1246,49,161
+Cranston,State House,16,DEM,Brandon C. Potter*,792,560,99,133
+Cranston,State House,16,DEM,Joseph R. Graziano,245,169,21,55
+Cranston,State House,16,REP,Deborah J. Leong*,741,613,24,104
+Cranston,State House,17,DEM,Jacquelyn M. Baginski*,480,319,104,57
+Cranston,State House,18,DEM,Arthur Handy*,952,744,119,89
+Cranston,State House,19,DEM,Joseph McNamara*,749,599,59,91
+Cranston,State House,41,DEM,Shaina N. Smith*,123,98,17,8
+Cranston,State House,41,REP,Robert Quattrocchi*,481,425,22,34
+Cranston,State House,42,DEM,"Dennis D. Cardillo, Jr.",29,28,1,0
+Cranston,State House,42,DEM,"Edward T. Cardillo, Jr.*",42,28,9,5
+Cranston,State House,42,DEM,Kelsey K. Coletta,84,61,13,10
+Cranston,State House,42,REP,Richard R. Fascia*,212,176,11,25
+Cranston,State Senate,26,DEM,Todd M. Patalano*,1004,700,214,90
+Cranston,State Senate,26,REP,Jennifer L. Caputi*,1915,1645,70,200
+Cranston,State Senate,27,DEM,Hanna Gallo*,1292,914,204,174
+Cranston,State Senate,28,DEM,Bernice Morris,59,51,5,3
+Cranston,State Senate,28,DEM,Darrell A. Brown,706,574,46,86
+Cranston,State Senate,28,DEM,"John F. Croke, Jr.",223,184,12,27
+Cranston,State Senate,28,DEM,Lammis J. Vargas*,735,554,106,75
+Cranston,State Senate,28,DEM,Melissa Carden,464,341,57,66
+Cranston,State Senate,31,DEM,Matthew L. LaMountain*,106,70,17,19
+Cranston,State Senate,31,REP,Lisa Morse*,85,68,1,16
+Cranston,U.S. House,2,DEM,Seth Magaziner*,4474,3280,650,544
+Cranston,U.S. House,2,REP,Steven Corvi*,4362,3723,175,464
+Cranston,U.S. Senate,,DEM,Michael J. Costa,712,567,75,70
+Cranston,U.S. Senate,,DEM,Sheldon Whitehouse*,4227,3095,599,533
+Cranston,U.S. Senate,,REP,Patricia Morgan,3527,2955,143,429
+Cranston,U.S. Senate,,REP,Raymond T. McKay,2000,1729,70,201
+Cranston,Ward Committee Cranston Ward 2,2,DEM,Allan A. Callejas-Reyes,349,249,44,56
+Cranston,Ward Committee Cranston Ward 2,2,DEM,Connor Mathis*,442,318,53,71
+Cranston,Ward Committee Cranston Ward 2,2,DEM,Curtis R. Ponder*,412,289,50,73
+Cranston,Ward Committee Cranston Ward 2,2,DEM,Jesse L. Dooley*,483,339,60,84
+Cranston,Ward Committee Cranston Ward 2,2,DEM,Joseph R. Graziano*,492,359,54,79
+Cranston,Ward Committee Cranston Ward 2,2,DEM,Justin C. McCarthy*,433,315,56,62
+Cranston,Ward Committee Cranston Ward 2,2,DEM,Kristen E. Haroian*,728,517,81,130
+Cranston,Ward Committee Cranston Ward 2,2,DEM,Louis G. Rainone*,427,309,46,72
+Cranston,Ward Committee Cranston Ward 2,2,DEM,Matthew A. Souza,413,287,45,81
+Cranston,Ward Committee Cranston Ward 2,2,DEM,Paula Frances Caiozzo*,530,378,62,90
+Cranston Limited,U.S. House,2,DEM,Seth Magaziner*,0,0,0,0
+Cranston Limited,U.S. House,2,REP,Steven Corvi*,0,0,0,0
+Cranston Limited,U.S. Senate,,DEM,Michael J. Costa,0,0,0,0
+Cranston Limited,U.S. Senate,,DEM,Sheldon Whitehouse*,0,0,0,0
+Cranston Limited,U.S. Senate,,REP,Patricia Morgan,0,0,0,0
+Cranston Limited,U.S. Senate,,REP,Raymond T. McKay,0,0,0,0
+Cumberland,State House,45,DEM,Mia A. Ackerman*,553,424,78,51
+Cumberland,State House,51,DEM,Garrett S. Mancieri,34,31,1,2
+Cumberland,State House,51,DEM,Robert D. Phillips,26,22,4,0
+Cumberland,State House,52,DEM,Alex Daniel Marszalkowski*,929,698,138,93
+Cumberland,State House,57,DEM,Brandon T. Voas,379,294,48,37
+Cumberland,State House,57,DEM,Raiden Phoenix Witt,171,131,19,21
+Cumberland,State Senate,19,DEM,Ryan W. Pearson*,1331,1004,191,136
+Cumberland,State Senate,20,DEM,Brian J. Thompson*,338,250,60,28
+Cumberland,State Senate,20,DEM,Denis Joseph Collins,386,325,33,28
+Cumberland,State Senate,20,DEM,Marian Juskuv,44,29,7,8
+Cumberland,U.S. House,1,DEM,Gabriel Amo*,2031,1529,290,212
+Cumberland,U.S. House,1,REP,Allen R. Waters,467,396,32,39
+Cumberland,U.S. Senate,,DEM,Michael J. Costa,484,424,32,28
+Cumberland,U.S. Senate,,DEM,Sheldon Whitehouse*,1865,1369,293,203
+Cumberland,U.S. Senate,,REP,Patricia Morgan,307,262,21,24
+Cumberland,U.S. Senate,,REP,Raymond T. McKay,213,174,19,20
+Cumberland Limited,U.S. House,1,DEM,Gabriel Amo*,0,0,0,0
+Cumberland Limited,U.S. House,1,REP,Allen R. Waters,0,0,0,0
+Cumberland Limited,U.S. Senate,,DEM,Michael J. Costa,0,0,0,0
+Cumberland Limited,U.S. Senate,,DEM,Sheldon Whitehouse*,0,0,0,0
+Cumberland Limited,U.S. Senate,,REP,Patricia Morgan,0,0,0,0
+Cumberland Limited,U.S. Senate,,REP,Raymond T. McKay,0,0,0,0
+East Greenwich,State House,24,DEM,Evan Patrick Shanley*,68,37,24,7
+East Greenwich,State House,30,DEM,Justine Caldwell*,494,333,66,95
+East Greenwich,State Senate,35,DEM,Bridget G. Valverde*,564,373,89,102
+East Greenwich,U.S. House,2,DEM,Seth Magaziner*,599,388,104,107
+East Greenwich,U.S. House,2,REP,Steven Corvi*,137,103,18,16
+East Greenwich,U.S. Senate,,DEM,Michael J. Costa,57,47,6,4
+East Greenwich,U.S. Senate,,DEM,Sheldon Whitehouse*,586,372,105,109
+East Greenwich,U.S. Senate,,REP,Patricia Morgan,105,83,13,9
+East Greenwich,U.S. Senate,,REP,Raymond T. McKay,55,34,10,11
+East Greenwich Limited,U.S. House,2,DEM,Seth Magaziner*,0,0,0,0
+East Greenwich Limited,U.S. House,2,REP,Steven Corvi*,0,0,0,0
+East Greenwich Limited,U.S. Senate,,DEM,Michael J. Costa,0,0,0,0
+East Greenwich Limited,U.S. Senate,,DEM,Sheldon Whitehouse*,0,0,0,0
+East Greenwich Limited,U.S. Senate,,REP,Patricia Morgan,0,0,0,0
+East Greenwich Limited,U.S. Senate,,REP,Raymond T. McKay,0,0,0,0
+East Providence,State House,63,DEM,Katherine Sheena Kazarian*,1024,663,160,201
+East Providence,State House,64,DEM,Ashley L. Pereira,202,126,20,56
+East Providence,State House,64,DEM,Jenni Azanero Furtado*,525,319,88,118
+East Providence,State House,65,DEM,Matthew S. Dawson*,949,634,131,184
+East Providence,State House,66,DEM,Jennifer Smith Boylan*,288,181,61,46
+East Providence,State House,66,REP,Janine A. Wolf*,78,57,8,13
+East Providence,State Senate,14,DEM,Brian G. Coogan,512,356,45,111
+East Providence,State Senate,14,DEM,Valarie J. Lawson*,1558,942,267,349
+East Providence,State Senate,18,DEM,Robert Britto*,733,489,108,136
+East Providence,State Senate,32,DEM,Pamela J. Lauria*,384,261,71,52
+East Providence,U.S. House,1,DEM,Gabriel Amo*,2992,1906,476,610
+East Providence,U.S. House,1,REP,Allen R. Waters,465,329,36,100
+East Providence,U.S. Senate,,DEM,Michael J. Costa,531,377,46,108
+East Providence,U.S. Senate,,DEM,Sheldon Whitehouse*,2891,1803,521,567
+East Providence,U.S. Senate,,REP,Patricia Morgan,357,262,37,58
+East Providence,U.S. Senate,,REP,Raymond T. McKay,206,119,32,55
+East Providence Limited,U.S. House,1,DEM,Gabriel Amo*,0,0,0,0
+East Providence Limited,U.S. House,1,REP,Allen R. Waters,0,0,0,0
+East Providence Limited,U.S. Senate,,DEM,Michael J. Costa,0,0,0,0
+East Providence Limited,U.S. Senate,,DEM,Sheldon Whitehouse*,0,0,0,0
+East Providence Limited,U.S. Senate,,REP,Patricia Morgan,0,0,0,0
+East Providence Limited,U.S. Senate,,REP,Raymond T. McKay,0,0,0,0
+Exeter,Representative District Committee District 31,31,DEM,Daniel J. Burke*,24,13,4,7
+Exeter,Representative District Committee District 31,31,DEM,Dolores J. Burke*,28,17,4,7
+Exeter,Representative District Committee District 31,31,DEM,Julie A. Casimiro*,37,24,4,9
+Exeter,Representative District Committee District 31,31,DEM,Nathaniel I. Manock,12,9,0,3
+Exeter,Representative District Committee District 31,31,DEM,Ryan S. Lukowicz*,23,15,4,4
+Exeter,Representative District Committee District 31,31,DEM,Susan D. Coletta*,27,17,4,6
+Exeter,State House,31,DEM,Julie A. Casimiro*,38,23,5,10
+Exeter,State House,31,REP,Lisa Marie Leavitt*,16,8,1,7
+Exeter,State House,39,DEM,Megan L. Cotter*,168,71,22,75
+Exeter,State House,39,REP,Justin K. Price*,102,65,2,35
+Exeter,State Senate,34,DEM,Stephen Moffitt*,186,84,27,75
+Exeter,State Senate,34,REP,Elaine J. Morgan*,126,75,3,48
+Exeter,U.S. House,2,DEM,Seth Magaziner*,210,95,27,88
+Exeter,U.S. House,2,REP,Steven Corvi*,114,64,3,47
+Exeter,U.S. Senate,,DEM,Michael J. Costa,29,14,5,10
+Exeter,U.S. Senate,,DEM,Sheldon Whitehouse*,205,90,26,89
+Exeter,U.S. Senate,,REP,Patricia Morgan,118,70,2,46
+Exeter,U.S. Senate,,REP,Raymond T. McKay,30,17,0,13
+Exeter Limited,U.S. House,2,DEM,Seth Magaziner*,0,0,0,0
+Exeter Limited,U.S. House,2,REP,Steven Corvi*,0,0,0,0
+Exeter Limited,U.S. Senate,,DEM,Michael J. Costa,0,0,0,0
+Exeter Limited,U.S. Senate,,DEM,Sheldon Whitehouse*,0,0,0,0
+Exeter Limited,U.S. Senate,,REP,Patricia Morgan,0,0,0,0
+Exeter Limited,U.S. Senate,,REP,Raymond T. McKay,0,0,0,0
+Federal Precinct #1,U.S. House,1,DEM,Gabriel Amo*,70,0,70,0
+Federal Precinct #1,U.S. House,1,REP,Allen R. Waters,7,0,7,0
+Federal Precinct #1,U.S. Senate,,DEM,Michael J. Costa,5,0,5,0
+Federal Precinct #1,U.S. Senate,,DEM,Sheldon Whitehouse*,66,0,66,0
+Federal Precinct #1,U.S. Senate,,REP,Patricia Morgan,2,0,2,0
+Federal Precinct #1,U.S. Senate,,REP,Raymond T. McKay,6,0,6,0
+Federal Precinct #1S,U.S. House,1,DEM,Gabriel Amo*,52,0,52,0
+Federal Precinct #1S,U.S. House,1,REP,Allen R. Waters,0,0,0,0
+Federal Precinct #1S,U.S. Senate,,DEM,Michael J. Costa,4,0,4,0
+Federal Precinct #1S,U.S. Senate,,DEM,Sheldon Whitehouse*,51,0,51,0
+Federal Precinct #1S,U.S. Senate,,REP,Patricia Morgan,0,0,0,0
+Federal Precinct #1S,U.S. Senate,,REP,Raymond T. McKay,0,0,0,0
+Federal Precinct #2,U.S. House,2,DEM,Seth Magaziner*,84,0,84,0
+Federal Precinct #2,U.S. House,2,REP,Steven Corvi*,4,0,4,0
+Federal Precinct #2,U.S. Senate,,DEM,Michael J. Costa,6,0,6,0
+Federal Precinct #2,U.S. Senate,,DEM,Sheldon Whitehouse*,79,0,79,0
+Federal Precinct #2,U.S. Senate,,REP,Patricia Morgan,4,0,4,0
+Federal Precinct #2,U.S. Senate,,REP,Raymond T. McKay,0,0,0,0
+Federal Precinct #2S,U.S. House,2,DEM,Seth Magaziner*,16,0,16,0
+Federal Precinct #2S,U.S. House,2,REP,Steven Corvi*,0,0,0,0
+Federal Precinct #2S,U.S. Senate,,DEM,Michael J. Costa,0,0,0,0
+Federal Precinct #2S,U.S. Senate,,DEM,Sheldon Whitehouse*,16,0,16,0
+Federal Precinct #2S,U.S. Senate,,REP,Patricia Morgan,0,0,0,0
+Federal Precinct #2S,U.S. Senate,,REP,Raymond T. McKay,0,0,0,0
+Foster,Rep Town Council Town of Foster,,REP,Catherine Bay,238,122,85,31
+Foster,Rep Town Council Town of Foster,,REP,Christie H. Stone,252,128,96,28
+Foster,Rep Town Council Town of Foster,,REP,Heidi W. Rogers,252,129,94,29
+Foster,Rep Town Council Town of Foster,,REP,James D. Barrentine,247,132,86,29
+Foster,Rep Town Council Town of Foster,,REP,Nicole Lynn Andrescavage*,210,154,16,40
+Foster,Rep Town Council Town of Foster,,REP,Steven Henry Plouffe,290,161,93,36
+Foster,State House,40,DEM,Linda A. Nichols,251,147,27,77
+Foster,State House,40,REP,Michael W. Chippendale*,370,217,101,52
+Foster,State Senate,21,REP,Gordon Rogers*,306,169,101,36
+Foster,Town Committee Town of Foster,,REP,Adam D. Dacko*,170,117,24,29
+Foster,Town Committee Town of Foster,,REP,Amy C. Tirrell,179,79,83,17
+Foster,Town Committee Town of Foster,,REP,Audrey Arpin*,112,77,11,24
+Foster,Town Committee Town of Foster,,REP,Bruce Duncan Campbell*,139,97,15,27
+Foster,Town Committee Town of Foster,,REP,Campbell Louise Boyden*,130,95,7,28
+Foster,Town Committee Town of Foster,,REP,Catherine Bay,198,92,86,20
+Foster,Town Committee Town of Foster,,REP,Christie H. Stone,210,90,96,24
+Foster,Town Committee Town of Foster,,REP,David A. Paolino*,135,103,4,28
+Foster,Town Committee Town of Foster,,REP,David R. Tirrell,191,85,85,21
+Foster,Town Committee Town of Foster,,REP,Deborah R. Donovan*,111,87,3,21
+Foster,Town Committee Town of Foster,,REP,Denise L. DiFranco*,151,111,16,24
+Foster,Town Committee Town of Foster,,REP,Dorothy J. Whitelaw,172,72,80,20
+Foster,Town Committee Town of Foster,,REP,Erazmo Torres*,101,72,6,23
+Foster,Town Committee Town of Foster,,REP,Gordon Rogers,235,113,95,27
+Foster,Town Committee Town of Foster,,REP,Hayley E. Rogers,187,83,85,19
+Foster,Town Committee Town of Foster,,REP,Heidi W. Rogers,224,106,93,25
+Foster,Town Committee Town of Foster,,REP,James D. Barrentine,186,85,86,15
+Foster,Town Committee Town of Foster,,REP,Jesse M. Poznanski,159,66,80,13
+Foster,Town Committee Town of Foster,,REP,Jose Nogueira*,93,67,7,19
+Foster,Town Committee Town of Foster,,REP,Kevin J. Donovan*,110,80,7,23
+Foster,Town Committee Town of Foster,,REP,Kristy M. Antonelli*,123,89,11,23
+Foster,Town Committee Town of Foster,,REP,Lisa M. Barrentine,180,84,82,14
+Foster,Town Committee Town of Foster,,REP,Michael E. Dillon*,135,94,10,31
+Foster,Town Committee Town of Foster,,REP,Michael T. Pereira*,113,87,2,24
+Foster,Town Committee Town of Foster,,REP,Michael W. Chippendale*,247,167,34,46
+Foster,Town Committee Town of Foster,,REP,Myles A. Steele,172,71,83,18
+Foster,Town Committee Town of Foster,,REP,Nancy Adair Boyden*,119,88,6,25
+Foster,Town Committee Town of Foster,,REP,Neal C. Whitelaw,181,76,83,22
+Foster,Town Committee Town of Foster,,REP,Nicole Lynn Andrescavage*,177,126,17,34
+Foster,Town Committee Town of Foster,,REP,Ondrea Paolino*,94,74,0,20
+Foster,Town Committee Town of Foster,,REP,"Ralph C. Antonelli, Jr.",181,82,82,17
+Foster,Town Committee Town of Foster,,REP,Robert A. Boyden*,144,104,9,31
+Foster,Town Committee Town of Foster,,REP,Robert A. Depalo*,127,93,9,25
+Foster,Town Committee Town of Foster,,REP,Robert G. Fontaine*,133,97,7,29
+Foster,Town Committee Town of Foster,,REP,Ruth C. Spencer,171,66,85,20
+Foster,Town Committee Town of Foster,,REP,Sharon A. Antonelli,172,73,81,18
+Foster,Town Committee Town of Foster,,REP,Steven Henry Plouffe,230,119,89,22
+Foster,Town Committee Town of Foster,,REP,Susan M. Dillon*,159,113,9,37
+Foster,Town Council Town of Foster,,DEM,Cheryl Ann Hawes*,267,161,27,79
+Foster,Town Council Town of Foster,,DEM,George L. Sackal*,262,158,25,79
+Foster,Town Council Town of Foster,,DEM,Jade Elissa Boory,27,17,2,8
+Foster,Town Council Town of Foster,,DEM,Philip Michael Keefe*,270,163,24,83
+Foster,Town Council Town of Foster,,DEM,Robert A. Neary,36,25,2,9
+Foster,Town Council Town of Foster,,DEM,Robert Paul Horton*,269,159,27,83
+Foster,Town Council Town of Foster,,DEM,Susan Elizabeth Joyce*,275,168,24,83
+Foster,U.S. House,2,DEM,Seth Magaziner*,278,168,27,83
+Foster,U.S. House,2,REP,Steven Corvi*,309,176,91,42
+Foster,U.S. Senate,,DEM,Michael J. Costa,33,28,1,4
+Foster,U.S. Senate,,DEM,Sheldon Whitehouse*,270,159,26,85
+Foster,U.S. Senate,,REP,Patricia Morgan,184,123,25,36
+Foster,U.S. Senate,,REP,Raymond T. McKay,185,94,73,18
+Foster Limited,U.S. House,2,DEM,Seth Magaziner*,0,0,0,0
+Foster Limited,U.S. House,2,REP,Steven Corvi*,0,0,0,0
+Foster Limited,U.S. Senate,,DEM,Michael J. Costa,0,0,0,0
+Foster Limited,U.S. Senate,,DEM,Sheldon Whitehouse*,0,0,0,0
+Foster Limited,U.S. Senate,,REP,Patricia Morgan,0,0,0,0
+Foster Limited,U.S. Senate,,REP,Raymond T. McKay,0,0,0,0
+Glocester,Rep Town Council Town of Glocester,,REP,Cheryl Greathouse*,346,265,8,73
+Glocester,Rep Town Council Town of Glocester,,REP,Jonathan E. Burlingame,375,273,8,94
+Glocester,Rep Town Council Town of Glocester,,REP,Matthew S. Verrier*,246,187,6,53
+Glocester,Rep Town Council Town of Glocester,,REP,Stephanie Lynn Calise*,265,201,8,56
+Glocester,Rep Town Council Town of Glocester,,REP,"Walter M. O. Steere, III",390,273,12,105
+Glocester,Rep Town Council Town of Glocester,,REP,William Worthy,391,285,9,97
+Glocester,State House,40,DEM,Linda A. Nichols,200,105,31,64
+Glocester,State House,40,REP,Michael W. Chippendale*,387,288,11,88
+Glocester,State House,47,DEM,Paul A. Roselli,22,11,4,7
+Glocester,State House,47,REP,David J. Place*,40,32,1,7
+Glocester,State House,53,DEM,Bernard Hawkins,39,26,5,8
+Glocester,State House,53,REP,Paul M. Santucci*,53,41,0,12
+Glocester,State Senate,23,DEM,Lewis J. Pryeor,255,140,39,76
+Glocester,State Senate,23,REP,Jessica de la Cruz*,492,371,12,109
+Glocester,U.S. House,2,DEM,Seth Magaziner*,277,149,40,88
+Glocester,U.S. House,2,REP,Steven Corvi*,400,301,11,88
+Glocester,U.S. Senate,,DEM,Michael J. Costa,40,27,2,11
+Glocester,U.S. Senate,,DEM,Sheldon Whitehouse*,262,138,40,84
+Glocester,U.S. Senate,,REP,Patricia Morgan,339,246,10,83
+Glocester,U.S. Senate,,REP,Raymond T. McKay,145,114,2,29
+Glocester Limited,U.S. House,2,DEM,Seth Magaziner*,0,0,0,0
+Glocester Limited,U.S. House,2,REP,Steven Corvi*,0,0,0,0
+Glocester Limited,U.S. Senate,,DEM,Michael J. Costa,0,0,0,0
+Glocester Limited,U.S. Senate,,DEM,Sheldon Whitehouse*,0,0,0,0
+Glocester Limited,U.S. Senate,,REP,Patricia Morgan,0,0,0,0
+Glocester Limited,U.S. Senate,,REP,Raymond T. McKay,0,0,0,0
+Hopkinton,State House,38,DEM,Brian Patrick Kennedy*,206,138,29,39
+Hopkinton,State House,39,DEM,Megan L. Cotter*,51,37,7,7
+Hopkinton,State House,39,REP,Justin K. Price*,32,27,2,3
+Hopkinton,State Senate,34,DEM,Stephen Moffitt*,257,175,34,48
+Hopkinton,State Senate,34,REP,Elaine J. Morgan*,194,152,17,25
+Hopkinton,U.S. House,2,DEM,Seth Magaziner*,270,186,34,50
+Hopkinton,U.S. House,2,REP,Steven Corvi*,174,138,15,21
+Hopkinton,U.S. Senate,,DEM,Michael J. Costa,20,9,4,7
+Hopkinton,U.S. Senate,,DEM,Sheldon Whitehouse*,270,188,34,48
+Hopkinton,U.S. Senate,,REP,Patricia Morgan,139,115,9,15
+Hopkinton,U.S. Senate,,REP,Raymond T. McKay,60,41,8,11
+Hopkinton Limited,U.S. House,2,DEM,Seth Magaziner*,0,0,0,0
+Hopkinton Limited,U.S. House,2,REP,Steven Corvi*,0,0,0,0
+Hopkinton Limited,U.S. Senate,,DEM,Michael J. Costa,0,0,0,0
+Hopkinton Limited,U.S. Senate,,DEM,Sheldon Whitehouse*,0,0,0,0
+Hopkinton Limited,U.S. Senate,,REP,Patricia Morgan,0,0,0,0
+Hopkinton Limited,U.S. Senate,,REP,Raymond T. McKay,0,0,0,0
+Jamestown,State House,74,DEM,Alex S. Finkelman*,595,302,62,231
+Jamestown,State Senate,13,DEM,Dawn Euer*,613,309,64,240
+Jamestown,State Senate,13,REP,David A. Quiroa*,80,51,6,23
+Jamestown,U.S. House,1,DEM,Gabriel Amo*,616,313,65,238
+Jamestown,U.S. House,1,REP,Allen R. Waters,74,45,6,23
+Jamestown,U.S. Senate,,DEM,Michael J. Costa,55,26,6,23
+Jamestown,U.S. Senate,,DEM,Sheldon Whitehouse*,618,319,61,238
+Jamestown,U.S. Senate,,REP,Patricia Morgan,57,38,4,15
+Jamestown,U.S. Senate,,REP,Raymond T. McKay,35,21,2,12
+Jamestown Limited,U.S. House,1,DEM,Gabriel Amo*,0,0,0,0
+Jamestown Limited,U.S. House,1,REP,Allen R. Waters,0,0,0,0
+Jamestown Limited,U.S. Senate,,DEM,Michael J. Costa,0,0,0,0
+Jamestown Limited,U.S. Senate,,DEM,Sheldon Whitehouse*,0,0,0,0
+Jamestown Limited,U.S. Senate,,REP,Patricia Morgan,0,0,0,0
+Jamestown Limited,U.S. Senate,,REP,Raymond T. McKay,0,0,0,0
+Johnston,Senate District Committee District 25,25,DEM,Anthony D. Pilozzi*,886,611,141,134
+Johnston,Senate District Committee District 25,25,DEM,Dante J. Parisi,613,461,60,92
+Johnston,Senate District Committee District 25,25,DEM,Derek R. La Fazia*,1087,772,154,161
+Johnston,Senate District Committee District 25,25,DEM,"Frank Lombardo, IV*",1514,1104,198,212
+Johnston,Senate District Committee District 25,25,DEM,Henry Fellela,502,382,60,60
+Johnston,Senate District Committee District 25,25,DEM,Jennifer A. Russo*,1240,880,194,166
+Johnston,Senate District Committee District 25,25,DEM,Jennifer K. Emory,610,444,94,72
+Johnston,Senate District Committee District 25,25,DEM,John J. Bevilacqua,905,647,119,139
+Johnston,Senate District Committee District 25,25,DEM,Stephen Mandarelli*,789,540,129,120
+Johnston,Senate District Committee District 25,25,DEM,Wayne Tait,337,247,43,47
+Johnston,Senate District Committee District 25,25,DEM,Zachary P. Gordon,563,419,63,81
+Johnston,State House,13,DEM,Ramon A. Perez*,78,54,17,7
+Johnston,State House,42,DEM,"Dennis D. Cardillo, Jr.",190,164,11,15
+Johnston,State House,42,DEM,"Edward T. Cardillo, Jr.*",467,324,63,80
+Johnston,State House,42,DEM,Kelsey K. Coletta,454,331,75,48
+Johnston,State House,42,REP,Richard R. Fascia*,167,143,14,10
+Johnston,State House,43,DEM,Deborah A. Fellela,905,643,128,134
+Johnston,State House,43,REP,Nicola A. Grasso*,239,195,16,28
+Johnston,State House,44,DEM,Gregory J. Costantino*,206,167,20,19
+Johnston,State House,44,REP,Peter Trementozzi*,42,37,3,2
+Johnston,State Senate,25,DEM,Andrew R. Dimitri,1596,1205,171,220
+Johnston,State Senate,25,DEM,Pamela Leary,361,259,57,45
+Johnston,State Senate,25,DEM,"Richard J. DelFino, III*",773,537,109,127
+Johnston,State Senate,25,REP,Karin N. Gorman*,426,350,36,40
+Johnston,State Senate,7,DEM,Frank A. Ciccone*,88,61,18,9
+Johnston,U.S. House,2,DEM,Seth Magaziner*,1978,1423,289,266
+Johnston,U.S. House,2,REP,Steven Corvi*,460,384,36,40
+Johnston,U.S. Senate,,DEM,Michael J. Costa,952,776,59,117
+Johnston,U.S. Senate,,DEM,Sheldon Whitehouse*,1791,1232,302,257
+Johnston,U.S. Senate,,REP,Patricia Morgan,327,269,25,33
+Johnston,U.S. Senate,,REP,Raymond T. McKay,216,186,15,15
+Johnston Limited,U.S. House,2,DEM,Seth Magaziner*,0,0,0,0
+Johnston Limited,U.S. House,2,REP,Steven Corvi*,0,0,0,0
+Johnston Limited,U.S. Senate,,DEM,Michael J. Costa,0,0,0,0
+Johnston Limited,U.S. Senate,,DEM,Sheldon Whitehouse*,0,0,0,0
+Johnston Limited,U.S. Senate,,REP,Patricia Morgan,0,0,0,0
+Johnston Limited,U.S. Senate,,REP,Raymond T. McKay,0,0,0,0
+Lincoln,State House,44,DEM,Gregory J. Costantino*,149,115,23,11
+Lincoln,State House,44,REP,Peter Trementozzi*,52,37,7,8
+Lincoln,State House,45,DEM,Mia A. Ackerman*,169,108,27,34
+Lincoln,State House,46,DEM,Mary Ann Shallcross Smith,589,379,74,136
+Lincoln,State House,46,REP,Angelo Kapsimalis*,206,130,16,60
+Lincoln,State Senate,17,DEM,Alexander E. Azar,387,259,42,86
+Lincoln,State Senate,17,DEM,Cameron J. Deutsch,482,323,69,90
+Lincoln,State Senate,17,REP,Thomas J. Paolino*,285,182,28,75
+Lincoln,State Senate,19,DEM,Ryan W. Pearson*,81,50,13,18
+Lincoln,State Senate,22,DEM,David P. Tikoian*,23,18,4,1
+Lincoln,U.S. House,1,DEM,Gabriel Amo*,935,625,124,186
+Lincoln,U.S. House,1,REP,Allen R. Waters,306,201,25,80
+Lincoln,U.S. Senate,,DEM,Michael J. Costa,154,114,12,28
+Lincoln,U.S. Senate,,DEM,Sheldon Whitehouse*,883,582,119,182
+Lincoln,U.S. Senate,,REP,Patricia Morgan,235,162,21,52
+Lincoln,U.S. Senate,,REP,Raymond T. McKay,124,77,10,37
+Lincoln Limited,U.S. House,1,DEM,Gabriel Amo*,0,0,0,0
+Lincoln Limited,U.S. House,1,REP,Allen R. Waters,0,0,0,0
+Lincoln Limited,U.S. Senate,,DEM,Michael J. Costa,0,0,0,0
+Lincoln Limited,U.S. Senate,,DEM,Sheldon Whitehouse*,0,0,0,0
+Lincoln Limited,U.S. Senate,,REP,Patricia Morgan,0,0,0,0
+Lincoln Limited,U.S. Senate,,REP,Raymond T. McKay,0,0,0,0
+Little Compton,State House,71,DEM,Michelle E. McGaw*,224,153,21,50
+Little Compton,State Senate,12,DEM,Louis DiPalma*,209,144,18,47
+Little Compton,U.S. House,1,DEM,Gabriel Amo*,229,156,23,50
+Little Compton,U.S. House,1,REP,Allen R. Waters,86,51,8,27
+Little Compton,U.S. Senate,,DEM,Michael J. Costa,24,17,0,7
+Little Compton,U.S. Senate,,DEM,Sheldon Whitehouse*,224,154,24,46
+Little Compton,U.S. Senate,,REP,Patricia Morgan,51,35,4,12
+Little Compton,U.S. Senate,,REP,Raymond T. McKay,50,28,5,17
+Little Compton Limited,U.S. House,1,DEM,Gabriel Amo*,0,0,0,0
+Little Compton Limited,U.S. House,1,REP,Allen R. Waters,0,0,0,0
+Little Compton Limited,U.S. Senate,,DEM,Michael J. Costa,0,0,0,0
+Little Compton Limited,U.S. Senate,,DEM,Sheldon Whitehouse*,0,0,0,0
+Little Compton Limited,U.S. Senate,,REP,Patricia Morgan,0,0,0,0
+Little Compton Limited,U.S. Senate,,REP,Raymond T. McKay,0,0,0,0
+Middletown,State House,72,DEM,Terri-Denise Cortvriend*,279,162,32,85
+Middletown,State House,73,DEM,Marvin L. Abney*,121,58,28,35
+Middletown,State House,74,DEM,Alex S. Finkelman*,247,118,48,81
+Middletown,State Senate,12,DEM,Louis DiPalma*,652,340,108,204
+Middletown,U.S. House,1,DEM,Gabriel Amo*,677,347,112,218
+Middletown,U.S. House,1,REP,Allen R. Waters,177,94,21,62
+Middletown,U.S. Senate,,DEM,Michael J. Costa,62,40,3,19
+Middletown,U.S. Senate,,DEM,Sheldon Whitehouse*,666,343,109,214
+Middletown,U.S. Senate,,REP,Patricia Morgan,133,78,11,44
+Middletown,U.S. Senate,,REP,Raymond T. McKay,66,30,11,25
+Middletown Limited,U.S. House,1,DEM,Gabriel Amo*,0,0,0,0
+Middletown Limited,U.S. House,1,REP,Allen R. Waters,0,0,0,0
+Middletown Limited,U.S. Senate,,DEM,Michael J. Costa,0,0,0,0
+Middletown Limited,U.S. Senate,,DEM,Sheldon Whitehouse*,0,0,0,0
+Middletown Limited,U.S. Senate,,REP,Patricia Morgan,0,0,0,0
+Middletown Limited,U.S. Senate,,REP,Raymond T. McKay,0,0,0,0
+Narragansett,Non-Partisan Town Council Town of Narragansett,,NON,Alexander T. Menzies,1255,957,83,215
+Narragansett,Non-Partisan Town Council Town of Narragansett,,NON,Anthony D'Ellena,461,364,34,63
+Narragansett,Non-Partisan Town Council Town of Narragansett,,NON,Catherine Ellen Canavan,483,382,41,60
+Narragansett,Non-Partisan Town Council Town of Narragansett,,NON,Donna Vignali,1010,782,72,156
+Narragansett,Non-Partisan Town Council Town of Narragansett,,NON,Ewa M. Dzwierzynski,706,511,61,134
+Narragansett,Non-Partisan Town Council Town of Narragansett,,NON,James P. Durkin,1061,871,60,130
+Narragansett,Non-Partisan Town Council Town of Narragansett,,NON,Jason Colonies,1091,850,63,178
+Narragansett,Non-Partisan Town Council Town of Narragansett,,NON,Jill A. Lawler,737,536,62,139
+Narragansett,Non-Partisan Town Council Town of Narragansett,,NON,Rupert Friday,698,503,61,134
+Narragansett,Non-Partisan Town Council Town of Narragansett,,NON,Ryan J. Torrealday,1075,824,64,187
+Narragansett,Non-Partisan Town Council Town of Narragansett,,NON,Steven J. Ferrandi,635,448,53,134
+Narragansett,Non-Partisan Town Council Town of Narragansett,,NON,Tony Jones,225,169,21,35
+Narragansett,Non-Partisan Town Council Town of Narragansett,,NON,"Winters B. Hames, III",533,391,49,93
+Narragansett,State House,33,DEM,Carol Hagan McEntee*,567,441,53,73
+Narragansett,State House,33,REP,Jessica Drew Day*,171,143,11,17
+Narragansett,State House,34,DEM,Teresa Tanzi,520,357,59,104
+Narragansett,State House,34,REP,Joanne R. Forti*,174,132,11,31
+Narragansett,State Senate,36,DEM,Alana M. DiMario*,1097,800,123,174
+Narragansett,U.S. House,2,DEM,Seth Magaziner*,1209,871,136,202
+Narragansett,U.S. House,2,REP,Steven Corvi*,318,254,21,43
+Narragansett,U.S. Senate,,DEM,Michael J. Costa,208,159,6,43
+Narragansett,U.S. Senate,,DEM,Sheldon Whitehouse*,1223,888,143,192
+Narragansett,U.S. Senate,,REP,Patricia Morgan,309,250,21,38
+Narragansett,U.S. Senate,,REP,Raymond T. McKay,103,80,5,18
+Narragansett Limited,U.S. House,2,DEM,Seth Magaziner*,0,0,0,0
+Narragansett Limited,U.S. House,2,REP,Steven Corvi*,0,0,0,0
+Narragansett Limited,U.S. Senate,,DEM,Michael J. Costa,0,0,0,0
+Narragansett Limited,U.S. Senate,,DEM,Sheldon Whitehouse*,0,0,0,0
+Narragansett Limited,U.S. Senate,,REP,Patricia Morgan,0,0,0,0
+Narragansett Limited,U.S. Senate,,REP,Raymond T. McKay,0,0,0,0
+New Shoreham,Second Warden Town of New Shoreham,,DEM,Nancy Dodge,128,62,3,63
+New Shoreham,Second Warden Town of New Shoreham,,DEM,Neal Murphy*,113,52,2,59
+New Shoreham,State House,36,DEM,Tina L. Spears*,192,92,3,97
+New Shoreham,State Senate,36,DEM,Alana M. DiMario*,185,90,3,92
+New Shoreham,U.S. House,2,DEM,Seth Magaziner*,205,99,3,103
+New Shoreham,U.S. House,2,REP,Steven Corvi*,20,12,0,8
+New Shoreham,U.S. Senate,,DEM,Michael J. Costa,23,12,1,10
+New Shoreham,U.S. Senate,,DEM,Sheldon Whitehouse*,213,100,3,110
+New Shoreham,U.S. Senate,,REP,Patricia Morgan,11,8,0,3
+New Shoreham,U.S. Senate,,REP,Raymond T. McKay,12,7,0,5
+New Shoreham Limited,U.S. House,2,DEM,Seth Magaziner*,0,0,0,0
+New Shoreham Limited,U.S. House,2,REP,Steven Corvi*,0,0,0,0
+New Shoreham Limited,U.S. Senate,,DEM,Michael J. Costa,0,0,0,0
+New Shoreham Limited,U.S. Senate,,DEM,Sheldon Whitehouse*,0,0,0,0
+New Shoreham Limited,U.S. Senate,,REP,Patricia Morgan,0,0,0,0
+New Shoreham Limited,U.S. Senate,,REP,Raymond T. McKay,0,0,0,0
+Newport,Non-Partisan Council Newport Ward 1,1,NON,Charles F. Pattavina,78,58,6,14
+Newport,Non-Partisan Council Newport Ward 1,1,NON,Ellen M. Pinnock,252,171,25,56
+Newport,Non-Partisan Council Newport Ward 1,1,NON,"Hugo J. DeAscentis, Jr.",140,85,31,24
+Newport,State House,73,DEM,Marvin L. Abney*,408,254,71,83
+Newport,State House,75,DEM,Lauren H. Carson*,734,408,157,169
+Newport,State Senate,12,DEM,Louis DiPalma*,133,80,22,31
+Newport,State Senate,13,DEM,Dawn Euer*,1011,587,201,223
+Newport,State Senate,13,REP,David A. Quiroa*,164,109,33,22
+Newport,U.S. House,1,DEM,Gabriel Amo*,1188,690,231,267
+Newport,U.S. House,1,REP,Allen R. Waters,181,118,37,26
+Newport,U.S. Senate,,DEM,Michael J. Costa,88,62,14,12
+Newport,U.S. Senate,,DEM,Sheldon Whitehouse*,1213,706,232,275
+Newport,U.S. Senate,,REP,Patricia Morgan,152,97,30,25
+Newport,U.S. Senate,,REP,Raymond T. McKay,64,43,12,9
+Newport Limited,U.S. House,1,DEM,Gabriel Amo*,0,0,0,0
+Newport Limited,U.S. House,1,REP,Allen R. Waters,0,0,0,0
+Newport Limited,U.S. Senate,,DEM,Michael J. Costa,0,0,0,0
+Newport Limited,U.S. Senate,,DEM,Sheldon Whitehouse*,0,0,0,0
+Newport Limited,U.S. Senate,,REP,Patricia Morgan,0,0,0,0
+Newport Limited,U.S. Senate,,REP,Raymond T. McKay,0,0,0,0
+North Kingstown,Representative District Committee District 31,31,DEM,Daniel J. Burke*,337,245,54,38
+North Kingstown,Representative District Committee District 31,31,DEM,Dolores J. Burke*,387,281,60,46
+North Kingstown,Representative District Committee District 31,31,DEM,Julie A. Casimiro*,487,341,78,68
+North Kingstown,Representative District Committee District 31,31,DEM,Nathaniel I. Manock,215,159,24,32
+North Kingstown,Representative District Committee District 31,31,DEM,Ryan S. Lukowicz*,376,270,62,44
+North Kingstown,Representative District Committee District 31,31,DEM,Susan D. Coletta*,412,297,62,53
+North Kingstown,State House,31,DEM,Julie A. Casimiro*,535,376,87,72
+North Kingstown,State House,31,REP,Lisa Marie Leavitt*,158,118,23,17
+North Kingstown,State House,32,DEM,Robert E. Craven*,664,460,100,104
+North Kingstown,State Senate,35,DEM,Bridget G. Valverde*,461,305,84,72
+North Kingstown,State Senate,36,DEM,Alana M. DiMario*,706,506,98,102
+North Kingstown,U.S. House,2,DEM,Seth Magaziner*,1248,875,196,177
+North Kingstown,U.S. House,2,REP,Steven Corvi*,300,228,35,37
+North Kingstown,U.S. Senate,,DEM,Michael J. Costa,161,132,12,17
+North Kingstown,U.S. Senate,,DEM,Sheldon Whitehouse*,1219,852,192,175
+North Kingstown,U.S. Senate,,REP,Patricia Morgan,238,187,23,28
+North Kingstown,U.S. Senate,,REP,Raymond T. McKay,111,80,16,15
+North Kingstown Limited,U.S. House,2,DEM,Seth Magaziner*,0,0,0,0
+North Kingstown Limited,U.S. House,2,REP,Steven Corvi*,0,0,0,0
+North Kingstown Limited,U.S. Senate,,DEM,Michael J. Costa,0,0,0,0
+North Kingstown Limited,U.S. Senate,,DEM,Sheldon Whitehouse*,0,0,0,0
+North Kingstown Limited,U.S. Senate,,REP,Patricia Morgan,0,0,0,0
+North Kingstown Limited,U.S. Senate,,REP,Raymond T. McKay,0,0,0,0
+North Providence,Council North Providence District 2,2,DEM,"Charles F. Pollock, Jr.*",869,571,200,98
+North Providence,Council North Providence District 2,2,DEM,Raymond Anthony De Stefanis,276,204,41,31
+North Providence,School Committee North Providence District 3,3,DEM,Kristi N. Mangiocca,530,396,61,73
+North Providence,School Committee North Providence District 3,3,DEM,Steven M. Andreozzi*,453,319,65,69
+North Providence,State House,54,DEM,William W. O'Brien*,907,618,160,129
+North Providence,State House,55,DEM,Arthur J. Corvese*,1328,893,293,142
+North Providence,State House,6,DEM,Raymond A. Hull*,306,238,27,41
+North Providence,State Senate,17,DEM,Alexander E. Azar,66,47,5,14
+North Providence,State Senate,17,DEM,Cameron J. Deutsch,58,34,16,8
+North Providence,State Senate,17,REP,Thomas J. Paolino*,20,15,1,4
+North Providence,State Senate,22,DEM,David P. Tikoian*,263,184,39,40
+North Providence,State Senate,4,DEM,Dominick J. Ruggerio*,1814,1245,349,220
+North Providence,State Senate,4,DEM,"Leonardo Americo Cioe, Jr.",733,522,100,111
+North Providence,U.S. House,1,DEM,Gabriel Amo*,2384,1595,476,313
+North Providence,U.S. House,1,REP,Allen R. Waters,278,226,22,30
+North Providence,U.S. Senate,,DEM,Michael J. Costa,830,667,69,94
+North Providence,U.S. Senate,,DEM,Sheldon Whitehouse*,2106,1366,440,300
+North Providence,U.S. Senate,,REP,Patricia Morgan,209,166,19,24
+North Providence,U.S. Senate,,REP,Raymond T. McKay,110,93,5,12
+North Providence Limited,U.S. House,1,DEM,Gabriel Amo*,0,0,0,0
+North Providence Limited,U.S. House,1,REP,Allen R. Waters,0,0,0,0
+North Providence Limited,U.S. Senate,,DEM,Michael J. Costa,0,0,0,0
+North Providence Limited,U.S. Senate,,DEM,Sheldon Whitehouse*,0,0,0,0
+North Providence Limited,U.S. Senate,,REP,Patricia Morgan,0,0,0,0
+North Providence Limited,U.S. Senate,,REP,Raymond T. McKay,0,0,0,0
+North Smithfield,Representative District Committee District 49,49,DEM,Alexander G. Kithes*,32,14,12,6
+North Smithfield,Representative District Committee District 49,49,DEM,Georgia L. Young*,42,15,19,8
+North Smithfield,Representative District Committee District 49,49,DEM,Janice M. Colerick*,44,14,22,8
+North Smithfield,Representative District Committee District 49,49,DEM,Jennie P. Kithes*,41,12,20,9
+North Smithfield,Representative District Committee District 49,49,DEM,Michael Disney,18,3,12,3
+North Smithfield,Representative District Committee District 49,49,DEM,Ryan E. Brown*,43,13,23,7
+North Smithfield,State House,48,REP,Brian C. Newberry*,263,181,10,72
+North Smithfield,State Senate,17,DEM,Alexander E. Azar,113,82,14,17
+North Smithfield,State Senate,17,DEM,Cameron J. Deutsch,94,48,22,24
+North Smithfield,State Senate,17,REP,Thomas J. Paolino*,145,96,6,43
+North Smithfield,State Senate,23,DEM,Lewis J. Pryeor,114,69,25,20
+North Smithfield,State Senate,23,REP,Jessica de la Cruz*,79,59,3,17
+North Smithfield,State Senate,24,DEM,Melissa Murray*,90,38,37,15
+North Smithfield,State Senate,24,REP,Craig J. Lacouture*,43,23,7,13
+North Smithfield,U.S. House,1,DEM,Gabriel Amo*,417,231,104,82
+North Smithfield,U.S. House,1,REP,Allen R. Waters,253,170,14,69
+North Smithfield,U.S. Senate,,DEM,Michael J. Costa,62,43,8,11
+North Smithfield,U.S. Senate,,DEM,Sheldon Whitehouse*,391,216,99,76
+North Smithfield,U.S. Senate,,REP,Patricia Morgan,147,103,6,38
+North Smithfield,U.S. Senate,,REP,Raymond T. McKay,142,93,9,40
+North Smithfield Limited,U.S. House,1,DEM,Gabriel Amo*,0,0,0,0
+North Smithfield Limited,U.S. House,1,REP,Allen R. Waters,0,0,0,0
+North Smithfield Limited,U.S. Senate,,DEM,Michael J. Costa,0,0,0,0
+North Smithfield Limited,U.S. Senate,,DEM,Sheldon Whitehouse*,0,0,0,0
+North Smithfield Limited,U.S. Senate,,REP,Patricia Morgan,0,0,0,0
+North Smithfield Limited,U.S. Senate,,REP,Raymond T. McKay,0,0,0,0
+Pawtucket,Council Pawtucket District 5,5,DEM,Clovis C. Gregor,351,252,61,38
+Pawtucket,Council Pawtucket District 5,5,DEM,Stephen Oheneba Larbi*,287,206,44,37
+Pawtucket,Mayor City of Pawtucket,,DEM,Camron R. Segalla,1085,801,186,98
+Pawtucket,Mayor City of Pawtucket,,DEM,Donald R. Grebien*,2930,2223,469,238
+Pawtucket,School Committee City of Pawtucket,,DEM,Angeliz Rosa,2378,1834,359,185
+Pawtucket,School Committee City of Pawtucket,,DEM,Gerard A. Charbonneau,1377,946,277,154
+Pawtucket,School Committee City of Pawtucket,,DEM,"James T. Chellel, Jr.*",2465,1854,429,182
+Pawtucket,School Committee City of Pawtucket,,DEM,Joanne Bonollo*,2830,2113,490,227
+Pawtucket,School Committee City of Pawtucket,,DEM,Juan Pablo Barrera,2245,1763,315,167
+Pawtucket,School Committee City of Pawtucket,,DEM,Kimberly A. Grant*,2247,1567,474,206
+Pawtucket,School Committee City of Pawtucket,,DEM,Marsha J. Fernandes,1656,1191,306,159
+Pawtucket,School Committee City of Pawtucket,,DEM,Matthew Wildenhain*,2457,1840,433,184
+Pawtucket,School Committee City of Pawtucket,,DEM,Omar Reyes*,2539,1917,407,215
+Pawtucket,State House,46,DEM,Mary Ann Shallcross Smith,36,25,7,4
+Pawtucket,State House,46,REP,Angelo Kapsimalis*,6,6,0,0
+Pawtucket,State House,58,DEM,Cherie L. Cruz*,547,386,107,54
+Pawtucket,State House,58,DEM,Elizabeth Moreira,364,282,51,31
+Pawtucket,State House,59,DEM,Jennifer A. Stewart,803,584,136,83
+Pawtucket,State House,60,DEM,Karen Alzate*,302,228,46,28
+Pawtucket,State House,61,DEM,Leonela Felix,747,544,150,53
+Pawtucket,State House,61,REP,Kevin J. Whalen*,138,117,9,12
+Pawtucket,State House,62,DEM,Mary Duffy Messier,636,492,107,37
+Pawtucket,State House,63,DEM,Katherine Sheena Kazarian*,39,36,0,3
+Pawtucket,State House,64,DEM,Ashley L. Pereira,26,22,3,1
+Pawtucket,State House,64,DEM,Jenni Azanero Furtado*,78,55,18,5
+Pawtucket,State Senate,15,DEM,Meghan E. Kallman*,1292,962,199,131
+Pawtucket,State Senate,16,DEM,Jonathon Acosta*,241,167,51,23
+Pawtucket,State Senate,18,DEM,Robert Britto*,653,484,128,41
+Pawtucket,State Senate,8,DEM,Sandra C. Cano*,1173,881,204,88
+Pawtucket,U.S. House,1,DEM,Gabriel Amo*,3616,2683,619,314
+Pawtucket,U.S. House,1,REP,Allen R. Waters,363,303,36,24
+Pawtucket,U.S. Senate,,DEM,Michael J. Costa,728,618,66,44
+Pawtucket,U.S. Senate,,DEM,Sheldon Whitehouse*,3313,2430,584,299
+Pawtucket,U.S. Senate,,REP,Patricia Morgan,266,224,24,18
+Pawtucket,U.S. Senate,,REP,Raymond T. McKay,154,121,20,13
+Pawtucket,Ward Committee Pawtucket District 4,4,DEM,Herbert P. Weiss*,317,243,55,19
+Pawtucket,Ward Committee Pawtucket District 4,4,DEM,"John J. Barry, III*",384,295,63,26
+Pawtucket,Ward Committee Pawtucket District 4,4,DEM,John Pita*,309,226,60,23
+Pawtucket,Ward Committee Pawtucket District 4,4,DEM,Joseph C. Flanagan*,328,250,56,22
+Pawtucket,Ward Committee Pawtucket District 4,4,DEM,Michael A. Araujo,372,278,62,32
+Pawtucket,Ward Committee Pawtucket District 4,4,DEM,Neicy Narcisa Coderre,347,256,59,32
+Pawtucket,Ward Committee Pawtucket District 4,4,DEM,Robert Henry Coderre*,341,263,55,23
+Pawtucket,Ward Committee Pawtucket District 4,4,DEM,Shawn M. Kelly*,336,251,65,20
+Pawtucket Limited,U.S. House,1,DEM,Gabriel Amo*,0,0,0,0
+Pawtucket Limited,U.S. House,1,REP,Allen R. Waters,0,0,0,0
+Pawtucket Limited,U.S. Senate,,DEM,Michael J. Costa,0,0,0,0
+Pawtucket Limited,U.S. Senate,,DEM,Sheldon Whitehouse*,0,0,0,0
+Pawtucket Limited,U.S. Senate,,REP,Patricia Morgan,0,0,0,0
+Pawtucket Limited,U.S. Senate,,REP,Raymond T. McKay,0,0,0,0
+Portsmouth,State House,69,DEM,Susan Ann Donovan*,21,17,4,0
+Portsmouth,State House,71,DEM,Michelle E. McGaw*,589,347,98,144
+Portsmouth,State House,72,DEM,Terri-Denise Cortvriend*,605,322,98,185
+Portsmouth,State Senate,11,DEM,Linda L. Ujifusa*,1217,702,192,323
+Portsmouth,Town Council Town of Portsmouth,,DEM,Charles J. Levesque*,868,506,140,222
+Portsmouth,Town Council Town of Portsmouth,,DEM,David P. Fiorillo,778,488,86,204
+Portsmouth,Town Council Town of Portsmouth,,DEM,John Mark Ryan*,1052,614,158,280
+Portsmouth,Town Council Town of Portsmouth,,DEM,Juan Carlos Payero*,1034,616,149,269
+Portsmouth,Town Council Town of Portsmouth,,DEM,Michael DiPaola,223,128,31,64
+Portsmouth,Town Council Town of Portsmouth,,DEM,Sondra A. Blank*,1075,623,162,290
+Portsmouth,Town Council Town of Portsmouth,,DEM,Tarah B. Woods*,633,310,124,199
+Portsmouth,Town Council Town of Portsmouth,,DEM,Tasha M. MacGibbon*,1036,598,155,283
+Portsmouth,Town Council Town of Portsmouth,,DEM,Timothy E. Grissett*,933,545,132,256
+Portsmouth,U.S. House,1,DEM,Gabriel Amo*,1244,714,199,331
+Portsmouth,U.S. House,1,REP,Allen R. Waters,407,261,32,114
+Portsmouth,U.S. Senate,,DEM,Michael J. Costa,153,97,18,38
+Portsmouth,U.S. Senate,,DEM,Sheldon Whitehouse*,1202,686,192,324
+Portsmouth,U.S. Senate,,REP,Patricia Morgan,350,232,24,94
+Portsmouth,U.S. Senate,,REP,Raymond T. McKay,106,65,12,29
+Portsmouth Limited,U.S. House,1,DEM,Gabriel Amo*,0,0,0,0
+Portsmouth Limited,U.S. House,1,REP,Allen R. Waters,0,0,0,0
+Portsmouth Limited,U.S. Senate,,DEM,Michael J. Costa,0,0,0,0
+Portsmouth Limited,U.S. Senate,,DEM,Sheldon Whitehouse*,0,0,0,0
+Portsmouth Limited,U.S. Senate,,REP,Patricia Morgan,0,0,0,0
+Portsmouth Limited,U.S. Senate,,REP,Raymond T. McKay,0,0,0,0
+Providence,State House,1,DEM,Edith H. Ajello*,662,500,116,46
+Providence,State House,10,DEM,Scott A. Slater*,365,234,111,20
+Providence,State House,11,DEM,Grace Diaz,687,384,277,26
+Providence,State House,11,DEM,Tania M. Quezada*,424,194,215,15
+Providence,State House,12,DEM,Jose F. Batista,318,227,75,16
+Providence,State House,13,DEM,Ramon A. Perez*,148,124,17,7
+Providence,State House,14,DEM,Charlene Lima*,34,25,5,4
+Providence,State House,14,DEM,Giona A. Picheco,36,22,10,4
+Providence,State House,2,DEM,Christopher R. Blazejewski*,715,504,148,63
+Providence,State House,3,DEM,Nathan W. Biah,240,169,54,17
+Providence,State House,4,DEM,Rebecca M. Kislak*,1408,993,336,79
+Providence,State House,5,DEM,Anthony J. DeSimone*,400,288,90,22
+Providence,State House,6,DEM,Raymond A. Hull*,439,332,94,13
+Providence,State House,7,DEM,David Morales*,497,391,91,15
+Providence,State House,8,DEM,John J. Lombardi*,418,305,84,29
+Providence,State House,9,DEM,Anastacia P. Williams,233,174,49,10
+Providence,State House,9,DEM,Enrique G. Sanchez*,612,402,185,25
+Providence,State House,9,DEM,Santos Javier,301,90,207,4
+Providence,State Senate,1,DEM,Jacob Bissaillon*,611,441,135,35
+Providence,State Senate,15,DEM,Meghan E. Kallman*,439,327,92,20
+Providence,State Senate,2,DEM,Ana B. Quezada*,970,515,409,46
+Providence,State Senate,28,DEM,Bernice Morris,20,14,3,3
+Providence,State Senate,28,DEM,Darrell A. Brown,117,91,21,5
+Providence,State Senate,28,DEM,"John F. Croke, Jr.",18,10,4,4
+Providence,State Senate,28,DEM,Lammis J. Vargas*,224,137,85,2
+Providence,State Senate,28,DEM,Melissa Carden,57,42,14,1
+Providence,State Senate,3,DEM,Samuel D. Zurier*,1762,1289,361,112
+Providence,State Senate,4,DEM,Dominick J. Ruggerio*,182,125,50,7
+Providence,State Senate,4,DEM,"Leonardo Americo Cioe, Jr.",112,87,20,5
+Providence,State Senate,5,DEM,Samuel W. Bell*,1340,1049,236,55
+Providence,State Senate,5,REP,"William D. Connell, Jr.*",81,70,8,3
+Providence,State Senate,6,DEM,Tiara TyShae Mack*,980,642,262,76
+Providence,State Senate,7,DEM,Frank A. Ciccone*,460,332,101,27
+Providence,U.S. House,1,DEM,Gabriel Amo*,4310,2961,1117,232
+Providence,U.S. House,1,REP,Allen R. Waters,164,116,37,11
+Providence,U.S. House,2,DEM,Seth Magaziner*,3035,2169,692,174
+Providence,U.S. House,2,REP,Steven Corvi*,198,147,41,10
+Providence,U.S. Senate,,DEM,Michael J. Costa,1113,813,246,54
+Providence,U.S. Senate,,DEM,Sheldon Whitehouse*,7104,4939,1769,396
+Providence,U.S. Senate,,REP,Patricia Morgan,231,180,39,12
+Providence,U.S. Senate,,REP,Raymond T. McKay,206,146,46,14
+Providence Limited 1,U.S. House,1,DEM,Gabriel Amo*,0,0,0,0
+Providence Limited 1,U.S. House,1,REP,Allen R. Waters,0,0,0,0
+Providence Limited 1,U.S. Senate,,DEM,Michael J. Costa,0,0,0,0
+Providence Limited 1,U.S. Senate,,DEM,Sheldon Whitehouse*,0,0,0,0
+Providence Limited 1,U.S. Senate,,REP,Patricia Morgan,0,0,0,0
+Providence Limited 1,U.S. Senate,,REP,Raymond T. McKay,0,0,0,0
+Providence Limited 2,U.S. House,2,DEM,Seth Magaziner*,0,0,0,0
+Providence Limited 2,U.S. House,2,REP,Steven Corvi*,0,0,0,0
+Providence Limited 2,U.S. Senate,,DEM,Michael J. Costa,0,0,0,0
+Providence Limited 2,U.S. Senate,,DEM,Sheldon Whitehouse*,0,0,0,0
+Providence Limited 2,U.S. Senate,,REP,Patricia Morgan,0,0,0,0
+Providence Limited 2,U.S. Senate,,REP,Raymond T. McKay,0,0,0,0
+Richmond,State House,39,DEM,Megan L. Cotter*,346,188,56,102
+Richmond,State House,39,REP,Justin K. Price*,202,147,6,49
+Richmond,State Senate,34,DEM,Stephen Moffitt*,317,172,50,95
+Richmond,State Senate,34,REP,Elaine J. Morgan*,198,142,6,50
+Richmond,U.S. House,2,DEM,Seth Magaziner*,336,183,53,100
+Richmond,U.S. House,2,REP,Steven Corvi*,189,135,6,48
+Richmond,U.S. Senate,,DEM,Michael J. Costa,42,34,1,7
+Richmond,U.S. Senate,,DEM,Sheldon Whitehouse*,329,171,57,101
+Richmond,U.S. Senate,,REP,Patricia Morgan,145,100,3,42
+Richmond,U.S. Senate,,REP,Raymond T. McKay,78,57,4,17
+Richmond Limited,U.S. House,2,DEM,Seth Magaziner*,0,0,0,0
+Richmond Limited,U.S. House,2,REP,Steven Corvi*,0,0,0,0
+Richmond Limited,U.S. Senate,,DEM,Michael J. Costa,0,0,0,0
+Richmond Limited,U.S. Senate,,DEM,Sheldon Whitehouse*,0,0,0,0
+Richmond Limited,U.S. Senate,,REP,Patricia Morgan,0,0,0,0
+Richmond Limited,U.S. Senate,,REP,Raymond T. McKay,0,0,0,0
+Scituate,State House,41,DEM,Shaina N. Smith*,234,135,52,47
+Scituate,State House,41,REP,Robert Quattrocchi*,160,135,7,18
+Scituate,State Senate,21,REP,Gordon Rogers*,150,124,7,19
+Scituate,U.S. House,2,DEM,Seth Magaziner*,235,135,54,46
+Scituate,U.S. House,2,REP,Steven Corvi*,147,122,7,18
+Scituate,U.S. Senate,,DEM,Michael J. Costa,50,43,5,2
+Scituate,U.S. Senate,,DEM,Sheldon Whitehouse*,221,120,54,47
+Scituate,U.S. Senate,,REP,Patricia Morgan,126,109,5,12
+Scituate,U.S. Senate,,REP,Raymond T. McKay,45,34,3,8
+Scituate Limited,U.S. House,2,DEM,Seth Magaziner*,0,0,0,0
+Scituate Limited,U.S. House,2,REP,Steven Corvi*,0,0,0,0
+Scituate Limited,U.S. Senate,,DEM,Michael J. Costa,0,0,0,0
+Scituate Limited,U.S. Senate,,DEM,Sheldon Whitehouse*,0,0,0,0
+Scituate Limited,U.S. Senate,,REP,Patricia Morgan,0,0,0,0
+Scituate Limited,U.S. Senate,,REP,Raymond T. McKay,0,0,0,0
+Smithfield,State House,44,DEM,Gregory J. Costantino*,375,248,78,49
+Smithfield,State House,44,REP,Peter Trementozzi*,179,144,18,17
+Smithfield,State House,53,DEM,Bernard Hawkins,369,223,117,29
+Smithfield,State House,53,REP,Paul M. Santucci*,222,174,22,26
+Smithfield,State Senate,22,DEM,David P. Tikoian*,769,496,196,77
+Smithfield,U.S. House,1,DEM,Gabriel Amo*,761,482,204,75
+Smithfield,U.S. House,1,REP,Allen R. Waters,386,303,41,42
+Smithfield,U.S. Senate,,DEM,Michael J. Costa,175,140,19,16
+Smithfield,U.S. Senate,,DEM,Sheldon Whitehouse*,700,417,211,72
+Smithfield,U.S. Senate,,REP,Patricia Morgan,279,204,37,38
+Smithfield,U.S. Senate,,REP,Raymond T. McKay,164,135,18,11
+Smithfield Limited,U.S. House,1,DEM,Gabriel Amo*,0,0,0,0
+Smithfield Limited,U.S. House,1,REP,Allen R. Waters,0,0,0,0
+Smithfield Limited,U.S. Senate,,DEM,Michael J. Costa,0,0,0,0
+Smithfield Limited,U.S. Senate,,DEM,Sheldon Whitehouse*,0,0,0,0
+Smithfield Limited,U.S. Senate,,REP,Patricia Morgan,0,0,0,0
+Smithfield Limited,U.S. Senate,,REP,Raymond T. McKay,0,0,0,0
+South Kingstown,State House,33,DEM,Carol Hagan McEntee*,596,301,98,197
+South Kingstown,State House,33,REP,Jessica Drew Day*,106,54,15,37
+South Kingstown,State House,34,DEM,Teresa Tanzi,542,328,44,170
+South Kingstown,State House,34,REP,Joanne R. Forti*,49,37,0,12
+South Kingstown,State House,35,DEM,Kathleen A. Fogarty*,802,398,88,316
+South Kingstown,State House,35,REP,Jennifer P. Nerbonne*,126,69,9,48
+South Kingstown,State House,36,DEM,Tina L. Spears*,302,185,31,86
+South Kingstown,State Senate,35,DEM,Bridget G. Valverde*,163,96,16,51
+South Kingstown,State Senate,37,DEM,Anita N. Jacobson,807,484,57,266
+South Kingstown,State Senate,37,DEM,Virginia S. Sosnowski*,1376,684,175,517
+South Kingstown,State Senate,37,REP,Raymond E. Gardner*,285,169,24,92
+South Kingstown,State Senate,38,DEM,Victoria Gu*,146,84,18,44
+South Kingstown,State Senate,38,REP,Westin J. Place*,19,11,1,7
+South Kingstown,U.S. House,2,DEM,Seth Magaziner*,2336,1251,264,821
+South Kingstown,U.S. House,2,REP,Steven Corvi*,325,193,28,104
+South Kingstown,U.S. Senate,,DEM,Michael J. Costa,268,174,24,70
+South Kingstown,U.S. Senate,,DEM,Sheldon Whitehouse*,2279,1213,247,819
+South Kingstown,U.S. Senate,,REP,Patricia Morgan,256,154,19,83
+South Kingstown,U.S. Senate,,REP,Raymond T. McKay,109,61,13,35
+South Kingstown Limited,U.S. House,2,DEM,Seth Magaziner*,0,0,0,0
+South Kingstown Limited,U.S. House,2,REP,Steven Corvi*,0,0,0,0
+South Kingstown Limited,U.S. Senate,,DEM,Michael J. Costa,0,0,0,0
+South Kingstown Limited,U.S. Senate,,DEM,Sheldon Whitehouse*,0,0,0,0
+South Kingstown Limited,U.S. Senate,,REP,Patricia Morgan,0,0,0,0
+South Kingstown Limited,U.S. Senate,,REP,Raymond T. McKay,0,0,0,0
+Tiverton,State House,70,DEM,John G. Edwards*,476,287,94,95
+Tiverton,State House,70,REP,Christopher M. Borden*,266,195,22,49
+Tiverton,State House,71,DEM,Michelle E. McGaw*,90,52,16,22
+Tiverton,State Senate,10,DEM,"Walter S. Felag, Jr.*",336,200,63,73
+Tiverton,State Senate,10,REP,Allyn E. Meyers*,172,125,16,31
+Tiverton,State Senate,12,DEM,Louis DiPalma*,219,136,44,39
+Tiverton,U.S. House,1,DEM,Gabriel Amo*,571,344,110,117
+Tiverton,U.S. House,1,REP,Allen R. Waters,263,195,22,46
+Tiverton,U.S. Senate,,DEM,Michael J. Costa,61,48,8,5
+Tiverton,U.S. Senate,,DEM,Sheldon Whitehouse*,561,338,106,117
+Tiverton,U.S. Senate,,REP,Patricia Morgan,198,156,14,28
+Tiverton,U.S. Senate,,REP,Raymond T. McKay,105,66,9,30
+Tiverton Limited,U.S. House,1,DEM,Gabriel Amo*,0,0,0,0
+Tiverton Limited,U.S. House,1,REP,Allen R. Waters,0,0,0,0
+Tiverton Limited,U.S. Senate,,DEM,Michael J. Costa,0,0,0,0
+Tiverton Limited,U.S. Senate,,DEM,Sheldon Whitehouse*,0,0,0,0
+Tiverton Limited,U.S. Senate,,REP,Patricia Morgan,0,0,0,0
+Tiverton Limited,U.S. Senate,,REP,Raymond T. McKay,0,0,0,0
+Warren,State House,67,DEM,Jason P. Knight*,203,136,41,26
+Warren,State House,68,DEM,June S. Speakman*,283,153,59,71
+Warren,State Senate,10,DEM,"Walter S. Felag, Jr.*",482,289,101,92
+Warren,State Senate,10,REP,Allyn E. Meyers*,133,83,17,33
+Warren,U.S. House,1,DEM,Gabriel Amo*,519,304,108,107
+Warren,U.S. House,1,REP,Allen R. Waters,128,82,17,29
+Warren,U.S. Senate,,DEM,Michael J. Costa,73,52,6,15
+Warren,U.S. Senate,,DEM,Sheldon Whitehouse*,504,291,109,104
+Warren,U.S. Senate,,REP,Patricia Morgan,83,56,10,17
+Warren,U.S. Senate,,REP,Raymond T. McKay,62,36,7,19
+Warren Limited,U.S. House,1,DEM,Gabriel Amo*,0,0,0,0
+Warren Limited,U.S. House,1,REP,Allen R. Waters,0,0,0,0
+Warren Limited,U.S. Senate,,DEM,Michael J. Costa,0,0,0,0
+Warren Limited,U.S. Senate,,DEM,Sheldon Whitehouse*,0,0,0,0
+Warren Limited,U.S. Senate,,REP,Patricia Morgan,0,0,0,0
+Warren Limited,U.S. Senate,,REP,Raymond T. McKay,0,0,0,0
+Warwick,Council Warwick Ward 7,7,DEM,Jacqueline Anderson,181,131,29,21
+Warwick,Council Warwick Ward 7,7,DEM,John T. Kirby*,207,145,43,19
+Warwick,Council Warwick Ward 7,7,DEM,Stephen M. Mulcahey,193,155,15,23
+Warwick,Non-Partisan School Committee At-Large City of Warwick,,NON,"Anthony G. Corrente, Jr.",1391,1046,218,127
+Warwick,Non-Partisan School Committee At-Large City of Warwick,,NON,David A. Testa,2485,1934,327,224
+Warwick,Non-Partisan School Committee At-Large City of Warwick,,NON,Karen A. Bachus,2101,1547,386,168
+Warwick,Non-Partisan School Committee At-Large City of Warwick,,NON,Sean P. Wiggins,2999,2464,333,202
+Warwick,Non-Partisan School Committee At-Large City of Warwick,,NON,Zachary A. Colon,2045,1516,322,207
+Warwick,Senate District Committee District 30,30,DEM,Ann Sprague Gooding,621,466,87,68
+Warwick,Senate District Committee District 30,30,DEM,Aubrey Fletcher*,642,457,121,64
+Warwick,Senate District Committee District 30,30,DEM,Daniel A. Calkin*,687,484,131,72
+Warwick,Senate District Committee District 30,30,DEM,David E. Revens,598,435,91,72
+Warwick,Senate District Committee District 30,30,DEM,Glen Raymond Whitehead,405,306,50,49
+Warwick,Senate District Committee District 30,30,DEM,Mary Preziosi*,720,522,134,64
+Warwick,Senate District Committee District 30,30,DEM,Michelle Nicole King,532,407,68,57
+Warwick,Senate District Committee District 30,30,DEM,Susan J. Martins-Phipps,540,405,74,61
+Warwick,Senate District Committee District 30,30,DEM,Zachary A. Colon*,712,511,119,82
+Warwick,Senate District Committee District 30,30,DEM,Zoe E. Colon*,653,466,117,70
+Warwick,State House,19,DEM,Joseph McNamara*,818,672,93,53
+Warwick,State House,20,DEM,David A. Bennett*,663,477,132,54
+Warwick,State House,21,DEM,James McElroy*,786,589,142,55
+Warwick,State House,21,REP,Marie A. Hopkins*,294,262,17,15
+Warwick,State House,22,DEM,"Joseph J. Solomon, Jr.*",629,508,64,57
+Warwick,State House,22,REP,David Stone*,228,201,11,16
+Warwick,State House,23,DEM,K. Joseph Shekarchi*,679,488,120,71
+Warwick,State House,24,DEM,Evan Patrick Shanley*,763,491,178,94
+Warwick,State House,26,DEM,"Earl A. Read, III*",29,22,4,3
+Warwick,State House,26,REP,Jeffrey W. Fisher*,15,8,4,3
+Warwick,State Senate,29,DEM,Jennifer T. Rourke,652,498,98,56
+Warwick,State Senate,29,DEM,"Peter A. Appollonio, Jr.*",1015,768,167,80
+Warwick,State Senate,29,REP,"Anthony P. DeLuca, II*",484,431,27,26
+Warwick,State Senate,30,DEM,Mark P. McKenney*,1470,1066,257,147
+Warwick,State Senate,31,DEM,Matthew L. LaMountain*,1472,1117,241,114
+Warwick,State Senate,31,REP,Lisa Morse*,402,326,40,36
+Warwick,U.S. House,2,DEM,Seth Magaziner*,4512,3333,783,396
+Warwick,U.S. House,2,REP,Steven Corvi*,1220,1035,91,94
+Warwick,U.S. Senate,,DEM,Michael J. Costa,856,741,64,51
+Warwick,U.S. Senate,,DEM,Sheldon Whitehouse*,4280,3097,787,396
+Warwick,U.S. Senate,,REP,Patricia Morgan,944,803,75,66
+Warwick,U.S. Senate,,REP,Raymond T. McKay,569,481,46,42
+Warwick Limited,U.S. House,2,DEM,Seth Magaziner*,0,0,0,0
+Warwick Limited,U.S. House,2,REP,Steven Corvi*,0,0,0,0
+Warwick Limited,U.S. Senate,,DEM,Michael J. Costa,0,0,0,0
+Warwick Limited,U.S. Senate,,DEM,Sheldon Whitehouse*,0,0,0,0
+Warwick Limited,U.S. Senate,,REP,Patricia Morgan,0,0,0,0
+Warwick Limited,U.S. Senate,,REP,Raymond T. McKay,0,0,0,0
+West Greenwich,State House,29,REP,Sherry L. Roberts*,141,96,6,39
+West Greenwich,State House,30,DEM,Justine Caldwell*,36,28,5,3
+West Greenwich,State Senate,21,REP,Gordon Rogers*,73,48,2,23
+West Greenwich,State Senate,33,DEM,Leonidas P. Raptakis,70,57,6,7
+West Greenwich,State Senate,33,REP,James P. Pierson*,38,28,2,8
+West Greenwich,State Senate,34,DEM,Stephen Moffitt*,29,21,3,5
+West Greenwich,State Senate,34,REP,Elaine J. Morgan*,48,33,3,12
+West Greenwich,U.S. House,2,DEM,Seth Magaziner*,165,115,23,27
+West Greenwich,U.S. House,2,REP,Steven Corvi*,155,104,7,44
+West Greenwich,U.S. Senate,,DEM,Michael J. Costa,33,28,1,4
+West Greenwich,U.S. Senate,,DEM,Sheldon Whitehouse*,149,103,21,25
+West Greenwich,U.S. Senate,,REP,Patricia Morgan,128,89,5,34
+West Greenwich,U.S. Senate,,REP,Raymond T. McKay,59,42,3,14
+West Greenwich Limited,U.S. House,2,DEM,Seth Magaziner*,0,0,0,0
+West Greenwich Limited,U.S. House,2,REP,Steven Corvi*,0,0,0,0
+West Greenwich Limited,U.S. Senate,,DEM,Michael J. Costa,0,0,0,0
+West Greenwich Limited,U.S. Senate,,DEM,Sheldon Whitehouse*,0,0,0,0
+West Greenwich Limited,U.S. Senate,,REP,Patricia Morgan,0,0,0,0
+West Greenwich Limited,U.S. Senate,,REP,Raymond T. McKay,0,0,0,0
+West Warwick,State House,25,DEM,Thomas E. Noret*,215,148,55,12
+West Warwick,State House,26,DEM,"Earl A. Read, III*",230,155,61,14
+West Warwick,State House,26,REP,Jeffrey W. Fisher*,202,167,19,16
+West Warwick,State House,27,DEM,Patricia A. Serpa*,319,209,93,17
+West Warwick,State House,27,REP,Andrew N. Kowalski*,153,129,19,5
+West Warwick,State Senate,27,DEM,Hanna Gallo*,56,36,16,4
+West Warwick,State Senate,9,DEM,John P. Burke*,689,467,183,39
+West Warwick,U.S. House,2,DEM,Seth Magaziner*,780,528,208,44
+West Warwick,U.S. House,2,REP,Steven Corvi*,443,374,43,26
+West Warwick,U.S. Senate,,DEM,Michael J. Costa,126,99,22,5
+West Warwick,U.S. Senate,,DEM,Sheldon Whitehouse*,728,488,196,44
+West Warwick,U.S. Senate,,REP,Patricia Morgan,416,357,32,27
+West Warwick,U.S. Senate,,REP,Raymond T. McKay,113,90,16,7
+West Warwick Limited,U.S. House,2,DEM,Seth Magaziner*,0,0,0,0
+West Warwick Limited,U.S. House,2,REP,Steven Corvi*,0,0,0,0
+West Warwick Limited,U.S. Senate,,DEM,Michael J. Costa,0,0,0,0
+West Warwick Limited,U.S. Senate,,DEM,Sheldon Whitehouse*,0,0,0,0
+West Warwick Limited,U.S. Senate,,REP,Patricia Morgan,0,0,0,0
+West Warwick Limited,U.S. Senate,,REP,Raymond T. McKay,0,0,0,0
+Westerly,State House,36,DEM,Tina L. Spears*,65,46,9,10
+Westerly,State House,37,DEM,Jonathan Daly-LaBelle,448,250,67,131
+Westerly,State House,37,DEM,Samuel Angelo Azzinaro*,831,414,164,253
+Westerly,State House,38,DEM,Brian Patrick Kennedy*,165,110,33,22
+Westerly,State Senate,38,DEM,Victoria Gu*,1266,691,243,332
+Westerly,State Senate,38,REP,Westin J. Place*,304,182,65,57
+Westerly,U.S. House,2,DEM,Seth Magaziner*,1250,674,247,329
+Westerly,U.S. House,2,REP,Steven Corvi*,287,169,64,54
+Westerly,U.S. Senate,,DEM,Michael J. Costa,233,144,31,58
+Westerly,U.S. Senate,,DEM,Sheldon Whitehouse*,1235,660,245,330
+Westerly,U.S. Senate,,REP,Patricia Morgan,195,115,45,35
+Westerly,U.S. Senate,,REP,Raymond T. McKay,128,78,23,27
+Westerly Limited,U.S. House,2,DEM,Seth Magaziner*,0,0,0,0
+Westerly Limited,U.S. House,2,REP,Steven Corvi*,0,0,0,0
+Westerly Limited,U.S. Senate,,DEM,Michael J. Costa,0,0,0,0
+Westerly Limited,U.S. Senate,,DEM,Sheldon Whitehouse*,0,0,0,0
+Westerly Limited,U.S. Senate,,REP,Patricia Morgan,0,0,0,0
+Westerly Limited,U.S. Senate,,REP,Raymond T. McKay,0,0,0,0
+Woonsocket,Non-Partisan Mayor City of Woonsocket,,NON,Christopher A. Beauchamp,1214,967,127,120
+Woonsocket,Non-Partisan Mayor City of Woonsocket,,NON,John F. Ward,1674,1309,199,166
+Woonsocket,Non-Partisan Mayor City of Woonsocket,,NON,Keith A. Harrison,173,120,37,16
+Woonsocket,Representative District Committee District 49,49,DEM,Alexander G. Kithes*,182,141,25,16
+Woonsocket,Representative District Committee District 49,49,DEM,Georgia L. Young*,205,155,28,22
+Woonsocket,Representative District Committee District 49,49,DEM,Janice M. Colerick*,206,153,30,23
+Woonsocket,Representative District Committee District 49,49,DEM,Jennie P. Kithes*,171,127,27,17
+Woonsocket,Representative District Committee District 49,49,DEM,Michael Disney,106,78,16,12
+Woonsocket,Representative District Committee District 49,49,DEM,Ryan E. Brown*,202,153,30,19
+Woonsocket,State House,50,DEM,Stephen M. Casey*,520,383,88,49
+Woonsocket,State House,51,DEM,Garrett S. Mancieri,396,300,66,30
+Woonsocket,State House,51,DEM,Robert D. Phillips,465,352,67,46
+Woonsocket,State Senate,20,DEM,Brian J. Thompson*,892,665,144,83
+Woonsocket,State Senate,20,DEM,Denis Joseph Collins,167,125,25,17
+Woonsocket,State Senate,20,DEM,Marian Juskuv,43,30,11,2
+Woonsocket,State Senate,24,DEM,Melissa Murray*,664,504,95,65
+Woonsocket,State Senate,24,REP,Craig J. Lacouture*,319,265,20,34
+Woonsocket,U.S. House,1,DEM,Gabriel Amo*,1455,1072,252,131
+Woonsocket,U.S. House,1,REP,Allen R. Waters,569,468,53,48
+Woonsocket,U.S. Senate,,DEM,Michael J. Costa,499,413,31,55
+Woonsocket,U.S. Senate,,DEM,Sheldon Whitehouse*,1384,1001,262,121
+Woonsocket,U.S. Senate,,REP,Patricia Morgan,343,289,27,27
+Woonsocket,U.S. Senate,,REP,Raymond T. McKay,343,274,37,32
+Woonsocket Limited,U.S. House,1,DEM,Gabriel Amo*,0,0,0,0
+Woonsocket Limited,U.S. House,1,REP,Allen R. Waters,0,0,0,0
+Woonsocket Limited,U.S. Senate,,DEM,Michael J. Costa,0,0,0,0
+Woonsocket Limited,U.S. Senate,,DEM,Sheldon Whitehouse*,0,0,0,0
+Woonsocket Limited,U.S. Senate,,REP,Patricia Morgan,0,0,0,0
+Woonsocket Limited,U.S. Senate,,REP,Raymond T. McKay,0,0,0,0

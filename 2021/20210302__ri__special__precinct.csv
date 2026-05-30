@@ -1,0 +1,993 @@
+county,precinct,office,district,party,candidate,votes,election_day,mail,early_voting
+Barrington,Barrington 0101,"1. Higher Education Facilities - $107,300,000",,NON,Approve,1881,270,1408,203
+Barrington,Barrington 0101,"1. Higher Education Facilities - $107,300,000",,NON,Reject,926,196,607,123
+Barrington,Barrington 0101,"2. Beach, Clean Water and Green Bond - $74,000,000",,NON,Approve,2380,345,1790,245
+Barrington,Barrington 0101,"2. Beach, Clean Water and Green Bond - $74,000,000",,NON,Reject,429,122,226,81
+Barrington,Barrington 0101,"3. Housing and Community Opportunity - $65,000,000",,NON,Approve,1920,268,1463,189
+Barrington,Barrington 0101,"3. Housing and Community Opportunity - $65,000,000",,NON,Reject,869,195,542,132
+Barrington,Barrington 0101,"4. Transportation Infrastructure - $71,700,000",,NON,Approve,2443,359,1828,256
+Barrington,Barrington 0101,"4. Transportation Infrastructure - $71,700,000",,NON,Reject,370,108,192,70
+Barrington,Barrington 0101,"5. Early Care & Education Capital Fund - $15,000,000",,NON,Approve,2093,298,1575,220
+Barrington,Barrington 0101,"5. Early Care & Education Capital Fund - $15,000,000",,NON,Reject,719,169,445,105
+Barrington,Barrington 0101,"6. Arts, Economy & State Preservation Grants $7,000,000",,NON,Approve,1983,294,1479,210
+Barrington,Barrington 0101,"6. Arts, Economy & State Preservation Grants $7,000,000",,NON,Reject,827,174,540,113
+Barrington,Barrington 0101,"7. Industrial Facilities Infrastructure - $60,000,000",,NON,Approve,1765,256,1316,193
+Barrington,Barrington 0101,"7. Industrial Facilities Infrastructure - $60,000,000",,NON,Reject,1036,209,696,131
+Bristol,Bristol 0200,"1. Higher Education Facilities - $107,300,000",,NON,Approve,1245,0,1086,159
+Bristol,Bristol 0200,"1. Higher Education Facilities - $107,300,000",,NON,Reject,792,1,662,129
+Bristol,Bristol 0200,"2. Beach, Clean Water and Green Bond - $74,000,000",,NON,Approve,1695,0,1474,221
+Bristol,Bristol 0200,"2. Beach, Clean Water and Green Bond - $74,000,000",,NON,Reject,345,1,278,66
+Bristol,Bristol 0200,"3. Housing and Community Opportunity - $65,000,000",,NON,Approve,1454,0,1281,173
+Bristol,Bristol 0200,"3. Housing and Community Opportunity - $65,000,000",,NON,Reject,583,1,468,114
+Bristol,Bristol 0200,"4. Transportation Infrastructure - $71,700,000",,NON,Approve,1808,0,1567,241
+Bristol,Bristol 0200,"4. Transportation Infrastructure - $71,700,000",,NON,Reject,241,1,193,47
+Bristol,Bristol 0200,"5. Early Care & Education Capital Fund - $15,000,000",,NON,Approve,1456,0,1274,182
+Bristol,Bristol 0200,"5. Early Care & Education Capital Fund - $15,000,000",,NON,Reject,580,1,473,106
+Bristol,Bristol 0200,"6. Arts, Economy & State Preservation Grants $7,000,000",,NON,Approve,1321,0,1146,175
+Bristol,Bristol 0200,"6. Arts, Economy & State Preservation Grants $7,000,000",,NON,Reject,715,1,603,111
+Bristol,Bristol 0200,"7. Industrial Facilities Infrastructure - $60,000,000",,NON,Approve,1287,0,1123,164
+Bristol,Bristol 0200,"7. Industrial Facilities Infrastructure - $60,000,000",,NON,Reject,746,1,622,123
+Bristol,Bristol 0201,"1. Higher Education Facilities - $107,300,000",,NON,Approve,137,137,0,0
+Bristol,Bristol 0201,"1. Higher Education Facilities - $107,300,000",,NON,Reject,163,163,0,0
+Bristol,Bristol 0201,"2. Beach, Clean Water and Green Bond - $74,000,000",,NON,Approve,191,191,0,0
+Bristol,Bristol 0201,"2. Beach, Clean Water and Green Bond - $74,000,000",,NON,Reject,110,110,0,0
+Bristol,Bristol 0201,"3. Housing and Community Opportunity - $65,000,000",,NON,Approve,155,155,0,0
+Bristol,Bristol 0201,"3. Housing and Community Opportunity - $65,000,000",,NON,Reject,144,144,0,0
+Bristol,Bristol 0201,"4. Transportation Infrastructure - $71,700,000",,NON,Approve,217,217,0,0
+Bristol,Bristol 0201,"4. Transportation Infrastructure - $71,700,000",,NON,Reject,82,82,0,0
+Bristol,Bristol 0201,"5. Early Care & Education Capital Fund - $15,000,000",,NON,Approve,161,161,0,0
+Bristol,Bristol 0201,"5. Early Care & Education Capital Fund - $15,000,000",,NON,Reject,137,137,0,0
+Bristol,Bristol 0201,"6. Arts, Economy & State Preservation Grants $7,000,000",,NON,Approve,152,152,0,0
+Bristol,Bristol 0201,"6. Arts, Economy & State Preservation Grants $7,000,000",,NON,Reject,148,148,0,0
+Bristol,Bristol 0201,"7. Industrial Facilities Infrastructure - $60,000,000",,NON,Approve,156,156,0,0
+Bristol,Bristol 0201,"7. Industrial Facilities Infrastructure - $60,000,000",,NON,Reject,145,145,0,0
+Bristol,Bristol 0205,"1. Higher Education Facilities - $107,300,000",,NON,Approve,91,91,0,0
+Bristol,Bristol 0205,"1. Higher Education Facilities - $107,300,000",,NON,Reject,130,130,0,0
+Bristol,Bristol 0205,"2. Beach, Clean Water and Green Bond - $74,000,000",,NON,Approve,134,134,0,0
+Bristol,Bristol 0205,"2. Beach, Clean Water and Green Bond - $74,000,000",,NON,Reject,87,87,0,0
+Bristol,Bristol 0205,"3. Housing and Community Opportunity - $65,000,000",,NON,Approve,104,104,0,0
+Bristol,Bristol 0205,"3. Housing and Community Opportunity - $65,000,000",,NON,Reject,116,116,0,0
+Bristol,Bristol 0205,"4. Transportation Infrastructure - $71,700,000",,NON,Approve,146,146,0,0
+Bristol,Bristol 0205,"4. Transportation Infrastructure - $71,700,000",,NON,Reject,76,76,0,0
+Bristol,Bristol 0205,"5. Early Care & Education Capital Fund - $15,000,000",,NON,Approve,102,102,0,0
+Bristol,Bristol 0205,"5. Early Care & Education Capital Fund - $15,000,000",,NON,Reject,118,118,0,0
+Bristol,Bristol 0205,"6. Arts, Economy & State Preservation Grants $7,000,000",,NON,Approve,99,99,0,0
+Bristol,Bristol 0205,"6. Arts, Economy & State Preservation Grants $7,000,000",,NON,Reject,122,122,0,0
+Bristol,Bristol 0205,"7. Industrial Facilities Infrastructure - $60,000,000",,NON,Approve,99,99,0,0
+Bristol,Bristol 0205,"7. Industrial Facilities Infrastructure - $60,000,000",,NON,Reject,121,121,0,0
+Burrillville,Burrillville 0301,"1. Higher Education Facilities - $107,300,000",,NON,Approve,705,117,543,45
+Burrillville,Burrillville 0301,"1. Higher Education Facilities - $107,300,000",,NON,Reject,876,327,456,93
+Burrillville,Burrillville 0301,"2. Beach, Clean Water and Green Bond - $74,000,000",,NON,Approve,1054,204,771,79
+Burrillville,Burrillville 0301,"2. Beach, Clean Water and Green Bond - $74,000,000",,NON,Reject,523,239,224,60
+Burrillville,Burrillville 0301,"3. Housing and Community Opportunity - $65,000,000",,NON,Approve,764,114,599,51
+Burrillville,Burrillville 0301,"3. Housing and Community Opportunity - $65,000,000",,NON,Reject,802,323,393,86
+Burrillville,Burrillville 0301,"4. Transportation Infrastructure - $71,700,000",,NON,Approve,1128,231,817,80
+Burrillville,Burrillville 0301,"4. Transportation Infrastructure - $71,700,000",,NON,Reject,453,213,181,59
+Burrillville,Burrillville 0301,"5. Early Care & Education Capital Fund - $15,000,000",,NON,Approve,829,142,632,55
+Burrillville,Burrillville 0301,"5. Early Care & Education Capital Fund - $15,000,000",,NON,Reject,749,301,363,85
+Burrillville,Burrillville 0301,"6. Arts, Economy & State Preservation Grants $7,000,000",,NON,Approve,681,116,518,47
+Burrillville,Burrillville 0301,"6. Arts, Economy & State Preservation Grants $7,000,000",,NON,Reject,899,328,479,92
+Burrillville,Burrillville 0301,"7. Industrial Facilities Infrastructure - $60,000,000",,NON,Approve,708,150,503,55
+Burrillville,Burrillville 0301,"7. Industrial Facilities Infrastructure - $60,000,000",,NON,Reject,868,294,491,83
+Central Falls,Central Falls 0401,"1. Higher Education Facilities - $107,300,000",,NON,Approve,371,80,250,41
+Central Falls,Central Falls 0401,"1. Higher Education Facilities - $107,300,000",,NON,Reject,96,32,56,8
+Central Falls,Central Falls 0401,"2. Beach, Clean Water and Green Bond - $74,000,000",,NON,Approve,396,87,269,40
+Central Falls,Central Falls 0401,"2. Beach, Clean Water and Green Bond - $74,000,000",,NON,Reject,61,24,30,7
+Central Falls,Central Falls 0401,"3. Housing and Community Opportunity - $65,000,000",,NON,Approve,387,82,262,43
+Central Falls,Central Falls 0401,"3. Housing and Community Opportunity - $65,000,000",,NON,Reject,70,29,35,6
+Central Falls,Central Falls 0401,"4. Transportation Infrastructure - $71,700,000",,NON,Approve,406,86,277,43
+Central Falls,Central Falls 0401,"4. Transportation Infrastructure - $71,700,000",,NON,Reject,53,25,22,6
+Central Falls,Central Falls 0401,"5. Early Care & Education Capital Fund - $15,000,000",,NON,Approve,381,87,253,41
+Central Falls,Central Falls 0401,"5. Early Care & Education Capital Fund - $15,000,000",,NON,Reject,87,26,53,8
+Central Falls,Central Falls 0401,"6. Arts, Economy & State Preservation Grants $7,000,000",,NON,Approve,351,76,239,36
+Central Falls,Central Falls 0401,"6. Arts, Economy & State Preservation Grants $7,000,000",,NON,Reject,109,30,70,9
+Central Falls,Central Falls 0401,"7. Industrial Facilities Infrastructure - $60,000,000",,NON,Approve,347,78,228,41
+Central Falls,Central Falls 0401,"7. Industrial Facilities Infrastructure - $60,000,000",,NON,Reject,115,30,80,5
+Charlestown,Charlestown 0501,"1. Higher Education Facilities - $107,300,000",,NON,Approve,721,160,459,102
+Charlestown,Charlestown 0501,"1. Higher Education Facilities - $107,300,000",,NON,Reject,599,221,256,122
+Charlestown,Charlestown 0501,"2. Beach, Clean Water and Green Bond - $74,000,000",,NON,Approve,973,235,592,146
+Charlestown,Charlestown 0501,"2. Beach, Clean Water and Green Bond - $74,000,000",,NON,Reject,347,143,125,79
+Charlestown,Charlestown 0501,"3. Housing and Community Opportunity - $65,000,000",,NON,Approve,778,175,489,114
+Charlestown,Charlestown 0501,"3. Housing and Community Opportunity - $65,000,000",,NON,Reject,536,201,229,106
+Charlestown,Charlestown 0501,"4. Transportation Infrastructure - $71,700,000",,NON,Approve,1000,234,610,156
+Charlestown,Charlestown 0501,"4. Transportation Infrastructure - $71,700,000",,NON,Reject,320,144,108,68
+Charlestown,Charlestown 0501,"5. Early Care & Education Capital Fund - $15,000,000",,NON,Approve,827,180,524,123
+Charlestown,Charlestown 0501,"5. Early Care & Education Capital Fund - $15,000,000",,NON,Reject,494,201,194,99
+Charlestown,Charlestown 0501,"6. Arts, Economy & State Preservation Grants $7,000,000",,NON,Approve,717,167,443,107
+Charlestown,Charlestown 0501,"6. Arts, Economy & State Preservation Grants $7,000,000",,NON,Reject,605,213,276,116
+Charlestown,Charlestown 0501,"7. Industrial Facilities Infrastructure - $60,000,000",,NON,Approve,697,167,415,115
+Charlestown,Charlestown 0501,"7. Industrial Facilities Infrastructure - $60,000,000",,NON,Reject,627,214,304,109
+Coventry,Coventry 0600,"1. Higher Education Facilities - $107,300,000",,NON,Approve,1203,2,1049,152
+Coventry,Coventry 0600,"1. Higher Education Facilities - $107,300,000",,NON,Reject,1191,1,936,254
+Coventry,Coventry 0600,"2. Beach, Clean Water and Green Bond - $74,000,000",,NON,Approve,1802,1,1554,247
+Coventry,Coventry 0600,"2. Beach, Clean Water and Green Bond - $74,000,000",,NON,Reject,589,2,427,160
+Coventry,Coventry 0600,"3. Housing and Community Opportunity - $65,000,000",,NON,Approve,1462,2,1286,174
+Coventry,Coventry 0600,"3. Housing and Community Opportunity - $65,000,000",,NON,Reject,920,1,690,229
+Coventry,Coventry 0600,"4. Transportation Infrastructure - $71,700,000",,NON,Approve,1894,2,1624,268
+Coventry,Coventry 0600,"4. Transportation Infrastructure - $71,700,000",,NON,Reject,502,1,362,139
+Coventry,Coventry 0600,"5. Early Care & Education Capital Fund - $15,000,000",,NON,Approve,1457,2,1283,172
+Coventry,Coventry 0600,"5. Early Care & Education Capital Fund - $15,000,000",,NON,Reject,932,1,695,236
+Coventry,Coventry 0600,"6. Arts, Economy & State Preservation Grants $7,000,000",,NON,Approve,1227,1,1073,153
+Coventry,Coventry 0600,"6. Arts, Economy & State Preservation Grants $7,000,000",,NON,Reject,1170,2,916,252
+Coventry,Coventry 0600,"7. Industrial Facilities Infrastructure - $60,000,000",,NON,Approve,1341,1,1155,185
+Coventry,Coventry 0600,"7. Industrial Facilities Infrastructure - $60,000,000",,NON,Reject,1054,2,831,221
+Coventry,Coventry 0601,"1. Higher Education Facilities - $107,300,000",,NON,Approve,218,218,0,0
+Coventry,Coventry 0601,"1. Higher Education Facilities - $107,300,000",,NON,Reject,481,481,0,0
+Coventry,Coventry 0601,"2. Beach, Clean Water and Green Bond - $74,000,000",,NON,Approve,347,347,0,0
+Coventry,Coventry 0601,"2. Beach, Clean Water and Green Bond - $74,000,000",,NON,Reject,350,350,0,0
+Coventry,Coventry 0601,"3. Housing and Community Opportunity - $65,000,000",,NON,Approve,241,241,0,0
+Coventry,Coventry 0601,"3. Housing and Community Opportunity - $65,000,000",,NON,Reject,450,450,0,0
+Coventry,Coventry 0601,"4. Transportation Infrastructure - $71,700,000",,NON,Approve,389,389,0,0
+Coventry,Coventry 0601,"4. Transportation Infrastructure - $71,700,000",,NON,Reject,309,309,0,0
+Coventry,Coventry 0601,"5. Early Care & Education Capital Fund - $15,000,000",,NON,Approve,249,249,0,0
+Coventry,Coventry 0601,"5. Early Care & Education Capital Fund - $15,000,000",,NON,Reject,448,448,0,0
+Coventry,Coventry 0601,"6. Arts, Economy & State Preservation Grants $7,000,000",,NON,Approve,221,221,0,0
+Coventry,Coventry 0601,"6. Arts, Economy & State Preservation Grants $7,000,000",,NON,Reject,476,476,0,0
+Coventry,Coventry 0601,"7. Industrial Facilities Infrastructure - $60,000,000",,NON,Approve,263,263,0,0
+Coventry,Coventry 0601,"7. Industrial Facilities Infrastructure - $60,000,000",,NON,Reject,433,433,0,0
+Coventry,Coventry 0602,"1. Higher Education Facilities - $107,300,000",,NON,Approve,108,108,0,0
+Coventry,Coventry 0602,"1. Higher Education Facilities - $107,300,000",,NON,Reject,309,309,0,0
+Coventry,Coventry 0602,"2. Beach, Clean Water and Green Bond - $74,000,000",,NON,Approve,179,179,0,0
+Coventry,Coventry 0602,"2. Beach, Clean Water and Green Bond - $74,000,000",,NON,Reject,239,239,0,0
+Coventry,Coventry 0602,"3. Housing and Community Opportunity - $65,000,000",,NON,Approve,102,102,0,0
+Coventry,Coventry 0602,"3. Housing and Community Opportunity - $65,000,000",,NON,Reject,311,311,0,0
+Coventry,Coventry 0602,"4. Transportation Infrastructure - $71,700,000",,NON,Approve,220,220,0,0
+Coventry,Coventry 0602,"4. Transportation Infrastructure - $71,700,000",,NON,Reject,198,198,0,0
+Coventry,Coventry 0602,"5. Early Care & Education Capital Fund - $15,000,000",,NON,Approve,112,112,0,0
+Coventry,Coventry 0602,"5. Early Care & Education Capital Fund - $15,000,000",,NON,Reject,305,305,0,0
+Coventry,Coventry 0602,"6. Arts, Economy & State Preservation Grants $7,000,000",,NON,Approve,95,95,0,0
+Coventry,Coventry 0602,"6. Arts, Economy & State Preservation Grants $7,000,000",,NON,Reject,320,320,0,0
+Coventry,Coventry 0602,"7. Industrial Facilities Infrastructure - $60,000,000",,NON,Approve,131,131,0,0
+Coventry,Coventry 0602,"7. Industrial Facilities Infrastructure - $60,000,000",,NON,Reject,286,286,0,0
+Cranston,Cranston 0700,"1. Higher Education Facilities - $107,300,000",,NON,Approve,3574,9,3322,243
+Cranston,Cranston 0700,"1. Higher Education Facilities - $107,300,000",,NON,Reject,1940,3,1777,160
+Cranston,Cranston 0700,"2. Beach, Clean Water and Green Bond - $74,000,000",,NON,Approve,4607,11,4308,288
+Cranston,Cranston 0700,"2. Beach, Clean Water and Green Bond - $74,000,000",,NON,Reject,894,1,777,116
+Cranston,Cranston 0700,"3. Housing and Community Opportunity - $65,000,000",,NON,Approve,4010,10,3740,260
+Cranston,Cranston 0700,"3. Housing and Community Opportunity - $65,000,000",,NON,Reject,1480,2,1335,143
+Cranston,Cranston 0700,"4. Transportation Infrastructure - $71,700,000",,NON,Approve,4675,11,4353,311
+Cranston,Cranston 0700,"4. Transportation Infrastructure - $71,700,000",,NON,Reject,840,1,746,93
+Cranston,Cranston 0700,"5. Early Care & Education Capital Fund - $15,000,000",,NON,Approve,3921,9,3649,263
+Cranston,Cranston 0700,"5. Early Care & Education Capital Fund - $15,000,000",,NON,Reject,1562,3,1420,139
+Cranston,Cranston 0700,"6. Arts, Economy & State Preservation Grants $7,000,000",,NON,Approve,3673,9,3422,242
+Cranston,Cranston 0700,"6. Arts, Economy & State Preservation Grants $7,000,000",,NON,Reject,1835,3,1671,161
+Cranston,Cranston 0700,"7. Industrial Facilities Infrastructure - $60,000,000",,NON,Approve,3377,9,3129,239
+Cranston,Cranston 0700,"7. Industrial Facilities Infrastructure - $60,000,000",,NON,Reject,2120,3,1956,161
+Cranston,Cranston 0709,"1. Higher Education Facilities - $107,300,000",,NON,Approve,268,268,0,0
+Cranston,Cranston 0709,"1. Higher Education Facilities - $107,300,000",,NON,Reject,388,388,0,0
+Cranston,Cranston 0709,"2. Beach, Clean Water and Green Bond - $74,000,000",,NON,Approve,368,368,0,0
+Cranston,Cranston 0709,"2. Beach, Clean Water and Green Bond - $74,000,000",,NON,Reject,288,288,0,0
+Cranston,Cranston 0709,"3. Housing and Community Opportunity - $65,000,000",,NON,Approve,278,278,0,0
+Cranston,Cranston 0709,"3. Housing and Community Opportunity - $65,000,000",,NON,Reject,374,374,0,0
+Cranston,Cranston 0709,"4. Transportation Infrastructure - $71,700,000",,NON,Approve,417,417,0,0
+Cranston,Cranston 0709,"4. Transportation Infrastructure - $71,700,000",,NON,Reject,239,239,0,0
+Cranston,Cranston 0709,"5. Early Care & Education Capital Fund - $15,000,000",,NON,Approve,281,281,0,0
+Cranston,Cranston 0709,"5. Early Care & Education Capital Fund - $15,000,000",,NON,Reject,374,374,0,0
+Cranston,Cranston 0709,"6. Arts, Economy & State Preservation Grants $7,000,000",,NON,Approve,269,269,0,0
+Cranston,Cranston 0709,"6. Arts, Economy & State Preservation Grants $7,000,000",,NON,Reject,384,384,0,0
+Cranston,Cranston 0709,"7. Industrial Facilities Infrastructure - $60,000,000",,NON,Approve,295,295,0,0
+Cranston,Cranston 0709,"7. Industrial Facilities Infrastructure - $60,000,000",,NON,Reject,361,361,0,0
+Cranston,Cranston 0722,"1. Higher Education Facilities - $107,300,000",,NON,Approve,217,217,0,0
+Cranston,Cranston 0722,"1. Higher Education Facilities - $107,300,000",,NON,Reject,232,232,0,0
+Cranston,Cranston 0722,"2. Beach, Clean Water and Green Bond - $74,000,000",,NON,Approve,276,276,0,0
+Cranston,Cranston 0722,"2. Beach, Clean Water and Green Bond - $74,000,000",,NON,Reject,169,169,0,0
+Cranston,Cranston 0722,"3. Housing and Community Opportunity - $65,000,000",,NON,Approve,222,222,0,0
+Cranston,Cranston 0722,"3. Housing and Community Opportunity - $65,000,000",,NON,Reject,222,222,0,0
+Cranston,Cranston 0722,"4. Transportation Infrastructure - $71,700,000",,NON,Approve,297,297,0,0
+Cranston,Cranston 0722,"4. Transportation Infrastructure - $71,700,000",,NON,Reject,149,149,0,0
+Cranston,Cranston 0722,"5. Early Care & Education Capital Fund - $15,000,000",,NON,Approve,227,227,0,0
+Cranston,Cranston 0722,"5. Early Care & Education Capital Fund - $15,000,000",,NON,Reject,220,220,0,0
+Cranston,Cranston 0722,"6. Arts, Economy & State Preservation Grants $7,000,000",,NON,Approve,216,216,0,0
+Cranston,Cranston 0722,"6. Arts, Economy & State Preservation Grants $7,000,000",,NON,Reject,230,230,0,0
+Cranston,Cranston 0722,"7. Industrial Facilities Infrastructure - $60,000,000",,NON,Approve,211,211,0,0
+Cranston,Cranston 0722,"7. Industrial Facilities Infrastructure - $60,000,000",,NON,Reject,232,232,0,0
+Cranston,Cranston 0727,"1. Higher Education Facilities - $107,300,000",,NON,Approve,229,229,0,0
+Cranston,Cranston 0727,"1. Higher Education Facilities - $107,300,000",,NON,Reject,134,134,0,0
+Cranston,Cranston 0727,"2. Beach, Clean Water and Green Bond - $74,000,000",,NON,Approve,274,274,0,0
+Cranston,Cranston 0727,"2. Beach, Clean Water and Green Bond - $74,000,000",,NON,Reject,88,88,0,0
+Cranston,Cranston 0727,"3. Housing and Community Opportunity - $65,000,000",,NON,Approve,235,235,0,0
+Cranston,Cranston 0727,"3. Housing and Community Opportunity - $65,000,000",,NON,Reject,128,128,0,0
+Cranston,Cranston 0727,"4. Transportation Infrastructure - $71,700,000",,NON,Approve,263,263,0,0
+Cranston,Cranston 0727,"4. Transportation Infrastructure - $71,700,000",,NON,Reject,100,100,0,0
+Cranston,Cranston 0727,"5. Early Care & Education Capital Fund - $15,000,000",,NON,Approve,230,230,0,0
+Cranston,Cranston 0727,"5. Early Care & Education Capital Fund - $15,000,000",,NON,Reject,132,132,0,0
+Cranston,Cranston 0727,"6. Arts, Economy & State Preservation Grants $7,000,000",,NON,Approve,232,232,0,0
+Cranston,Cranston 0727,"6. Arts, Economy & State Preservation Grants $7,000,000",,NON,Reject,130,130,0,0
+Cranston,Cranston 0727,"7. Industrial Facilities Infrastructure - $60,000,000",,NON,Approve,204,204,0,0
+Cranston,Cranston 0727,"7. Industrial Facilities Infrastructure - $60,000,000",,NON,Reject,157,157,0,0
+Cumberland,Cumberland 0801,"1. Higher Education Facilities - $107,300,000",,NON,Approve,2065,281,1676,108
+Cumberland,Cumberland 0801,"1. Higher Education Facilities - $107,300,000",,NON,Reject,1662,384,1140,138
+Cumberland,Cumberland 0801,"2. Beach, Clean Water and Green Bond - $74,000,000",,NON,Approve,2900,393,2347,160
+Cumberland,Cumberland 0801,"2. Beach, Clean Water and Green Bond - $74,000,000",,NON,Reject,817,269,460,88
+Cumberland,Cumberland 0801,"3. Housing and Community Opportunity - $65,000,000",,NON,Approve,2278,280,1882,116
+Cumberland,Cumberland 0801,"3. Housing and Community Opportunity - $65,000,000",,NON,Reject,1411,370,918,123
+Cumberland,Cumberland 0801,"4. Transportation Infrastructure - $71,700,000",,NON,Approve,3070,441,2452,177
+Cumberland,Cumberland 0801,"4. Transportation Infrastructure - $71,700,000",,NON,Reject,662,223,369,70
+Cumberland,Cumberland 0801,"5. Early Care & Education Capital Fund - $15,000,000",,NON,Approve,2373,316,1928,129
+Cumberland,Cumberland 0801,"5. Early Care & Education Capital Fund - $15,000,000",,NON,Reject,1345,346,883,116
+Cumberland,Cumberland 0801,"6. Arts, Economy & State Preservation Grants $7,000,000",,NON,Approve,2128,296,1727,105
+Cumberland,Cumberland 0801,"6. Arts, Economy & State Preservation Grants $7,000,000",,NON,Reject,1595,365,1091,139
+Cumberland,Cumberland 0801,"7. Industrial Facilities Infrastructure - $60,000,000",,NON,Approve,2106,316,1652,138
+Cumberland,Cumberland 0801,"7. Industrial Facilities Infrastructure - $60,000,000",,NON,Reject,1608,348,1150,110
+East Greenwich,East Greenwich 0901,"1. Higher Education Facilities - $107,300,000",,NON,Approve,1329,283,918,128
+East Greenwich,East Greenwich 0901,"1. Higher Education Facilities - $107,300,000",,NON,Reject,834,235,506,93
+East Greenwich,East Greenwich 0901,"2. Beach, Clean Water and Green Bond - $74,000,000",,NON,Approve,1699,346,1201,152
+East Greenwich,East Greenwich 0901,"2. Beach, Clean Water and Green Bond - $74,000,000",,NON,Reject,457,171,218,68
+East Greenwich,East Greenwich 0901,"3. Housing and Community Opportunity - $65,000,000",,NON,Approve,1343,264,949,130
+East Greenwich,East Greenwich 0901,"3. Housing and Community Opportunity - $65,000,000",,NON,Reject,811,250,472,89
+East Greenwich,East Greenwich 0901,"4. Transportation Infrastructure - $71,700,000",,NON,Approve,1749,358,1240,151
+East Greenwich,East Greenwich 0901,"4. Transportation Infrastructure - $71,700,000",,NON,Reject,406,159,178,69
+East Greenwich,East Greenwich 0901,"5. Early Care & Education Capital Fund - $15,000,000",,NON,Approve,1410,281,997,132
+East Greenwich,East Greenwich 0901,"5. Early Care & Education Capital Fund - $15,000,000",,NON,Reject,741,235,418,88
+East Greenwich,East Greenwich 0901,"6. Arts, Economy & State Preservation Grants $7,000,000",,NON,Approve,1304,270,905,129
+East Greenwich,East Greenwich 0901,"6. Arts, Economy & State Preservation Grants $7,000,000",,NON,Reject,855,247,517,91
+East Greenwich,East Greenwich 0901,"7. Industrial Facilities Infrastructure - $60,000,000",,NON,Approve,1291,291,870,130
+East Greenwich,East Greenwich 0901,"7. Industrial Facilities Infrastructure - $60,000,000",,NON,Reject,859,225,544,90
+East Providence,East Providence 1001,"1. Higher Education Facilities - $107,300,000",,NON,Approve,2873,391,2240,242
+East Providence,East Providence 1001,"1. Higher Education Facilities - $107,300,000",,NON,Reject,1676,319,1167,190
+East Providence,East Providence 1001,"2. Beach, Clean Water and Green Bond - $74,000,000",,NON,Approve,3789,497,2957,335
+East Providence,East Providence 1001,"2. Beach, Clean Water and Green Bond - $74,000,000",,NON,Reject,751,214,441,96
+East Providence,East Providence 1001,"3. Housing and Community Opportunity - $65,000,000",,NON,Approve,3309,412,2618,279
+East Providence,East Providence 1001,"3. Housing and Community Opportunity - $65,000,000",,NON,Reject,1203,287,766,150
+East Providence,East Providence 1001,"4. Transportation Infrastructure - $71,700,000",,NON,Approve,3860,503,3009,348
+East Providence,East Providence 1001,"4. Transportation Infrastructure - $71,700,000",,NON,Reject,692,209,404,79
+East Providence,East Providence 1001,"5. Early Care & Education Capital Fund - $15,000,000",,NON,Approve,3275,425,2577,273
+East Providence,East Providence 1001,"5. Early Care & Education Capital Fund - $15,000,000",,NON,Reject,1279,289,830,160
+East Providence,East Providence 1001,"6. Arts, Economy & State Preservation Grants $7,000,000",,NON,Approve,2972,392,2314,266
+East Providence,East Providence 1001,"6. Arts, Economy & State Preservation Grants $7,000,000",,NON,Reject,1574,317,1091,166
+East Providence,East Providence 1001,"7. Industrial Facilities Infrastructure - $60,000,000",,NON,Approve,2666,364,2064,238
+East Providence,East Providence 1001,"7. Industrial Facilities Infrastructure - $60,000,000",,NON,Reject,1870,345,1333,192
+Exeter,Exeter 1101,"1. Higher Education Facilities - $107,300,000",,NON,Approve,436,81,282,73
+Exeter,Exeter 1101,"1. Higher Education Facilities - $107,300,000",,NON,Reject,515,177,193,145
+Exeter,Exeter 1101,"2. Beach, Clean Water and Green Bond - $74,000,000",,NON,Approve,631,125,379,127
+Exeter,Exeter 1101,"2. Beach, Clean Water and Green Bond - $74,000,000",,NON,Reject,322,133,96,93
+Exeter,Exeter 1101,"3. Housing and Community Opportunity - $65,000,000",,NON,Approve,482,93,305,84
+Exeter,Exeter 1101,"3. Housing and Community Opportunity - $65,000,000",,NON,Reject,455,160,167,128
+Exeter,Exeter 1101,"4. Transportation Infrastructure - $71,700,000",,NON,Approve,658,149,383,126
+Exeter,Exeter 1101,"4. Transportation Infrastructure - $71,700,000",,NON,Reject,294,109,92,93
+Exeter,Exeter 1101,"5. Early Care & Education Capital Fund - $15,000,000",,NON,Approve,462,96,289,77
+Exeter,Exeter 1101,"5. Early Care & Education Capital Fund - $15,000,000",,NON,Reject,487,160,186,141
+Exeter,Exeter 1101,"6. Arts, Economy & State Preservation Grants $7,000,000",,NON,Approve,451,90,280,81
+Exeter,Exeter 1101,"6. Arts, Economy & State Preservation Grants $7,000,000",,NON,Reject,498,168,194,136
+Exeter,Exeter 1101,"7. Industrial Facilities Infrastructure - $60,000,000",,NON,Approve,482,98,287,97
+Exeter,Exeter 1101,"7. Industrial Facilities Infrastructure - $60,000,000",,NON,Reject,471,160,189,122
+Foster,Foster 1201,"1. Higher Education Facilities - $107,300,000",,NON,Approve,294,64,196,34
+Foster,Foster 1201,"1. Higher Education Facilities - $107,300,000",,NON,Reject,369,172,150,47
+Foster,Foster 1201,"2. Beach, Clean Water and Green Bond - $74,000,000",,NON,Approve,428,115,273,40
+Foster,Foster 1201,"2. Beach, Clean Water and Green Bond - $74,000,000",,NON,Reject,236,121,74,41
+Foster,Foster 1201,"3. Housing and Community Opportunity - $65,000,000",,NON,Approve,315,60,225,30
+Foster,Foster 1201,"3. Housing and Community Opportunity - $65,000,000",,NON,Reject,348,175,122,51
+Foster,Foster 1201,"4. Transportation Infrastructure - $71,700,000",,NON,Approve,443,126,273,44
+Foster,Foster 1201,"4. Transportation Infrastructure - $71,700,000",,NON,Reject,221,111,73,37
+Foster,Foster 1201,"5. Early Care & Education Capital Fund - $15,000,000",,NON,Approve,324,70,222,32
+Foster,Foster 1201,"5. Early Care & Education Capital Fund - $15,000,000",,NON,Reject,341,166,126,49
+Foster,Foster 1201,"6. Arts, Economy & State Preservation Grants $7,000,000",,NON,Approve,317,67,217,33
+Foster,Foster 1201,"6. Arts, Economy & State Preservation Grants $7,000,000",,NON,Reject,346,169,129,48
+Foster,Foster 1201,"7. Industrial Facilities Infrastructure - $60,000,000",,NON,Approve,319,87,194,38
+Foster,Foster 1201,"7. Industrial Facilities Infrastructure - $60,000,000",,NON,Reject,345,150,152,43
+Glocester,Glocester 1301,"1. Higher Education Facilities - $107,300,000",,NON,Approve,551,106,367,78
+Glocester,Glocester 1301,"1. Higher Education Facilities - $107,300,000",,NON,Reject,665,219,282,164
+Glocester,Glocester 1301,"2. Beach, Clean Water and Green Bond - $74,000,000",,NON,Approve,809,179,504,126
+Glocester,Glocester 1301,"2. Beach, Clean Water and Green Bond - $74,000,000",,NON,Reject,402,146,140,116
+Glocester,Glocester 1301,"3. Housing and Community Opportunity - $65,000,000",,NON,Approve,597,108,406,83
+Glocester,Glocester 1301,"3. Housing and Community Opportunity - $65,000,000",,NON,Reject,605,213,237,155
+Glocester,Glocester 1301,"4. Transportation Infrastructure - $71,700,000",,NON,Approve,859,181,538,140
+Glocester,Glocester 1301,"4. Transportation Infrastructure - $71,700,000",,NON,Reject,352,142,107,103
+Glocester,Glocester 1301,"5. Early Care & Education Capital Fund - $15,000,000",,NON,Approve,635,121,424,90
+Glocester,Glocester 1301,"5. Early Care & Education Capital Fund - $15,000,000",,NON,Reject,578,203,223,152
+Glocester,Glocester 1301,"6. Arts, Economy & State Preservation Grants $7,000,000",,NON,Approve,558,107,368,83
+Glocester,Glocester 1301,"6. Arts, Economy & State Preservation Grants $7,000,000",,NON,Reject,660,218,282,160
+Glocester,Glocester 1301,"7. Industrial Facilities Infrastructure - $60,000,000",,NON,Approve,574,114,369,91
+Glocester,Glocester 1301,"7. Industrial Facilities Infrastructure - $60,000,000",,NON,Reject,639,209,278,152
+Hopkinton,Hopkinton 1401,"1. Higher Education Facilities - $107,300,000",,NON,Approve,448,104,307,37
+Hopkinton,Hopkinton 1401,"1. Higher Education Facilities - $107,300,000",,NON,Reject,524,200,253,71
+Hopkinton,Hopkinton 1401,"2. Beach, Clean Water and Green Bond - $74,000,000",,NON,Approve,641,153,435,53
+Hopkinton,Hopkinton 1401,"2. Beach, Clean Water and Green Bond - $74,000,000",,NON,Reject,329,151,124,54
+Hopkinton,Hopkinton 1401,"3. Housing and Community Opportunity - $65,000,000",,NON,Approve,517,111,365,41
+Hopkinton,Hopkinton 1401,"3. Housing and Community Opportunity - $65,000,000",,NON,Reject,447,193,187,67
+Hopkinton,Hopkinton 1401,"4. Transportation Infrastructure - $71,700,000",,NON,Approve,696,170,468,58
+Hopkinton,Hopkinton 1401,"4. Transportation Infrastructure - $71,700,000",,NON,Reject,277,135,92,50
+Hopkinton,Hopkinton 1401,"5. Early Care & Education Capital Fund - $15,000,000",,NON,Approve,530,119,371,40
+Hopkinton,Hopkinton 1401,"5. Early Care & Education Capital Fund - $15,000,000",,NON,Reject,443,187,188,68
+Hopkinton,Hopkinton 1401,"6. Arts, Economy & State Preservation Grants $7,000,000",,NON,Approve,456,106,315,35
+Hopkinton,Hopkinton 1401,"6. Arts, Economy & State Preservation Grants $7,000,000",,NON,Reject,517,200,244,73
+Hopkinton,Hopkinton 1401,"7. Industrial Facilities Infrastructure - $60,000,000",,NON,Approve,475,118,318,39
+Hopkinton,Hopkinton 1401,"7. Industrial Facilities Infrastructure - $60,000,000",,NON,Reject,496,186,241,69
+Jamestown,Jamestown 1501,"1. Higher Education Facilities - $107,300,000",,NON,Approve,837,180,489,168
+Jamestown,Jamestown 1501,"1. Higher Education Facilities - $107,300,000",,NON,Reject,459,115,233,111
+Jamestown,Jamestown 1501,"2. Beach, Clean Water and Green Bond - $74,000,000",,NON,Approve,1020,218,601,201
+Jamestown,Jamestown 1501,"2. Beach, Clean Water and Green Bond - $74,000,000",,NON,Reject,279,77,124,78
+Jamestown,Jamestown 1501,"3. Housing and Community Opportunity - $65,000,000",,NON,Approve,890,191,518,181
+Jamestown,Jamestown 1501,"3. Housing and Community Opportunity - $65,000,000",,NON,Reject,394,101,197,96
+Jamestown,Jamestown 1501,"4. Transportation Infrastructure - $71,700,000",,NON,Approve,1060,231,621,208
+Jamestown,Jamestown 1501,"4. Transportation Infrastructure - $71,700,000",,NON,Reject,237,63,102,72
+Jamestown,Jamestown 1501,"5. Early Care & Education Capital Fund - $15,000,000",,NON,Approve,920,194,548,178
+Jamestown,Jamestown 1501,"5. Early Care & Education Capital Fund - $15,000,000",,NON,Reject,374,99,172,103
+Jamestown,Jamestown 1501,"6. Arts, Economy & State Preservation Grants $7,000,000",,NON,Approve,839,178,499,162
+Jamestown,Jamestown 1501,"6. Arts, Economy & State Preservation Grants $7,000,000",,NON,Reject,455,115,222,118
+Jamestown,Jamestown 1501,"7. Industrial Facilities Infrastructure - $60,000,000",,NON,Approve,806,175,460,171
+Jamestown,Jamestown 1501,"7. Industrial Facilities Infrastructure - $60,000,000",,NON,Reject,485,118,260,107
+Johnston,Johnston 1601,"1. Higher Education Facilities - $107,300,000",,NON,Approve,1441,217,1120,104
+Johnston,Johnston 1601,"1. Higher Education Facilities - $107,300,000",,NON,Reject,1137,309,719,109
+Johnston,Johnston 1601,"2. Beach, Clean Water and Green Bond - $74,000,000",,NON,Approve,1939,295,1498,146
+Johnston,Johnston 1601,"2. Beach, Clean Water and Green Bond - $74,000,000",,NON,Reject,628,231,330,67
+Johnston,Johnston 1601,"3. Housing and Community Opportunity - $65,000,000",,NON,Approve,1531,207,1223,101
+Johnston,Johnston 1601,"3. Housing and Community Opportunity - $65,000,000",,NON,Reject,1024,308,604,112
+Johnston,Johnston 1601,"4. Transportation Infrastructure - $71,700,000",,NON,Approve,2008,306,1547,155
+Johnston,Johnston 1601,"4. Transportation Infrastructure - $71,700,000",,NON,Reject,570,219,293,58
+Johnston,Johnston 1601,"5. Early Care & Education Capital Fund - $15,000,000",,NON,Approve,1611,235,1266,110
+Johnston,Johnston 1601,"5. Early Care & Education Capital Fund - $15,000,000",,NON,Reject,967,290,573,104
+Johnston,Johnston 1601,"6. Arts, Economy & State Preservation Grants $7,000,000",,NON,Approve,1387,207,1073,107
+Johnston,Johnston 1601,"6. Arts, Economy & State Preservation Grants $7,000,000",,NON,Reject,1192,320,766,106
+Johnston,Johnston 1601,"7. Industrial Facilities Infrastructure - $60,000,000",,NON,Approve,1409,221,1085,103
+Johnston,Johnston 1601,"7. Industrial Facilities Infrastructure - $60,000,000",,NON,Reject,1165,306,753,106
+Lincoln,Lincoln 1701,"1. Higher Education Facilities - $107,300,000",,NON,Approve,1486,252,977,257
+Lincoln,Lincoln 1701,"1. Higher Education Facilities - $107,300,000",,NON,Reject,1205,318,595,292
+Lincoln,Lincoln 1701,"2. Beach, Clean Water and Green Bond - $74,000,000",,NON,Approve,2009,374,1298,337
+Lincoln,Lincoln 1701,"2. Beach, Clean Water and Green Bond - $74,000,000",,NON,Reject,680,194,274,212
+Lincoln,Lincoln 1701,"3. Housing and Community Opportunity - $65,000,000",,NON,Approve,1568,253,1058,257
+Lincoln,Lincoln 1701,"3. Housing and Community Opportunity - $65,000,000",,NON,Reject,1107,312,507,288
+Lincoln,Lincoln 1701,"4. Transportation Infrastructure - $71,700,000",,NON,Approve,2121,376,1356,389
+Lincoln,Lincoln 1701,"4. Transportation Infrastructure - $71,700,000",,NON,Reject,570,191,218,161
+Lincoln,Lincoln 1701,"5. Early Care & Education Capital Fund - $15,000,000",,NON,Approve,1658,282,1093,283
+Lincoln,Lincoln 1701,"5. Early Care & Education Capital Fund - $15,000,000",,NON,Reject,1030,288,475,267
+Lincoln,Lincoln 1701,"6. Arts, Economy & State Preservation Grants $7,000,000",,NON,Approve,1518,271,999,248
+Lincoln,Lincoln 1701,"6. Arts, Economy & State Preservation Grants $7,000,000",,NON,Reject,1169,298,568,303
+Lincoln,Lincoln 1701,"7. Industrial Facilities Infrastructure - $60,000,000",,NON,Approve,1508,269,949,290
+Lincoln,Lincoln 1701,"7. Industrial Facilities Infrastructure - $60,000,000",,NON,Reject,1178,298,619,261
+Little Compton,Little Compton 1801,"1. Higher Education Facilities - $107,300,000",,NON,Approve,417,97,267,53
+Little Compton,Little Compton 1801,"1. Higher Education Facilities - $107,300,000",,NON,Reject,304,106,162,36
+Little Compton,Little Compton 1801,"2. Beach, Clean Water and Green Bond - $74,000,000",,NON,Approve,570,134,365,71
+Little Compton,Little Compton 1801,"2. Beach, Clean Water and Green Bond - $74,000,000",,NON,Reject,152,69,65,18
+Little Compton,Little Compton 1801,"3. Housing and Community Opportunity - $65,000,000",,NON,Approve,472,105,310,57
+Little Compton,Little Compton 1801,"3. Housing and Community Opportunity - $65,000,000",,NON,Reject,241,94,115,32
+Little Compton,Little Compton 1801,"4. Transportation Infrastructure - $71,700,000",,NON,Approve,595,149,376,70
+Little Compton,Little Compton 1801,"4. Transportation Infrastructure - $71,700,000",,NON,Reject,130,55,57,18
+Little Compton,Little Compton 1801,"5. Early Care & Education Capital Fund - $15,000,000",,NON,Approve,509,119,329,61
+Little Compton,Little Compton 1801,"5. Early Care & Education Capital Fund - $15,000,000",,NON,Reject,213,84,102,27
+Little Compton,Little Compton 1801,"6. Arts, Economy & State Preservation Grants $7,000,000",,NON,Approve,459,102,297,60
+Little Compton,Little Compton 1801,"6. Arts, Economy & State Preservation Grants $7,000,000",,NON,Reject,263,101,134,28
+Little Compton,Little Compton 1801,"7. Industrial Facilities Infrastructure - $60,000,000",,NON,Approve,394,90,253,51
+Little Compton,Little Compton 1801,"7. Industrial Facilities Infrastructure - $60,000,000",,NON,Reject,327,112,177,38
+Middletown,Middletown 1901,"1. Higher Education Facilities - $107,300,000",,NON,Approve,1229,173,962,94
+Middletown,Middletown 1901,"1. Higher Education Facilities - $107,300,000",,NON,Reject,848,193,560,95
+Middletown,Middletown 1901,"2. Beach, Clean Water and Green Bond - $74,000,000",,NON,Approve,1616,237,1251,128
+Middletown,Middletown 1901,"2. Beach, Clean Water and Green Bond - $74,000,000",,NON,Reject,460,129,269,62
+Middletown,Middletown 1901,"3. Housing and Community Opportunity - $65,000,000",,NON,Approve,1419,187,1124,108
+Middletown,Middletown 1901,"3. Housing and Community Opportunity - $65,000,000",,NON,Reject,640,176,388,76
+Middletown,Middletown 1901,"4. Transportation Infrastructure - $71,700,000",,NON,Approve,1751,256,1353,142
+Middletown,Middletown 1901,"4. Transportation Infrastructure - $71,700,000",,NON,Reject,331,110,172,49
+Middletown,Middletown 1901,"5. Early Care & Education Capital Fund - $15,000,000",,NON,Approve,1420,195,1122,103
+Middletown,Middletown 1901,"5. Early Care & Education Capital Fund - $15,000,000",,NON,Reject,655,172,395,88
+Middletown,Middletown 1901,"6. Arts, Economy & State Preservation Grants $7,000,000",,NON,Approve,1214,173,944,97
+Middletown,Middletown 1901,"6. Arts, Economy & State Preservation Grants $7,000,000",,NON,Reject,865,192,582,91
+Middletown,Middletown 1901,"7. Industrial Facilities Infrastructure - $60,000,000",,NON,Approve,1244,185,946,113
+Middletown,Middletown 1901,"7. Industrial Facilities Infrastructure - $60,000,000",,NON,Reject,822,180,564,78
+Narragansett,Narragansett 2001,"1. Higher Education Facilities - $107,300,000",,NON,Approve,1535,268,1085,182
+Narragansett,Narragansett 2001,"1. Higher Education Facilities - $107,300,000",,NON,Reject,1012,261,582,169
+Narragansett,Narragansett 2001,"2. Beach, Clean Water and Green Bond - $74,000,000",,NON,Approve,2044,354,1443,247
+Narragansett,Narragansett 2001,"2. Beach, Clean Water and Green Bond - $74,000,000",,NON,Reject,508,174,228,106
+Narragansett,Narragansett 2001,"3. Housing and Community Opportunity - $65,000,000",,NON,Approve,1603,246,1169,188
+Narragansett,Narragansett 2001,"3. Housing and Community Opportunity - $65,000,000",,NON,Reject,924,277,489,158
+Narragansett,Narragansett 2001,"4. Transportation Infrastructure - $71,700,000",,NON,Approve,2065,367,1437,261
+Narragansett,Narragansett 2001,"4. Transportation Infrastructure - $71,700,000",,NON,Reject,490,162,237,91
+Narragansett,Narragansett 2001,"5. Early Care & Education Capital Fund - $15,000,000",,NON,Approve,1660,261,1207,192
+Narragansett,Narragansett 2001,"5. Early Care & Education Capital Fund - $15,000,000",,NON,Reject,890,264,467,159
+Narragansett,Narragansett 2001,"6. Arts, Economy & State Preservation Grants $7,000,000",,NON,Approve,1496,248,1073,175
+Narragansett,Narragansett 2001,"6. Arts, Economy & State Preservation Grants $7,000,000",,NON,Reject,1054,280,598,176
+Narragansett,Narragansett 2001,"7. Industrial Facilities Infrastructure - $60,000,000",,NON,Approve,1584,255,1125,204
+Narragansett,Narragansett 2001,"7. Industrial Facilities Infrastructure - $60,000,000",,NON,Reject,951,270,535,146
+New Shoreham,New Shoreham 2201,"1. Higher Education Facilities - $107,300,000",,NON,Approve,196,69,71,56
+New Shoreham,New Shoreham 2201,"1. Higher Education Facilities - $107,300,000",,NON,Reject,70,27,23,20
+New Shoreham,New Shoreham 2201,10. ELECTORS TO ATTEND FINANCIAL TOWN MEETING,,NON,Approve,212,72,78,62
+New Shoreham,New Shoreham 2201,10. ELECTORS TO ATTEND FINANCIAL TOWN MEETING,,NON,Reject,54,22,18,14
+New Shoreham,New Shoreham 2201,11. APPT OF TEMP TOWN MODERATOR FOR FINANCIAL TOWN MTG,,NON,Approve,251,86,91,74
+New Shoreham,New Shoreham 2201,11. APPT OF TEMP TOWN MODERATOR FOR FINANCIAL TOWN MTG,,NON,Reject,20,10,7,3
+New Shoreham,New Shoreham 2201,12. PUBLICATION OF FINANCIAL TOWN MEETING WARRANT,,NON,Approve,246,89,91,66
+New Shoreham,New Shoreham 2201,12. PUBLICATION OF FINANCIAL TOWN MEETING WARRANT,,NON,Reject,20,6,4,10
+New Shoreham,New Shoreham 2201,13. LIMITING CIRCUMSTANCES FOR TOWN COUNCIL MEMBERS,,NON,Approve,204,72,73,59
+New Shoreham,New Shoreham 2201,13. LIMITING CIRCUMSTANCES FOR TOWN COUNCIL MEMBERS,,NON,Reject,59,22,21,16
+New Shoreham,New Shoreham 2201,14. ADDING PUBLIC COMMENT TO COUNCIL AGENDAS,,NON,Approve,241,84,91,66
+New Shoreham,New Shoreham 2201,14. ADDING PUBLIC COMMENT TO COUNCIL AGENDAS,,NON,Reject,25,11,5,9
+New Shoreham,New Shoreham 2201,15. ADD HEALTH INSURANCE TO COMP OF TOWN COUNCIL MEMBERS,,NON,Approve,123,42,49,32
+New Shoreham,New Shoreham 2201,15. ADD HEALTH INSURANCE TO COMP OF TOWN COUNCIL MEMBERS,,NON,Reject,141,52,45,44
+New Shoreham,New Shoreham 2201,16. REMOVE COUNCIL OBLIGATION TO REVIEW PERSONNEL POLICY,,NON,Approve,157,48,60,49
+New Shoreham,New Shoreham 2201,16. REMOVE COUNCIL OBLIGATION TO REVIEW PERSONNEL POLICY,,NON,Reject,103,45,33,25
+New Shoreham,New Shoreham 2201,17. POSTING OF PROPOSED CHARTER AMENDMENTS ON WEBSITE,,NON,Approve,250,86,93,71
+New Shoreham,New Shoreham 2201,17. POSTING OF PROPOSED CHARTER AMENDMENTS ON WEBSITE,,NON,Reject,14,7,2,5
+New Shoreham,New Shoreham 2201,18. ELIMINATING TOWN MANAGER RESIDENCY REQUIREMENT,,NON,Approve,142,40,54,48
+New Shoreham,New Shoreham 2201,18. ELIMINATING TOWN MANAGER RESIDENCY REQUIREMENT,,NON,Reject,119,52,41,26
+New Shoreham,New Shoreham 2201,19. TOWN MANAGER DUTY TO INCLUDE SEASONAL FLUCUATIONS,,NON,Approve,214,71,80,63
+New Shoreham,New Shoreham 2201,19. TOWN MANAGER DUTY TO INCLUDE SEASONAL FLUCUATIONS,,NON,Reject,49,22,14,13
+New Shoreham,New Shoreham 2201,"2. Beach, Clean Water and Green Bond - $74,000,000",,NON,Approve,246,83,89,74
+New Shoreham,New Shoreham 2201,"2. Beach, Clean Water and Green Bond - $74,000,000",,NON,Reject,26,13,9,4
+New Shoreham,New Shoreham 2201,20. PROHIBITING TOWN MANAGER FROM SERVING AS HEAD OF DPW,,NON,Approve,213,65,85,63
+New Shoreham,New Shoreham 2201,20. PROHIBITING TOWN MANAGER FROM SERVING AS HEAD OF DPW,,NON,Reject,49,25,11,13
+New Shoreham,New Shoreham 2201,21. ADDING BUDGET PROCESS GOAL,,NON,Approve,242,84,90,68
+New Shoreham,New Shoreham 2201,21. ADDING BUDGET PROCESS GOAL,,NON,Reject,18,7,4,7
+New Shoreham,New Shoreham 2201,22. ADDING BUDGET NOTICE REQUIREMENTS,,NON,Approve,246,87,90,69
+New Shoreham,New Shoreham 2201,22. ADDING BUDGET NOTICE REQUIREMENTS,,NON,Reject,16,7,3,6
+New Shoreham,New Shoreham 2201,23. ADD REQUIREMENT REGARDING DISPOSAL OF TOWN PROPERTY,,NON,Approve,236,86,87,63
+New Shoreham,New Shoreham 2201,23. ADD REQUIREMENT REGARDING DISPOSAL OF TOWN PROPERTY,,NON,Reject,20,6,4,10
+New Shoreham,New Shoreham 2201,24. POLICE ADVISORY COMMISSION,,NON,Approve,191,72,63,56
+New Shoreham,New Shoreham 2201,24. POLICE ADVISORY COMMISSION,,NON,Reject,71,21,31,19
+New Shoreham,New Shoreham 2201,25. RESPONSIBILITIES OF DIRECTOR OF PUBLIC WORKS,,NON,Approve,183,61,66,56
+New Shoreham,New Shoreham 2201,25. RESPONSIBILITIES OF DIRECTOR OF PUBLIC WORKS,,NON,Reject,70,29,24,17
+New Shoreham,New Shoreham 2201,26. DIRECTOR OF PUBLIC WORKS & HARBOR MASTER REPORT,,NON,Approve,234,76,91,67
+New Shoreham,New Shoreham 2201,26. DIRECTOR OF PUBLIC WORKS & HARBOR MASTER REPORT,,NON,Reject,34,19,5,10
+New Shoreham,New Shoreham 2201,27. REMOVING OFFICE OF INSPECTIONS FROM DPW,,NON,Approve,211,70,80,61
+New Shoreham,New Shoreham 2201,27. REMOVING OFFICE OF INSPECTIONS FROM DPW,,NON,Reject,55,23,16,16
+New Shoreham,New Shoreham 2201,"3. Housing and Community Opportunity - $65,000,000",,NON,Approve,221,74,82,65
+New Shoreham,New Shoreham 2201,"3. Housing and Community Opportunity - $65,000,000",,NON,Reject,48,21,15,12
+New Shoreham,New Shoreham 2201,"4. Transportation Infrastructure - $71,700,000",,NON,Approve,234,79,87,68
+New Shoreham,New Shoreham 2201,"4. Transportation Infrastructure - $71,700,000",,NON,Reject,34,15,9,10
+New Shoreham,New Shoreham 2201,"5. Early Care & Education Capital Fund - $15,000,000",,NON,Approve,222,73,82,67
+New Shoreham,New Shoreham 2201,"5. Early Care & Education Capital Fund - $15,000,000",,NON,Reject,45,22,13,10
+New Shoreham,New Shoreham 2201,"6. Arts, Economy & State Preservation Grants $7,000,000",,NON,Approve,209,73,79,57
+New Shoreham,New Shoreham 2201,"6. Arts, Economy & State Preservation Grants $7,000,000",,NON,Reject,62,23,19,20
+New Shoreham,New Shoreham 2201,"7. Industrial Facilities Infrastructure - $60,000,000",,NON,Approve,168,56,62,50
+New Shoreham,New Shoreham 2201,"7. Industrial Facilities Infrastructure - $60,000,000",,NON,Reject,94,38,32,24
+New Shoreham,New Shoreham 2201,8. BROADCASTING AND RECORDING OF TOWN MEETINGS,,NON,Approve,252,88,91,73
+New Shoreham,New Shoreham 2201,8. BROADCASTING AND RECORDING OF TOWN MEETINGS,,NON,Reject,17,8,5,4
+New Shoreham,New Shoreham 2201,9. POSTING OF DOCUMENTS PRIOR TO TOWN MEETINGS,,NON,Approve,252,89,92,71
+New Shoreham,New Shoreham 2201,9. POSTING OF DOCUMENTS PRIOR TO TOWN MEETINGS,,NON,Reject,17,7,4,6
+Newport,Newport 2100,"1. Higher Education Facilities - $107,300,000",,NON,Approve,1550,6,1401,143
+Newport,Newport 2100,"1. Higher Education Facilities - $107,300,000",,NON,Reject,683,2,618,63
+Newport,Newport 2100,"2. Beach, Clean Water and Green Bond - $74,000,000",,NON,Approve,1942,6,1766,170
+Newport,Newport 2100,"2. Beach, Clean Water and Green Bond - $74,000,000",,NON,Reject,293,2,254,37
+Newport,Newport 2100,"3. Housing and Community Opportunity - $65,000,000",,NON,Approve,1690,6,1533,151
+Newport,Newport 2100,"3. Housing and Community Opportunity - $65,000,000",,NON,Reject,528,2,473,53
+Newport,Newport 2100,"4. Transportation Infrastructure - $71,700,000",,NON,Approve,1994,8,1812,174
+Newport,Newport 2100,"4. Transportation Infrastructure - $71,700,000",,NON,Reject,243,0,212,31
+Newport,Newport 2100,"5. Early Care & Education Capital Fund - $15,000,000",,NON,Approve,1772,6,1611,155
+Newport,Newport 2100,"5. Early Care & Education Capital Fund - $15,000,000",,NON,Reject,461,2,408,51
+Newport,Newport 2100,"6. Arts, Economy & State Preservation Grants $7,000,000",,NON,Approve,1632,6,1480,146
+Newport,Newport 2100,"6. Arts, Economy & State Preservation Grants $7,000,000",,NON,Reject,597,2,534,61
+Newport,Newport 2100,"7. Industrial Facilities Infrastructure - $60,000,000",,NON,Approve,1499,7,1349,143
+Newport,Newport 2100,"7. Industrial Facilities Infrastructure - $60,000,000",,NON,Reject,736,1,672,63
+Newport,Newport 2101,"1. Higher Education Facilities - $107,300,000",,NON,Approve,100,100,0,0
+Newport,Newport 2101,"1. Higher Education Facilities - $107,300,000",,NON,Reject,66,66,0,0
+Newport,Newport 2101,"2. Beach, Clean Water and Green Bond - $74,000,000",,NON,Approve,127,127,0,0
+Newport,Newport 2101,"2. Beach, Clean Water and Green Bond - $74,000,000",,NON,Reject,39,39,0,0
+Newport,Newport 2101,"3. Housing and Community Opportunity - $65,000,000",,NON,Approve,99,99,0,0
+Newport,Newport 2101,"3. Housing and Community Opportunity - $65,000,000",,NON,Reject,64,64,0,0
+Newport,Newport 2101,"4. Transportation Infrastructure - $71,700,000",,NON,Approve,127,127,0,0
+Newport,Newport 2101,"4. Transportation Infrastructure - $71,700,000",,NON,Reject,37,37,0,0
+Newport,Newport 2101,"5. Early Care & Education Capital Fund - $15,000,000",,NON,Approve,109,109,0,0
+Newport,Newport 2101,"5. Early Care & Education Capital Fund - $15,000,000",,NON,Reject,55,55,0,0
+Newport,Newport 2101,"6. Arts, Economy & State Preservation Grants $7,000,000",,NON,Approve,101,101,0,0
+Newport,Newport 2101,"6. Arts, Economy & State Preservation Grants $7,000,000",,NON,Reject,64,64,0,0
+Newport,Newport 2101,"7. Industrial Facilities Infrastructure - $60,000,000",,NON,Approve,98,98,0,0
+Newport,Newport 2101,"7. Industrial Facilities Infrastructure - $60,000,000",,NON,Reject,66,66,0,0
+Newport,Newport 2102,"1. Higher Education Facilities - $107,300,000",,NON,Approve,38,38,0,0
+Newport,Newport 2102,"1. Higher Education Facilities - $107,300,000",,NON,Reject,18,18,0,0
+Newport,Newport 2102,"2. Beach, Clean Water and Green Bond - $74,000,000",,NON,Approve,46,46,0,0
+Newport,Newport 2102,"2. Beach, Clean Water and Green Bond - $74,000,000",,NON,Reject,9,9,0,0
+Newport,Newport 2102,"3. Housing and Community Opportunity - $65,000,000",,NON,Approve,44,44,0,0
+Newport,Newport 2102,"3. Housing and Community Opportunity - $65,000,000",,NON,Reject,11,11,0,0
+Newport,Newport 2102,"4. Transportation Infrastructure - $71,700,000",,NON,Approve,49,49,0,0
+Newport,Newport 2102,"4. Transportation Infrastructure - $71,700,000",,NON,Reject,7,7,0,0
+Newport,Newport 2102,"5. Early Care & Education Capital Fund - $15,000,000",,NON,Approve,45,45,0,0
+Newport,Newport 2102,"5. Early Care & Education Capital Fund - $15,000,000",,NON,Reject,11,11,0,0
+Newport,Newport 2102,"6. Arts, Economy & State Preservation Grants $7,000,000",,NON,Approve,37,37,0,0
+Newport,Newport 2102,"6. Arts, Economy & State Preservation Grants $7,000,000",,NON,Reject,19,19,0,0
+Newport,Newport 2102,"7. Industrial Facilities Infrastructure - $60,000,000",,NON,Approve,33,33,0,0
+Newport,Newport 2102,"7. Industrial Facilities Infrastructure - $60,000,000",,NON,Reject,23,23,0,0
+Newport,Newport 2106,"1. Higher Education Facilities - $107,300,000",,NON,Approve,208,208,0,0
+Newport,Newport 2106,"1. Higher Education Facilities - $107,300,000",,NON,Reject,128,128,0,0
+Newport,Newport 2106,"2. Beach, Clean Water and Green Bond - $74,000,000",,NON,Approve,265,265,0,0
+Newport,Newport 2106,"2. Beach, Clean Water and Green Bond - $74,000,000",,NON,Reject,74,74,0,0
+Newport,Newport 2106,"3. Housing and Community Opportunity - $65,000,000",,NON,Approve,213,213,0,0
+Newport,Newport 2106,"3. Housing and Community Opportunity - $65,000,000",,NON,Reject,122,122,0,0
+Newport,Newport 2106,"4. Transportation Infrastructure - $71,700,000",,NON,Approve,270,270,0,0
+Newport,Newport 2106,"4. Transportation Infrastructure - $71,700,000",,NON,Reject,67,67,0,0
+Newport,Newport 2106,"5. Early Care & Education Capital Fund - $15,000,000",,NON,Approve,226,226,0,0
+Newport,Newport 2106,"5. Early Care & Education Capital Fund - $15,000,000",,NON,Reject,109,109,0,0
+Newport,Newport 2106,"6. Arts, Economy & State Preservation Grants $7,000,000",,NON,Approve,222,222,0,0
+Newport,Newport 2106,"6. Arts, Economy & State Preservation Grants $7,000,000",,NON,Reject,115,115,0,0
+Newport,Newport 2106,"7. Industrial Facilities Infrastructure - $60,000,000",,NON,Approve,201,201,0,0
+Newport,Newport 2106,"7. Industrial Facilities Infrastructure - $60,000,000",,NON,Reject,132,132,0,0
+North Kingstown,North Kingstown 2300,"1. Higher Education Facilities - $107,300,000",,NON,Approve,2149,13,1909,227
+North Kingstown,North Kingstown 2300,"1. Higher Education Facilities - $107,300,000",,NON,Reject,1289,6,1108,175
+North Kingstown,North Kingstown 2300,"2. Beach, Clean Water and Green Bond - $74,000,000",,NON,Approve,2827,16,2517,294
+North Kingstown,North Kingstown 2300,"2. Beach, Clean Water and Green Bond - $74,000,000",,NON,Reject,609,3,500,106
+North Kingstown,North Kingstown 2300,"3. Housing and Community Opportunity - $65,000,000",,NON,Approve,2270,12,2047,211
+North Kingstown,North Kingstown 2300,"3. Housing and Community Opportunity - $65,000,000",,NON,Reject,1143,6,954,183
+North Kingstown,North Kingstown 2300,"4. Transportation Infrastructure - $71,700,000",,NON,Approve,2864,16,2537,311
+North Kingstown,North Kingstown 2300,"4. Transportation Infrastructure - $71,700,000",,NON,Reject,574,3,480,91
+North Kingstown,North Kingstown 2300,"5. Early Care & Education Capital Fund - $15,000,000",,NON,Approve,2408,15,2170,223
+North Kingstown,North Kingstown 2300,"5. Early Care & Education Capital Fund - $15,000,000",,NON,Reject,1023,4,841,178
+North Kingstown,North Kingstown 2300,"6. Arts, Economy & State Preservation Grants $7,000,000",,NON,Approve,2189,14,1967,208
+North Kingstown,North Kingstown 2300,"6. Arts, Economy & State Preservation Grants $7,000,000",,NON,Reject,1244,5,1047,192
+North Kingstown,North Kingstown 2300,"7. Industrial Facilities Infrastructure - $60,000,000",,NON,Approve,2276,11,2028,237
+North Kingstown,North Kingstown 2300,"7. Industrial Facilities Infrastructure - $60,000,000",,NON,Reject,1157,8,986,163
+North Kingstown,North Kingstown 2301,"1. Higher Education Facilities - $107,300,000",,NON,Approve,200,200,0,0
+North Kingstown,North Kingstown 2301,"1. Higher Education Facilities - $107,300,000",,NON,Reject,271,271,0,0
+North Kingstown,North Kingstown 2301,"2. Beach, Clean Water and Green Bond - $74,000,000",,NON,Approve,283,283,0,0
+North Kingstown,North Kingstown 2301,"2. Beach, Clean Water and Green Bond - $74,000,000",,NON,Reject,188,188,0,0
+North Kingstown,North Kingstown 2301,"3. Housing and Community Opportunity - $65,000,000",,NON,Approve,197,197,0,0
+North Kingstown,North Kingstown 2301,"3. Housing and Community Opportunity - $65,000,000",,NON,Reject,268,268,0,0
+North Kingstown,North Kingstown 2301,"4. Transportation Infrastructure - $71,700,000",,NON,Approve,314,314,0,0
+North Kingstown,North Kingstown 2301,"4. Transportation Infrastructure - $71,700,000",,NON,Reject,154,154,0,0
+North Kingstown,North Kingstown 2301,"5. Early Care & Education Capital Fund - $15,000,000",,NON,Approve,230,230,0,0
+North Kingstown,North Kingstown 2301,"5. Early Care & Education Capital Fund - $15,000,000",,NON,Reject,243,243,0,0
+North Kingstown,North Kingstown 2301,"6. Arts, Economy & State Preservation Grants $7,000,000",,NON,Approve,194,194,0,0
+North Kingstown,North Kingstown 2301,"6. Arts, Economy & State Preservation Grants $7,000,000",,NON,Reject,277,277,0,0
+North Kingstown,North Kingstown 2301,"7. Industrial Facilities Infrastructure - $60,000,000",,NON,Approve,237,237,0,0
+North Kingstown,North Kingstown 2301,"7. Industrial Facilities Infrastructure - $60,000,000",,NON,Reject,233,233,0,0
+North Kingstown,North Kingstown 2305,"1. Higher Education Facilities - $107,300,000",,NON,Approve,381,381,0,0
+North Kingstown,North Kingstown 2305,"1. Higher Education Facilities - $107,300,000",,NON,Reject,418,418,0,0
+North Kingstown,North Kingstown 2305,"2. Beach, Clean Water and Green Bond - $74,000,000",,NON,Approve,514,514,0,0
+North Kingstown,North Kingstown 2305,"2. Beach, Clean Water and Green Bond - $74,000,000",,NON,Reject,284,284,0,0
+North Kingstown,North Kingstown 2305,"3. Housing and Community Opportunity - $65,000,000",,NON,Approve,346,346,0,0
+North Kingstown,North Kingstown 2305,"3. Housing and Community Opportunity - $65,000,000",,NON,Reject,446,446,0,0
+North Kingstown,North Kingstown 2305,"4. Transportation Infrastructure - $71,700,000",,NON,Approve,536,536,0,0
+North Kingstown,North Kingstown 2305,"4. Transportation Infrastructure - $71,700,000",,NON,Reject,264,264,0,0
+North Kingstown,North Kingstown 2305,"5. Early Care & Education Capital Fund - $15,000,000",,NON,Approve,383,383,0,0
+North Kingstown,North Kingstown 2305,"5. Early Care & Education Capital Fund - $15,000,000",,NON,Reject,413,413,0,0
+North Kingstown,North Kingstown 2305,"6. Arts, Economy & State Preservation Grants $7,000,000",,NON,Approve,358,358,0,0
+North Kingstown,North Kingstown 2305,"6. Arts, Economy & State Preservation Grants $7,000,000",,NON,Reject,437,437,0,0
+North Kingstown,North Kingstown 2305,"7. Industrial Facilities Infrastructure - $60,000,000",,NON,Approve,426,426,0,0
+North Kingstown,North Kingstown 2305,"7. Industrial Facilities Infrastructure - $60,000,000",,NON,Reject,373,373,0,0
+North Providence,North Providence 2401,"1. Higher Education Facilities - $107,300,000",,NON,Approve,1846,253,1473,120
+North Providence,North Providence 2401,"1. Higher Education Facilities - $107,300,000",,NON,Reject,1153,287,768,98
+North Providence,North Providence 2401,"2. Beach, Clean Water and Green Bond - $74,000,000",,NON,Approve,2438,356,1932,150
+North Providence,North Providence 2401,"2. Beach, Clean Water and Green Bond - $74,000,000",,NON,Reject,569,185,314,70
+North Providence,North Providence 2401,"3. Housing and Community Opportunity - $65,000,000",,NON,Approve,2095,276,1691,128
+North Providence,North Providence 2401,"3. Housing and Community Opportunity - $65,000,000",,NON,Reject,887,261,539,87
+North Providence,North Providence 2401,"4. Transportation Infrastructure - $71,700,000",,NON,Approve,2466,369,1939,158
+North Providence,North Providence 2401,"4. Transportation Infrastructure - $71,700,000",,NON,Reject,540,171,306,63
+North Providence,North Providence 2401,"5. Early Care & Education Capital Fund - $15,000,000",,NON,Approve,2072,278,1665,129
+North Providence,North Providence 2401,"5. Early Care & Education Capital Fund - $15,000,000",,NON,Reject,927,261,574,92
+North Providence,North Providence 2401,"6. Arts, Economy & State Preservation Grants $7,000,000",,NON,Approve,1839,268,1452,119
+North Providence,North Providence 2401,"6. Arts, Economy & State Preservation Grants $7,000,000",,NON,Reject,1158,269,789,100
+North Providence,North Providence 2401,"7. Industrial Facilities Infrastructure - $60,000,000",,NON,Approve,1801,275,1404,122
+North Providence,North Providence 2401,"7. Industrial Facilities Infrastructure - $60,000,000",,NON,Reject,1197,263,836,98
+North Smithfield,North Smithfield 2501,"1. Higher Education Facilities - $107,300,000",,NON,Approve,779,133,583,63
+North Smithfield,North Smithfield 2501,"1. Higher Education Facilities - $107,300,000",,NON,Reject,820,272,457,91
+North Smithfield,North Smithfield 2501,"2. Beach, Clean Water and Green Bond - $74,000,000",,NON,Approve,1080,201,791,88
+North Smithfield,North Smithfield 2501,"2. Beach, Clean Water and Green Bond - $74,000,000",,NON,Reject,519,205,248,66
+North Smithfield,North Smithfield 2501,"3. Housing and Community Opportunity - $65,000,000",,NON,Approve,824,136,631,57
+North Smithfield,North Smithfield 2501,"3. Housing and Community Opportunity - $65,000,000",,NON,Reject,766,269,400,97
+North Smithfield,North Smithfield 2501,"4. Transportation Infrastructure - $71,700,000",,NON,Approve,1225,242,873,110
+North Smithfield,North Smithfield 2501,"4. Transportation Infrastructure - $71,700,000",,NON,Reject,379,165,170,44
+North Smithfield,North Smithfield 2501,"5. Early Care & Education Capital Fund - $15,000,000",,NON,Approve,872,156,658,58
+North Smithfield,North Smithfield 2501,"5. Early Care & Education Capital Fund - $15,000,000",,NON,Reject,722,246,382,94
+North Smithfield,North Smithfield 2501,"6. Arts, Economy & State Preservation Grants $7,000,000",,NON,Approve,751,134,558,59
+North Smithfield,North Smithfield 2501,"6. Arts, Economy & State Preservation Grants $7,000,000",,NON,Reject,849,272,483,94
+North Smithfield,North Smithfield 2501,"7. Industrial Facilities Infrastructure - $60,000,000",,NON,Approve,839,165,592,82
+North Smithfield,North Smithfield 2501,"7. Industrial Facilities Infrastructure - $60,000,000",,NON,Reject,755,241,442,72
+Pawtucket,Pawtucket 2600,"1. Higher Education Facilities - $107,300,000",,NON,Approve,2241,1,2099,141
+Pawtucket,Pawtucket 2600,"1. Higher Education Facilities - $107,300,000",,NON,Reject,1001,0,933,68
+Pawtucket,Pawtucket 2600,"2. Beach, Clean Water and Green Bond - $74,000,000",,NON,Approve,2789,1,2615,173
+Pawtucket,Pawtucket 2600,"2. Beach, Clean Water and Green Bond - $74,000,000",,NON,Reject,406,0,371,35
+Pawtucket,Pawtucket 2600,"3. Housing and Community Opportunity - $65,000,000",,NON,Approve,2584,0,2433,151
+Pawtucket,Pawtucket 2600,"3. Housing and Community Opportunity - $65,000,000",,NON,Reject,585,1,532,52
+Pawtucket,Pawtucket 2600,"4. Transportation Infrastructure - $71,700,000",,NON,Approve,2845,1,2667,177
+Pawtucket,Pawtucket 2600,"4. Transportation Infrastructure - $71,700,000",,NON,Reject,377,0,346,31
+Pawtucket,Pawtucket 2600,"5. Early Care & Education Capital Fund - $15,000,000",,NON,Approve,2533,0,2387,146
+Pawtucket,Pawtucket 2600,"5. Early Care & Education Capital Fund - $15,000,000",,NON,Reject,716,1,651,64
+Pawtucket,Pawtucket 2600,"6. Arts, Economy & State Preservation Grants $7,000,000",,NON,Approve,2292,1,2152,139
+Pawtucket,Pawtucket 2600,"6. Arts, Economy & State Preservation Grants $7,000,000",,NON,Reject,920,0,853,67
+Pawtucket,Pawtucket 2600,"7. Industrial Facilities Infrastructure - $60,000,000",,NON,Approve,2106,1,1973,132
+Pawtucket,Pawtucket 2600,"7. Industrial Facilities Infrastructure - $60,000,000",,NON,Reject,1091,0,1022,69
+Pawtucket,Pawtucket 2603,"1. Higher Education Facilities - $107,300,000",,NON,Approve,45,45,0,0
+Pawtucket,Pawtucket 2603,"1. Higher Education Facilities - $107,300,000",,NON,Reject,37,37,0,0
+Pawtucket,Pawtucket 2603,"2. Beach, Clean Water and Green Bond - $74,000,000",,NON,Approve,52,52,0,0
+Pawtucket,Pawtucket 2603,"2. Beach, Clean Water and Green Bond - $74,000,000",,NON,Reject,29,29,0,0
+Pawtucket,Pawtucket 2603,"3. Housing and Community Opportunity - $65,000,000",,NON,Approve,44,44,0,0
+Pawtucket,Pawtucket 2603,"3. Housing and Community Opportunity - $65,000,000",,NON,Reject,38,38,0,0
+Pawtucket,Pawtucket 2603,"4. Transportation Infrastructure - $71,700,000",,NON,Approve,53,53,0,0
+Pawtucket,Pawtucket 2603,"4. Transportation Infrastructure - $71,700,000",,NON,Reject,26,26,0,0
+Pawtucket,Pawtucket 2603,"5. Early Care & Education Capital Fund - $15,000,000",,NON,Approve,47,47,0,0
+Pawtucket,Pawtucket 2603,"5. Early Care & Education Capital Fund - $15,000,000",,NON,Reject,35,35,0,0
+Pawtucket,Pawtucket 2603,"6. Arts, Economy & State Preservation Grants $7,000,000",,NON,Approve,37,37,0,0
+Pawtucket,Pawtucket 2603,"6. Arts, Economy & State Preservation Grants $7,000,000",,NON,Reject,43,43,0,0
+Pawtucket,Pawtucket 2603,"7. Industrial Facilities Infrastructure - $60,000,000",,NON,Approve,35,35,0,0
+Pawtucket,Pawtucket 2603,"7. Industrial Facilities Infrastructure - $60,000,000",,NON,Reject,45,45,0,0
+Pawtucket,Pawtucket 2610,"1. Higher Education Facilities - $107,300,000",,NON,Approve,101,101,0,0
+Pawtucket,Pawtucket 2610,"1. Higher Education Facilities - $107,300,000",,NON,Reject,31,31,0,0
+Pawtucket,Pawtucket 2610,"2. Beach, Clean Water and Green Bond - $74,000,000",,NON,Approve,117,117,0,0
+Pawtucket,Pawtucket 2610,"2. Beach, Clean Water and Green Bond - $74,000,000",,NON,Reject,15,15,0,0
+Pawtucket,Pawtucket 2610,"3. Housing and Community Opportunity - $65,000,000",,NON,Approve,111,111,0,0
+Pawtucket,Pawtucket 2610,"3. Housing and Community Opportunity - $65,000,000",,NON,Reject,22,22,0,0
+Pawtucket,Pawtucket 2610,"4. Transportation Infrastructure - $71,700,000",,NON,Approve,107,107,0,0
+Pawtucket,Pawtucket 2610,"4. Transportation Infrastructure - $71,700,000",,NON,Reject,25,25,0,0
+Pawtucket,Pawtucket 2610,"5. Early Care & Education Capital Fund - $15,000,000",,NON,Approve,111,111,0,0
+Pawtucket,Pawtucket 2610,"5. Early Care & Education Capital Fund - $15,000,000",,NON,Reject,20,20,0,0
+Pawtucket,Pawtucket 2610,"6. Arts, Economy & State Preservation Grants $7,000,000",,NON,Approve,102,102,0,0
+Pawtucket,Pawtucket 2610,"6. Arts, Economy & State Preservation Grants $7,000,000",,NON,Reject,26,26,0,0
+Pawtucket,Pawtucket 2610,"7. Industrial Facilities Infrastructure - $60,000,000",,NON,Approve,77,77,0,0
+Pawtucket,Pawtucket 2610,"7. Industrial Facilities Infrastructure - $60,000,000",,NON,Reject,50,50,0,0
+Pawtucket,Pawtucket 2624,"1. Higher Education Facilities - $107,300,000",,NON,Approve,181,181,0,0
+Pawtucket,Pawtucket 2624,"1. Higher Education Facilities - $107,300,000",,NON,Reject,174,174,0,0
+Pawtucket,Pawtucket 2624,"2. Beach, Clean Water and Green Bond - $74,000,000",,NON,Approve,243,243,0,0
+Pawtucket,Pawtucket 2624,"2. Beach, Clean Water and Green Bond - $74,000,000",,NON,Reject,112,112,0,0
+Pawtucket,Pawtucket 2624,"3. Housing and Community Opportunity - $65,000,000",,NON,Approve,185,185,0,0
+Pawtucket,Pawtucket 2624,"3. Housing and Community Opportunity - $65,000,000",,NON,Reject,164,164,0,0
+Pawtucket,Pawtucket 2624,"4. Transportation Infrastructure - $71,700,000",,NON,Approve,253,253,0,0
+Pawtucket,Pawtucket 2624,"4. Transportation Infrastructure - $71,700,000",,NON,Reject,104,104,0,0
+Pawtucket,Pawtucket 2624,"5. Early Care & Education Capital Fund - $15,000,000",,NON,Approve,204,204,0,0
+Pawtucket,Pawtucket 2624,"5. Early Care & Education Capital Fund - $15,000,000",,NON,Reject,156,156,0,0
+Pawtucket,Pawtucket 2624,"6. Arts, Economy & State Preservation Grants $7,000,000",,NON,Approve,170,170,0,0
+Pawtucket,Pawtucket 2624,"6. Arts, Economy & State Preservation Grants $7,000,000",,NON,Reject,183,183,0,0
+Pawtucket,Pawtucket 2624,"7. Industrial Facilities Infrastructure - $60,000,000",,NON,Approve,184,184,0,0
+Pawtucket,Pawtucket 2624,"7. Industrial Facilities Infrastructure - $60,000,000",,NON,Reject,168,168,0,0
+Portsmouth,Portsmouth 2701,"1. Higher Education Facilities - $107,300,000",,NON,Approve,1470,242,1118,110
+Portsmouth,Portsmouth 2701,"1. Higher Education Facilities - $107,300,000",,NON,Reject,1347,341,817,189
+Portsmouth,Portsmouth 2701,"2. Beach, Clean Water and Green Bond - $74,000,000",,NON,Approve,1992,327,1503,162
+Portsmouth,Portsmouth 2701,"2. Beach, Clean Water and Green Bond - $74,000,000",,NON,Reject,822,259,431,132
+Portsmouth,Portsmouth 2701,"3. Housing and Community Opportunity - $65,000,000",,NON,Approve,1730,276,1321,133
+Portsmouth,Portsmouth 2701,"3. Housing and Community Opportunity - $65,000,000",,NON,Reject,1075,304,606,165
+Portsmouth,Portsmouth 2701,"4. Transportation Infrastructure - $71,700,000",,NON,Approve,2276,387,1691,198
+Portsmouth,Portsmouth 2701,"4. Transportation Infrastructure - $71,700,000",,NON,Reject,544,199,246,99
+Portsmouth,Portsmouth 2701,"5. Early Care & Education Capital Fund - $15,000,000",,NON,Approve,1735,277,1325,133
+Portsmouth,Portsmouth 2701,"5. Early Care & Education Capital Fund - $15,000,000",,NON,Reject,1077,307,604,166
+Portsmouth,Portsmouth 2701,"6. Arts, Economy & State Preservation Grants $7,000,000",,NON,Approve,1569,251,1204,114
+Portsmouth,Portsmouth 2701,"6. Arts, Economy & State Preservation Grants $7,000,000",,NON,Reject,1249,331,733,185
+Portsmouth,Portsmouth 2701,"7. Industrial Facilities Infrastructure - $60,000,000",,NON,Approve,1524,251,1141,132
+Portsmouth,Portsmouth 2701,"7. Industrial Facilities Infrastructure - $60,000,000",,NON,Reject,1292,333,794,165
+Providence,Providence 2800,"1. Higher Education Facilities - $107,300,000",,NON,Approve,6313,26,6027,260
+Providence,Providence 2800,"1. Higher Education Facilities - $107,300,000",,NON,Reject,1657,14,1603,40
+Providence,Providence 2800,"2. Beach, Clean Water and Green Bond - $74,000,000",,NON,Approve,7350,34,7035,281
+Providence,Providence 2800,"2. Beach, Clean Water and Green Bond - $74,000,000",,NON,Reject,526,7,502,17
+Providence,Providence 2800,"3. Housing and Community Opportunity - $65,000,000",,NON,Approve,6890,34,6574,282
+Providence,Providence 2800,"3. Housing and Community Opportunity - $65,000,000",,NON,Reject,893,7,867,19
+Providence,Providence 2800,"4. Transportation Infrastructure - $71,700,000",,NON,Approve,7005,30,6729,246
+Providence,Providence 2800,"4. Transportation Infrastructure - $71,700,000",,NON,Reject,891,9,835,47
+Providence,Providence 2800,"5. Early Care & Education Capital Fund - $15,000,000",,NON,Approve,7062,33,6753,276
+Providence,Providence 2800,"5. Early Care & Education Capital Fund - $15,000,000",,NON,Reject,922,8,888,26
+Providence,Providence 2800,"6. Arts, Economy & State Preservation Grants $7,000,000",,NON,Approve,6767,27,6470,270
+Providence,Providence 2800,"6. Arts, Economy & State Preservation Grants $7,000,000",,NON,Reject,1126,11,1092,23
+Providence,Providence 2800,"7. Industrial Facilities Infrastructure - $60,000,000",,NON,Approve,5637,23,5393,221
+Providence,Providence 2800,"7. Industrial Facilities Infrastructure - $60,000,000",,NON,Reject,2188,15,2106,67
+Providence,Providence 2801,"1. Higher Education Facilities - $107,300,000",,NON,Approve,811,811,0,0
+Providence,Providence 2801,"1. Higher Education Facilities - $107,300,000",,NON,Reject,209,209,0,0
+Providence,Providence 2801,"2. Beach, Clean Water and Green Bond - $74,000,000",,NON,Approve,913,913,0,0
+Providence,Providence 2801,"2. Beach, Clean Water and Green Bond - $74,000,000",,NON,Reject,99,99,0,0
+Providence,Providence 2801,"3. Housing and Community Opportunity - $65,000,000",,NON,Approve,852,852,0,0
+Providence,Providence 2801,"3. Housing and Community Opportunity - $65,000,000",,NON,Reject,152,152,0,0
+Providence,Providence 2801,"4. Transportation Infrastructure - $71,700,000",,NON,Approve,845,845,0,0
+Providence,Providence 2801,"4. Transportation Infrastructure - $71,700,000",,NON,Reject,170,170,0,0
+Providence,Providence 2801,"5. Early Care & Education Capital Fund - $15,000,000",,NON,Approve,877,877,0,0
+Providence,Providence 2801,"5. Early Care & Education Capital Fund - $15,000,000",,NON,Reject,141,141,0,0
+Providence,Providence 2801,"6. Arts, Economy & State Preservation Grants $7,000,000",,NON,Approve,867,867,0,0
+Providence,Providence 2801,"6. Arts, Economy & State Preservation Grants $7,000,000",,NON,Reject,145,145,0,0
+Providence,Providence 2801,"7. Industrial Facilities Infrastructure - $60,000,000",,NON,Approve,716,716,0,0
+Providence,Providence 2801,"7. Industrial Facilities Infrastructure - $60,000,000",,NON,Reject,275,275,0,0
+Providence,Providence 2832,"1. Higher Education Facilities - $107,300,000",,NON,Approve,109,109,0,0
+Providence,Providence 2832,"1. Higher Education Facilities - $107,300,000",,NON,Reject,19,19,0,0
+Providence,Providence 2832,"2. Beach, Clean Water and Green Bond - $74,000,000",,NON,Approve,121,121,0,0
+Providence,Providence 2832,"2. Beach, Clean Water and Green Bond - $74,000,000",,NON,Reject,8,8,0,0
+Providence,Providence 2832,"3. Housing and Community Opportunity - $65,000,000",,NON,Approve,120,120,0,0
+Providence,Providence 2832,"3. Housing and Community Opportunity - $65,000,000",,NON,Reject,9,9,0,0
+Providence,Providence 2832,"4. Transportation Infrastructure - $71,700,000",,NON,Approve,113,113,0,0
+Providence,Providence 2832,"4. Transportation Infrastructure - $71,700,000",,NON,Reject,18,18,0,0
+Providence,Providence 2832,"5. Early Care & Education Capital Fund - $15,000,000",,NON,Approve,123,123,0,0
+Providence,Providence 2832,"5. Early Care & Education Capital Fund - $15,000,000",,NON,Reject,7,7,0,0
+Providence,Providence 2832,"6. Arts, Economy & State Preservation Grants $7,000,000",,NON,Approve,120,120,0,0
+Providence,Providence 2832,"6. Arts, Economy & State Preservation Grants $7,000,000",,NON,Reject,9,9,0,0
+Providence,Providence 2832,"7. Industrial Facilities Infrastructure - $60,000,000",,NON,Approve,98,98,0,0
+Providence,Providence 2832,"7. Industrial Facilities Infrastructure - $60,000,000",,NON,Reject,29,29,0,0
+Providence,Providence 2842,"1. Higher Education Facilities - $107,300,000",,NON,Approve,552,552,0,0
+Providence,Providence 2842,"1. Higher Education Facilities - $107,300,000",,NON,Reject,237,237,0,0
+Providence,Providence 2842,"2. Beach, Clean Water and Green Bond - $74,000,000",,NON,Approve,670,670,0,0
+Providence,Providence 2842,"2. Beach, Clean Water and Green Bond - $74,000,000",,NON,Reject,111,111,0,0
+Providence,Providence 2842,"3. Housing and Community Opportunity - $65,000,000",,NON,Approve,619,619,0,0
+Providence,Providence 2842,"3. Housing and Community Opportunity - $65,000,000",,NON,Reject,164,164,0,0
+Providence,Providence 2842,"4. Transportation Infrastructure - $71,700,000",,NON,Approve,638,638,0,0
+Providence,Providence 2842,"4. Transportation Infrastructure - $71,700,000",,NON,Reject,142,142,0,0
+Providence,Providence 2842,"5. Early Care & Education Capital Fund - $15,000,000",,NON,Approve,618,618,0,0
+Providence,Providence 2842,"5. Early Care & Education Capital Fund - $15,000,000",,NON,Reject,168,168,0,0
+Providence,Providence 2842,"6. Arts, Economy & State Preservation Grants $7,000,000",,NON,Approve,566,566,0,0
+Providence,Providence 2842,"6. Arts, Economy & State Preservation Grants $7,000,000",,NON,Reject,202,202,0,0
+Providence,Providence 2842,"7. Industrial Facilities Infrastructure - $60,000,000",,NON,Approve,488,488,0,0
+Providence,Providence 2842,"7. Industrial Facilities Infrastructure - $60,000,000",,NON,Reject,271,271,0,0
+Providence,Providence 2860,"1. Higher Education Facilities - $107,300,000",,NON,Approve,325,325,0,0
+Providence,Providence 2860,"1. Higher Education Facilities - $107,300,000",,NON,Reject,82,82,0,0
+Providence,Providence 2860,"2. Beach, Clean Water and Green Bond - $74,000,000",,NON,Approve,361,361,0,0
+Providence,Providence 2860,"2. Beach, Clean Water and Green Bond - $74,000,000",,NON,Reject,45,45,0,0
+Providence,Providence 2860,"3. Housing and Community Opportunity - $65,000,000",,NON,Approve,349,349,0,0
+Providence,Providence 2860,"3. Housing and Community Opportunity - $65,000,000",,NON,Reject,54,54,0,0
+Providence,Providence 2860,"4. Transportation Infrastructure - $71,700,000",,NON,Approve,316,316,0,0
+Providence,Providence 2860,"4. Transportation Infrastructure - $71,700,000",,NON,Reject,83,83,0,0
+Providence,Providence 2860,"5. Early Care & Education Capital Fund - $15,000,000",,NON,Approve,345,345,0,0
+Providence,Providence 2860,"5. Early Care & Education Capital Fund - $15,000,000",,NON,Reject,62,62,0,0
+Providence,Providence 2860,"6. Arts, Economy & State Preservation Grants $7,000,000",,NON,Approve,330,330,0,0
+Providence,Providence 2860,"6. Arts, Economy & State Preservation Grants $7,000,000",,NON,Reject,65,65,0,0
+Providence,Providence 2860,"7. Industrial Facilities Infrastructure - $60,000,000",,NON,Approve,254,254,0,0
+Providence,Providence 2860,"7. Industrial Facilities Infrastructure - $60,000,000",,NON,Reject,134,134,0,0
+Richmond,Richmond 2901,"1. Higher Education Facilities - $107,300,000",,NON,Approve,537,121,356,60
+Richmond,Richmond 2901,"1. Higher Education Facilities - $107,300,000",,NON,Reject,577,217,287,73
+Richmond,Richmond 2901,"2. Beach, Clean Water and Green Bond - $74,000,000",,NON,Approve,743,170,498,75
+Richmond,Richmond 2901,"2. Beach, Clean Water and Green Bond - $74,000,000",,NON,Reject,372,167,147,58
+Richmond,Richmond 2901,"3. Housing and Community Opportunity - $65,000,000",,NON,Approve,585,122,398,65
+Richmond,Richmond 2901,"3. Housing and Community Opportunity - $65,000,000",,NON,Reject,526,214,245,67
+Richmond,Richmond 2901,"4. Transportation Infrastructure - $71,700,000",,NON,Approve,761,175,500,86
+Richmond,Richmond 2901,"4. Transportation Infrastructure - $71,700,000",,NON,Reject,356,161,148,47
+Richmond,Richmond 2901,"5. Early Care & Education Capital Fund - $15,000,000",,NON,Approve,599,121,416,62
+Richmond,Richmond 2901,"5. Early Care & Education Capital Fund - $15,000,000",,NON,Reject,515,216,228,71
+Richmond,Richmond 2901,"6. Arts, Economy & State Preservation Grants $7,000,000",,NON,Approve,530,109,366,55
+Richmond,Richmond 2901,"6. Arts, Economy & State Preservation Grants $7,000,000",,NON,Reject,581,228,276,77
+Richmond,Richmond 2901,"7. Industrial Facilities Infrastructure - $60,000,000",,NON,Approve,534,119,355,60
+Richmond,Richmond 2901,"7. Industrial Facilities Infrastructure - $60,000,000",,NON,Reject,578,218,287,73
+Scituate,Scituate 3001,"1. Higher Education Facilities - $107,300,000",,NON,Approve,598,153,358,87
+Scituate,Scituate 3001,"1. Higher Education Facilities - $107,300,000",,NON,Reject,759,279,328,152
+Scituate,Scituate 3001,"2. Beach, Clean Water and Green Bond - $74,000,000",,NON,Approve,862,220,513,129
+Scituate,Scituate 3001,"2. Beach, Clean Water and Green Bond - $74,000,000",,NON,Reject,491,209,171,111
+Scituate,Scituate 3001,"3. Housing and Community Opportunity - $65,000,000",,NON,Approve,624,135,391,98
+Scituate,Scituate 3001,"3. Housing and Community Opportunity - $65,000,000",,NON,Reject,716,289,291,136
+Scituate,Scituate 3001,"4. Transportation Infrastructure - $71,700,000",,NON,Approve,921,242,526,153
+Scituate,Scituate 3001,"4. Transportation Infrastructure - $71,700,000",,NON,Reject,433,188,159,86
+Scituate,Scituate 3001,"5. Early Care & Education Capital Fund - $15,000,000",,NON,Approve,637,145,391,101
+Scituate,Scituate 3001,"5. Early Care & Education Capital Fund - $15,000,000",,NON,Reject,718,285,294,139
+Scituate,Scituate 3001,"6. Arts, Economy & State Preservation Grants $7,000,000",,NON,Approve,590,145,354,91
+Scituate,Scituate 3001,"6. Arts, Economy & State Preservation Grants $7,000,000",,NON,Reject,766,286,330,150
+Scituate,Scituate 3001,"7. Industrial Facilities Infrastructure - $60,000,000",,NON,Approve,640,161,365,114
+Scituate,Scituate 3001,"7. Industrial Facilities Infrastructure - $60,000,000",,NON,Reject,717,269,320,128
+Smithfield,Smithfield 3101,"1. Higher Education Facilities - $107,300,000",,NON,Approve,1235,199,947,89
+Smithfield,Smithfield 3101,"1. Higher Education Facilities - $107,300,000",,NON,Reject,1191,362,712,117
+Smithfield,Smithfield 3101,"2. Beach, Clean Water and Green Bond - $74,000,000",,NON,Approve,1755,305,1335,115
+Smithfield,Smithfield 3101,"2. Beach, Clean Water and Green Bond - $74,000,000",,NON,Reject,661,256,314,91
+Smithfield,Smithfield 3101,"3. Housing and Community Opportunity - $65,000,000",,NON,Approve,1297,201,1010,86
+Smithfield,Smithfield 3101,"3. Housing and Community Opportunity - $65,000,000",,NON,Reject,1114,355,641,118
+Smithfield,Smithfield 3101,"4. Transportation Infrastructure - $71,700,000",,NON,Approve,1833,334,1370,129
+Smithfield,Smithfield 3101,"4. Transportation Infrastructure - $71,700,000",,NON,Reject,590,226,287,77
+Smithfield,Smithfield 3101,"5. Early Care & Education Capital Fund - $15,000,000",,NON,Approve,1351,216,1047,88
+Smithfield,Smithfield 3101,"5. Early Care & Education Capital Fund - $15,000,000",,NON,Reject,1071,344,609,118
+Smithfield,Smithfield 3101,"6. Arts, Economy & State Preservation Grants $7,000,000",,NON,Approve,1223,198,940,85
+Smithfield,Smithfield 3101,"6. Arts, Economy & State Preservation Grants $7,000,000",,NON,Reject,1198,363,714,121
+Smithfield,Smithfield 3101,"7. Industrial Facilities Infrastructure - $60,000,000",,NON,Approve,1260,225,939,96
+Smithfield,Smithfield 3101,"7. Industrial Facilities Infrastructure - $60,000,000",,NON,Reject,1159,335,716,108
+South Kingstown,South Kingstown 3201,"1. Higher Education Facilities - $107,300,000",,NON,Approve,3324,694,2371,259
+South Kingstown,South Kingstown 3201,"1. Higher Education Facilities - $107,300,000",,NON,Reject,1846,555,1092,199
+South Kingstown,South Kingstown 3201,"2. Beach, Clean Water and Green Bond - $74,000,000",,NON,Approve,4091,836,2931,324
+South Kingstown,South Kingstown 3201,"2. Beach, Clean Water and Green Bond - $74,000,000",,NON,Reject,1075,413,529,133
+South Kingstown,South Kingstown 3201,"3. Housing and Community Opportunity - $65,000,000",,NON,Approve,3502,678,2551,273
+South Kingstown,South Kingstown 3201,"3. Housing and Community Opportunity - $65,000,000",,NON,Reject,1655,563,914,178
+South Kingstown,South Kingstown 3201,"4. Transportation Infrastructure - $71,700,000",,NON,Approve,4162,850,2979,333
+South Kingstown,South Kingstown 3201,"4. Transportation Infrastructure - $71,700,000",,NON,Reject,1014,395,496,123
+South Kingstown,South Kingstown 3201,"5. Early Care & Education Capital Fund - $15,000,000",,NON,Approve,3517,660,2575,282
+South Kingstown,South Kingstown 3201,"5. Early Care & Education Capital Fund - $15,000,000",,NON,Reject,1662,587,901,174
+South Kingstown,South Kingstown 3201,"6. Arts, Economy & State Preservation Grants $7,000,000",,NON,Approve,3250,642,2359,249
+South Kingstown,South Kingstown 3201,"6. Arts, Economy & State Preservation Grants $7,000,000",,NON,Reject,1920,607,1106,207
+South Kingstown,South Kingstown 3201,"7. Industrial Facilities Infrastructure - $60,000,000",,NON,Approve,3134,623,2241,270
+South Kingstown,South Kingstown 3201,"7. Industrial Facilities Infrastructure - $60,000,000",,NON,Reject,2014,614,1216,184
+Tiverton,Tiverton 3300,"1. Higher Education Facilities - $107,300,000",,NON,Approve,861,4,779,78
+Tiverton,Tiverton 3300,"1. Higher Education Facilities - $107,300,000",,NON,Reject,716,3,606,107
+Tiverton,Tiverton 3300,"2. Beach, Clean Water and Green Bond - $74,000,000",,NON,Approve,1194,5,1068,121
+Tiverton,Tiverton 3300,"2. Beach, Clean Water and Green Bond - $74,000,000",,NON,Reject,380,2,313,65
+Tiverton,Tiverton 3300,"3. Housing and Community Opportunity - $65,000,000",,NON,Approve,988,4,887,97
+Tiverton,Tiverton 3300,"3. Housing and Community Opportunity - $65,000,000",,NON,Reject,568,3,479,86
+Tiverton,Tiverton 3300,"4. Transportation Infrastructure - $71,700,000",,NON,Approve,1362,5,1221,136
+Tiverton,Tiverton 3300,"4. Transportation Infrastructure - $71,700,000",,NON,Reject,222,2,170,50
+Tiverton,Tiverton 3300,"5. Early Care & Education Capital Fund - $15,000,000",,NON,Approve,1041,4,936,101
+Tiverton,Tiverton 3300,"5. Early Care & Education Capital Fund - $15,000,000",,NON,Reject,536,3,449,84
+Tiverton,Tiverton 3300,"6. Arts, Economy & State Preservation Grants $7,000,000",,NON,Approve,855,4,764,87
+Tiverton,Tiverton 3300,"6. Arts, Economy & State Preservation Grants $7,000,000",,NON,Reject,722,2,623,97
+Tiverton,Tiverton 3300,"7. Industrial Facilities Infrastructure - $60,000,000",,NON,Approve,874,3,783,88
+Tiverton,Tiverton 3300,"7. Industrial Facilities Infrastructure - $60,000,000",,NON,Reject,702,4,601,97
+Tiverton,Tiverton 3301,"1. Higher Education Facilities - $107,300,000",,NON,Approve,56,56,0,0
+Tiverton,Tiverton 3301,"1. Higher Education Facilities - $107,300,000",,NON,Reject,83,83,0,0
+Tiverton,Tiverton 3301,"2. Beach, Clean Water and Green Bond - $74,000,000",,NON,Approve,84,84,0,0
+Tiverton,Tiverton 3301,"2. Beach, Clean Water and Green Bond - $74,000,000",,NON,Reject,55,55,0,0
+Tiverton,Tiverton 3301,"3. Housing and Community Opportunity - $65,000,000",,NON,Approve,64,64,0,0
+Tiverton,Tiverton 3301,"3. Housing and Community Opportunity - $65,000,000",,NON,Reject,75,75,0,0
+Tiverton,Tiverton 3301,"4. Transportation Infrastructure - $71,700,000",,NON,Approve,90,90,0,0
+Tiverton,Tiverton 3301,"4. Transportation Infrastructure - $71,700,000",,NON,Reject,49,49,0,0
+Tiverton,Tiverton 3301,"5. Early Care & Education Capital Fund - $15,000,000",,NON,Approve,60,60,0,0
+Tiverton,Tiverton 3301,"5. Early Care & Education Capital Fund - $15,000,000",,NON,Reject,77,77,0,0
+Tiverton,Tiverton 3301,"6. Arts, Economy & State Preservation Grants $7,000,000",,NON,Approve,62,62,0,0
+Tiverton,Tiverton 3301,"6. Arts, Economy & State Preservation Grants $7,000,000",,NON,Reject,76,76,0,0
+Tiverton,Tiverton 3301,"7. Industrial Facilities Infrastructure - $60,000,000",,NON,Approve,65,65,0,0
+Tiverton,Tiverton 3301,"7. Industrial Facilities Infrastructure - $60,000,000",,NON,Reject,74,74,0,0
+Tiverton,Tiverton 3302,"1. Higher Education Facilities - $107,300,000",,NON,Approve,74,74,0,0
+Tiverton,Tiverton 3302,"1. Higher Education Facilities - $107,300,000",,NON,Reject,144,144,0,0
+Tiverton,Tiverton 3302,"2. Beach, Clean Water and Green Bond - $74,000,000",,NON,Approve,121,121,0,0
+Tiverton,Tiverton 3302,"2. Beach, Clean Water and Green Bond - $74,000,000",,NON,Reject,99,99,0,0
+Tiverton,Tiverton 3302,"3. Housing and Community Opportunity - $65,000,000",,NON,Approve,80,80,0,0
+Tiverton,Tiverton 3302,"3. Housing and Community Opportunity - $65,000,000",,NON,Reject,138,138,0,0
+Tiverton,Tiverton 3302,"4. Transportation Infrastructure - $71,700,000",,NON,Approve,143,143,0,0
+Tiverton,Tiverton 3302,"4. Transportation Infrastructure - $71,700,000",,NON,Reject,76,76,0,0
+Tiverton,Tiverton 3302,"5. Early Care & Education Capital Fund - $15,000,000",,NON,Approve,88,88,0,0
+Tiverton,Tiverton 3302,"5. Early Care & Education Capital Fund - $15,000,000",,NON,Reject,131,131,0,0
+Tiverton,Tiverton 3302,"6. Arts, Economy & State Preservation Grants $7,000,000",,NON,Approve,77,77,0,0
+Tiverton,Tiverton 3302,"6. Arts, Economy & State Preservation Grants $7,000,000",,NON,Reject,142,142,0,0
+Tiverton,Tiverton 3302,"7. Industrial Facilities Infrastructure - $60,000,000",,NON,Approve,98,98,0,0
+Tiverton,Tiverton 3302,"7. Industrial Facilities Infrastructure - $60,000,000",,NON,Reject,119,119,0,0
+Warren,Warren 3401,"1. Higher Education Facilities - $107,300,000",,NON,Approve,751,157,543,51
+Warren,Warren 3401,"1. Higher Education Facilities - $107,300,000",,NON,Reject,595,190,366,39
+Warren,Warren 3401,"2. Beach, Clean Water and Green Bond - $74,000,000",,NON,Approve,1041,216,755,70
+Warren,Warren 3401,"2. Beach, Clean Water and Green Bond - $74,000,000",,NON,Reject,295,131,144,20
+Warren,Warren 3401,"3. Housing and Community Opportunity - $65,000,000",,NON,Approve,877,173,658,46
+Warren,Warren 3401,"3. Housing and Community Opportunity - $65,000,000",,NON,Reject,460,170,247,43
+Warren,Warren 3401,"4. Transportation Infrastructure - $71,700,000",,NON,Approve,1105,239,796,70
+Warren,Warren 3401,"4. Transportation Infrastructure - $71,700,000",,NON,Reject,242,109,113,20
+Warren,Warren 3401,"5. Early Care & Education Capital Fund - $15,000,000",,NON,Approve,917,181,673,63
+Warren,Warren 3401,"5. Early Care & Education Capital Fund - $15,000,000",,NON,Reject,423,166,231,26
+Warren,Warren 3401,"6. Arts, Economy & State Preservation Grants $7,000,000",,NON,Approve,792,157,583,52
+Warren,Warren 3401,"6. Arts, Economy & State Preservation Grants $7,000,000",,NON,Reject,549,191,321,37
+Warren,Warren 3401,"7. Industrial Facilities Infrastructure - $60,000,000",,NON,Approve,755,178,533,44
+Warren,Warren 3401,"7. Industrial Facilities Infrastructure - $60,000,000",,NON,Reject,583,166,373,44
+Warwick,Warwick 3500,"1. Higher Education Facilities - $107,300,000",,NON,Approve,4578,4,4250,324
+Warwick,Warwick 3500,"1. Higher Education Facilities - $107,300,000",,NON,Reject,2920,5,2630,285
+Warwick,Warwick 3500,"2. Beach, Clean Water and Green Bond - $74,000,000",,NON,Approve,6287,5,5851,431
+Warwick,Warwick 3500,"2. Beach, Clean Water and Green Bond - $74,000,000",,NON,Reject,1199,4,1017,178
+Warwick,Warwick 3500,"3. Housing and Community Opportunity - $65,000,000",,NON,Approve,5419,3,5066,350
+Warwick,Warwick 3500,"3. Housing and Community Opportunity - $65,000,000",,NON,Reject,2039,6,1781,252
+Warwick,Warwick 3500,"4. Transportation Infrastructure - $71,700,000",,NON,Approve,6333,6,5868,459
+Warwick,Warwick 3500,"4. Transportation Infrastructure - $71,700,000",,NON,Reject,1168,3,1014,151
+Warwick,Warwick 3500,"5. Early Care & Education Capital Fund - $15,000,000",,NON,Approve,5252,3,4891,358
+Warwick,Warwick 3500,"5. Early Care & Education Capital Fund - $15,000,000",,NON,Reject,2231,6,1974,251
+Warwick,Warwick 3500,"6. Arts, Economy & State Preservation Grants $7,000,000",,NON,Approve,4726,1,4397,328
+Warwick,Warwick 3500,"6. Arts, Economy & State Preservation Grants $7,000,000",,NON,Reject,2759,8,2471,280
+Warwick,Warwick 3500,"7. Industrial Facilities Infrastructure - $60,000,000",,NON,Approve,4690,4,4317,369
+Warwick,Warwick 3500,"7. Industrial Facilities Infrastructure - $60,000,000",,NON,Reject,2789,5,2545,239
+Warwick,Warwick 3501,"1. Higher Education Facilities - $107,300,000",,NON,Approve,512,512,0,0
+Warwick,Warwick 3501,"1. Higher Education Facilities - $107,300,000",,NON,Reject,575,575,0,0
+Warwick,Warwick 3501,"2. Beach, Clean Water and Green Bond - $74,000,000",,NON,Approve,726,726,0,0
+Warwick,Warwick 3501,"2. Beach, Clean Water and Green Bond - $74,000,000",,NON,Reject,363,363,0,0
+Warwick,Warwick 3501,"3. Housing and Community Opportunity - $65,000,000",,NON,Approve,550,550,0,0
+Warwick,Warwick 3501,"3. Housing and Community Opportunity - $65,000,000",,NON,Reject,535,535,0,0
+Warwick,Warwick 3501,"4. Transportation Infrastructure - $71,700,000",,NON,Approve,737,737,0,0
+Warwick,Warwick 3501,"4. Transportation Infrastructure - $71,700,000",,NON,Reject,355,355,0,0
+Warwick,Warwick 3501,"5. Early Care & Education Capital Fund - $15,000,000",,NON,Approve,540,540,0,0
+Warwick,Warwick 3501,"5. Early Care & Education Capital Fund - $15,000,000",,NON,Reject,546,546,0,0
+Warwick,Warwick 3501,"6. Arts, Economy & State Preservation Grants $7,000,000",,NON,Approve,520,520,0,0
+Warwick,Warwick 3501,"6. Arts, Economy & State Preservation Grants $7,000,000",,NON,Reject,566,566,0,0
+Warwick,Warwick 3501,"7. Industrial Facilities Infrastructure - $60,000,000",,NON,Approve,528,528,0,0
+Warwick,Warwick 3501,"7. Industrial Facilities Infrastructure - $60,000,000",,NON,Reject,561,561,0,0
+Warwick,Warwick 3507,"1. Higher Education Facilities - $107,300,000",,NON,Approve,352,352,0,0
+Warwick,Warwick 3507,"1. Higher Education Facilities - $107,300,000",,NON,Reject,483,483,0,0
+Warwick,Warwick 3507,"2. Beach, Clean Water and Green Bond - $74,000,000",,NON,Approve,508,508,0,0
+Warwick,Warwick 3507,"2. Beach, Clean Water and Green Bond - $74,000,000",,NON,Reject,329,329,0,0
+Warwick,Warwick 3507,"3. Housing and Community Opportunity - $65,000,000",,NON,Approve,374,374,0,0
+Warwick,Warwick 3507,"3. Housing and Community Opportunity - $65,000,000",,NON,Reject,457,457,0,0
+Warwick,Warwick 3507,"4. Transportation Infrastructure - $71,700,000",,NON,Approve,556,556,0,0
+Warwick,Warwick 3507,"4. Transportation Infrastructure - $71,700,000",,NON,Reject,281,281,0,0
+Warwick,Warwick 3507,"5. Early Care & Education Capital Fund - $15,000,000",,NON,Approve,396,396,0,0
+Warwick,Warwick 3507,"5. Early Care & Education Capital Fund - $15,000,000",,NON,Reject,442,442,0,0
+Warwick,Warwick 3507,"6. Arts, Economy & State Preservation Grants $7,000,000",,NON,Approve,346,346,0,0
+Warwick,Warwick 3507,"6. Arts, Economy & State Preservation Grants $7,000,000",,NON,Reject,489,489,0,0
+Warwick,Warwick 3507,"7. Industrial Facilities Infrastructure - $60,000,000",,NON,Approve,385,385,0,0
+Warwick,Warwick 3507,"7. Industrial Facilities Infrastructure - $60,000,000",,NON,Reject,451,451,0,0
+West Greenwich,West Greenwich 3701,"1. Higher Education Facilities - $107,300,000",,NON,Approve,371,102,232,37
+West Greenwich,West Greenwich 3701,"1. Higher Education Facilities - $107,300,000",,NON,Reject,533,214,217,102
+West Greenwich,West Greenwich 3701,"2. Beach, Clean Water and Green Bond - $74,000,000",,NON,Approve,583,143,366,74
+West Greenwich,West Greenwich 3701,"2. Beach, Clean Water and Green Bond - $74,000,000",,NON,Reject,324,174,85,65
+West Greenwich,West Greenwich 3701,"3. Housing and Community Opportunity - $65,000,000",,NON,Approve,400,85,275,40
+West Greenwich,West Greenwich 3701,"3. Housing and Community Opportunity - $65,000,000",,NON,Reject,502,232,170,100
+West Greenwich,West Greenwich 3701,"4. Transportation Infrastructure - $71,700,000",,NON,Approve,625,177,370,78
+West Greenwich,West Greenwich 3701,"4. Transportation Infrastructure - $71,700,000",,NON,Reject,279,141,77,61
+West Greenwich,West Greenwich 3701,"5. Early Care & Education Capital Fund - $15,000,000",,NON,Approve,429,105,275,49
+West Greenwich,West Greenwich 3701,"5. Early Care & Education Capital Fund - $15,000,000",,NON,Reject,475,212,172,91
+West Greenwich,West Greenwich 3701,"6. Arts, Economy & State Preservation Grants $7,000,000",,NON,Approve,399,91,263,45
+West Greenwich,West Greenwich 3701,"6. Arts, Economy & State Preservation Grants $7,000,000",,NON,Reject,504,224,187,93
+West Greenwich,West Greenwich 3701,"7. Industrial Facilities Infrastructure - $60,000,000",,NON,Approve,431,124,250,57
+West Greenwich,West Greenwich 3701,"7. Industrial Facilities Infrastructure - $60,000,000",,NON,Reject,477,194,200,83
+West Warwick,West Warwick 3801,"1. Higher Education Facilities - $107,300,000",,NON,Approve,1291,189,1022,80
+West Warwick,West Warwick 3801,"1. Higher Education Facilities - $107,300,000",,NON,Reject,1231,419,711,101
+West Warwick,West Warwick 3801,"2. Beach, Clean Water and Green Bond - $74,000,000",,NON,Approve,1826,324,1391,111
+West Warwick,West Warwick 3801,"2. Beach, Clean Water and Green Bond - $74,000,000",,NON,Reject,688,283,334,71
+West Warwick,West Warwick 3801,"3. Housing and Community Opportunity - $65,000,000",,NON,Approve,1520,238,1195,87
+West Warwick,West Warwick 3801,"3. Housing and Community Opportunity - $65,000,000",,NON,Reject,979,363,523,93
+West Warwick,West Warwick 3801,"4. Transportation Infrastructure - $71,700,000",,NON,Approve,1911,374,1423,114
+West Warwick,West Warwick 3801,"4. Transportation Infrastructure - $71,700,000",,NON,Reject,610,234,308,68
+West Warwick,West Warwick 3801,"5. Early Care & Education Capital Fund - $15,000,000",,NON,Approve,1487,236,1167,84
+West Warwick,West Warwick 3801,"5. Early Care & Education Capital Fund - $15,000,000",,NON,Reject,1036,372,566,98
+West Warwick,West Warwick 3801,"6. Arts, Economy & State Preservation Grants $7,000,000",,NON,Approve,1265,204,983,78
+West Warwick,West Warwick 3801,"6. Arts, Economy & State Preservation Grants $7,000,000",,NON,Reject,1252,400,748,104
+West Warwick,West Warwick 3801,"7. Industrial Facilities Infrastructure - $60,000,000",,NON,Approve,1405,262,1050,93
+West Warwick,West Warwick 3801,"7. Industrial Facilities Infrastructure - $60,000,000",,NON,Reject,1112,345,678,89
+Westerly,Westerly 3600,"1. Higher Education Facilities - $107,300,000",,NON,Approve,1279,4,1211,64
+Westerly,Westerly 3600,"1. Higher Education Facilities - $107,300,000",,NON,Reject,838,3,780,55
+Westerly,Westerly 3600,"2. Beach, Clean Water and Green Bond - $74,000,000",,NON,Approve,1682,5,1589,88
+Westerly,Westerly 3600,"2. Beach, Clean Water and Green Bond - $74,000,000",,NON,Reject,430,2,395,33
+Westerly,Westerly 3600,"3. Housing and Community Opportunity - $65,000,000",,NON,Approve,1419,5,1344,70
+Westerly,Westerly 3600,"3. Housing and Community Opportunity - $65,000,000",,NON,Reject,683,2,632,49
+Westerly,Westerly 3600,"4. Transportation Infrastructure - $71,700,000",,NON,Approve,1825,5,1725,95
+Westerly,Westerly 3600,"4. Transportation Infrastructure - $71,700,000",,NON,Reject,302,2,274,26
+Westerly,Westerly 3600,"5. Early Care & Education Capital Fund - $15,000,000",,NON,Approve,1472,4,1398,70
+Westerly,Westerly 3600,"5. Early Care & Education Capital Fund - $15,000,000",,NON,Reject,646,3,592,51
+Westerly,Westerly 3600,"6. Arts, Economy & State Preservation Grants $7,000,000",,NON,Approve,1222,4,1155,63
+Westerly,Westerly 3600,"6. Arts, Economy & State Preservation Grants $7,000,000",,NON,Reject,895,3,835,57
+Westerly,Westerly 3600,"7. Industrial Facilities Infrastructure - $60,000,000",,NON,Approve,1238,3,1162,73
+Westerly,Westerly 3600,"7. Industrial Facilities Infrastructure - $60,000,000",,NON,Reject,875,4,825,46
+Westerly,Westerly 3601,"1. Higher Education Facilities - $107,300,000",,NON,Approve,154,154,0,0
+Westerly,Westerly 3601,"1. Higher Education Facilities - $107,300,000",,NON,Reject,183,183,0,0
+Westerly,Westerly 3601,"2. Beach, Clean Water and Green Bond - $74,000,000",,NON,Approve,221,221,0,0
+Westerly,Westerly 3601,"2. Beach, Clean Water and Green Bond - $74,000,000",,NON,Reject,116,116,0,0
+Westerly,Westerly 3601,"3. Housing and Community Opportunity - $65,000,000",,NON,Approve,147,147,0,0
+Westerly,Westerly 3601,"3. Housing and Community Opportunity - $65,000,000",,NON,Reject,190,190,0,0
+Westerly,Westerly 3601,"4. Transportation Infrastructure - $71,700,000",,NON,Approve,247,247,0,0
+Westerly,Westerly 3601,"4. Transportation Infrastructure - $71,700,000",,NON,Reject,92,92,0,0
+Westerly,Westerly 3601,"5. Early Care & Education Capital Fund - $15,000,000",,NON,Approve,167,167,0,0
+Westerly,Westerly 3601,"5. Early Care & Education Capital Fund - $15,000,000",,NON,Reject,171,171,0,0
+Westerly,Westerly 3601,"6. Arts, Economy & State Preservation Grants $7,000,000",,NON,Approve,152,152,0,0
+Westerly,Westerly 3601,"6. Arts, Economy & State Preservation Grants $7,000,000",,NON,Reject,185,185,0,0
+Westerly,Westerly 3601,"7. Industrial Facilities Infrastructure - $60,000,000",,NON,Approve,183,183,0,0
+Westerly,Westerly 3601,"7. Industrial Facilities Infrastructure - $60,000,000",,NON,Reject,153,153,0,0
+Westerly,Westerly 3605,"1. Higher Education Facilities - $107,300,000",,NON,Approve,85,85,0,0
+Westerly,Westerly 3605,"1. Higher Education Facilities - $107,300,000",,NON,Reject,99,99,0,0
+Westerly,Westerly 3605,"2. Beach, Clean Water and Green Bond - $74,000,000",,NON,Approve,114,114,0,0
+Westerly,Westerly 3605,"2. Beach, Clean Water and Green Bond - $74,000,000",,NON,Reject,69,69,0,0
+Westerly,Westerly 3605,"3. Housing and Community Opportunity - $65,000,000",,NON,Approve,96,96,0,0
+Westerly,Westerly 3605,"3. Housing and Community Opportunity - $65,000,000",,NON,Reject,87,87,0,0
+Westerly,Westerly 3605,"4. Transportation Infrastructure - $71,700,000",,NON,Approve,129,129,0,0
+Westerly,Westerly 3605,"4. Transportation Infrastructure - $71,700,000",,NON,Reject,55,55,0,0
+Westerly,Westerly 3605,"5. Early Care & Education Capital Fund - $15,000,000",,NON,Approve,89,89,0,0
+Westerly,Westerly 3605,"5. Early Care & Education Capital Fund - $15,000,000",,NON,Reject,95,95,0,0
+Westerly,Westerly 3605,"6. Arts, Economy & State Preservation Grants $7,000,000",,NON,Approve,80,80,0,0
+Westerly,Westerly 3605,"6. Arts, Economy & State Preservation Grants $7,000,000",,NON,Reject,102,102,0,0
+Westerly,Westerly 3605,"7. Industrial Facilities Infrastructure - $60,000,000",,NON,Approve,96,96,0,0
+Westerly,Westerly 3605,"7. Industrial Facilities Infrastructure - $60,000,000",,NON,Reject,87,87,0,0
+Woonsocket,Woonsocket 3900,"1. Higher Education Facilities - $107,300,000",,NON,Approve,1044,3,997,44
+Woonsocket,Woonsocket 3900,"1. Higher Education Facilities - $107,300,000",,NON,Reject,590,1,554,35
+Woonsocket,Woonsocket 3900,"2. Beach, Clean Water and Green Bond - $74,000,000",,NON,Approve,1324,4,1269,51
+Woonsocket,Woonsocket 3900,"2. Beach, Clean Water and Green Bond - $74,000,000",,NON,Reject,277,0,251,26
+Woonsocket,Woonsocket 3900,"3. Housing and Community Opportunity - $65,000,000",,NON,Approve,1162,3,1114,45
+Woonsocket,Woonsocket 3900,"3. Housing and Community Opportunity - $65,000,000",,NON,Reject,438,1,404,33
+Woonsocket,Woonsocket 3900,"4. Transportation Infrastructure - $71,700,000",,NON,Approve,1403,3,1340,60
+Woonsocket,Woonsocket 3900,"4. Transportation Infrastructure - $71,700,000",,NON,Reject,220,1,200,19
+Woonsocket,Woonsocket 3900,"5. Early Care & Education Capital Fund - $15,000,000",,NON,Approve,1209,3,1157,49
+Woonsocket,Woonsocket 3900,"5. Early Care & Education Capital Fund - $15,000,000",,NON,Reject,418,1,387,30
+Woonsocket,Woonsocket 3900,"6. Arts, Economy & State Preservation Grants $7,000,000",,NON,Approve,1038,3,990,45
+Woonsocket,Woonsocket 3900,"6. Arts, Economy & State Preservation Grants $7,000,000",,NON,Reject,594,1,561,32
+Woonsocket,Woonsocket 3900,"7. Industrial Facilities Infrastructure - $60,000,000",,NON,Approve,1029,4,978,47
+Woonsocket,Woonsocket 3900,"7. Industrial Facilities Infrastructure - $60,000,000",,NON,Reject,599,0,568,31
+Woonsocket,Woonsocket 3901,"1. Higher Education Facilities - $107,300,000",,NON,Approve,36,36,0,0
+Woonsocket,Woonsocket 3901,"1. Higher Education Facilities - $107,300,000",,NON,Reject,41,41,0,0
+Woonsocket,Woonsocket 3901,"2. Beach, Clean Water and Green Bond - $74,000,000",,NON,Approve,49,49,0,0
+Woonsocket,Woonsocket 3901,"2. Beach, Clean Water and Green Bond - $74,000,000",,NON,Reject,27,27,0,0
+Woonsocket,Woonsocket 3901,"3. Housing and Community Opportunity - $65,000,000",,NON,Approve,49,49,0,0
+Woonsocket,Woonsocket 3901,"3. Housing and Community Opportunity - $65,000,000",,NON,Reject,28,28,0,0
+Woonsocket,Woonsocket 3901,"4. Transportation Infrastructure - $71,700,000",,NON,Approve,60,60,0,0
+Woonsocket,Woonsocket 3901,"4. Transportation Infrastructure - $71,700,000",,NON,Reject,16,16,0,0
+Woonsocket,Woonsocket 3901,"5. Early Care & Education Capital Fund - $15,000,000",,NON,Approve,43,43,0,0
+Woonsocket,Woonsocket 3901,"5. Early Care & Education Capital Fund - $15,000,000",,NON,Reject,35,35,0,0
+Woonsocket,Woonsocket 3901,"6. Arts, Economy & State Preservation Grants $7,000,000",,NON,Approve,39,39,0,0
+Woonsocket,Woonsocket 3901,"6. Arts, Economy & State Preservation Grants $7,000,000",,NON,Reject,37,37,0,0
+Woonsocket,Woonsocket 3901,"7. Industrial Facilities Infrastructure - $60,000,000",,NON,Approve,34,34,0,0
+Woonsocket,Woonsocket 3901,"7. Industrial Facilities Infrastructure - $60,000,000",,NON,Reject,40,40,0,0
+Woonsocket,Woonsocket 3907,"1. Higher Education Facilities - $107,300,000",,NON,Approve,76,76,0,0
+Woonsocket,Woonsocket 3907,"1. Higher Education Facilities - $107,300,000",,NON,Reject,160,160,0,0
+Woonsocket,Woonsocket 3907,"2. Beach, Clean Water and Green Bond - $74,000,000",,NON,Approve,121,121,0,0
+Woonsocket,Woonsocket 3907,"2. Beach, Clean Water and Green Bond - $74,000,000",,NON,Reject,113,113,0,0
+Woonsocket,Woonsocket 3907,"3. Housing and Community Opportunity - $65,000,000",,NON,Approve,87,87,0,0
+Woonsocket,Woonsocket 3907,"3. Housing and Community Opportunity - $65,000,000",,NON,Reject,147,147,0,0
+Woonsocket,Woonsocket 3907,"4. Transportation Infrastructure - $71,700,000",,NON,Approve,144,144,0,0
+Woonsocket,Woonsocket 3907,"4. Transportation Infrastructure - $71,700,000",,NON,Reject,91,91,0,0
+Woonsocket,Woonsocket 3907,"5. Early Care & Education Capital Fund - $15,000,000",,NON,Approve,93,93,0,0
+Woonsocket,Woonsocket 3907,"5. Early Care & Education Capital Fund - $15,000,000",,NON,Reject,145,145,0,0
+Woonsocket,Woonsocket 3907,"6. Arts, Economy & State Preservation Grants $7,000,000",,NON,Approve,81,81,0,0
+Woonsocket,Woonsocket 3907,"6. Arts, Economy & State Preservation Grants $7,000,000",,NON,Reject,155,155,0,0
+Woonsocket,Woonsocket 3907,"7. Industrial Facilities Infrastructure - $60,000,000",,NON,Approve,87,87,0,0
+Woonsocket,Woonsocket 3907,"7. Industrial Facilities Infrastructure - $60,000,000",,NON,Reject,148,148,0,0
+Woonsocket,Woonsocket 3909,"1. Higher Education Facilities - $107,300,000",,NON,Approve,107,107,0,0
+Woonsocket,Woonsocket 3909,"1. Higher Education Facilities - $107,300,000",,NON,Reject,186,186,0,0
+Woonsocket,Woonsocket 3909,"2. Beach, Clean Water and Green Bond - $74,000,000",,NON,Approve,147,147,0,0
+Woonsocket,Woonsocket 3909,"2. Beach, Clean Water and Green Bond - $74,000,000",,NON,Reject,144,144,0,0
+Woonsocket,Woonsocket 3909,"3. Housing and Community Opportunity - $65,000,000",,NON,Approve,101,101,0,0
+Woonsocket,Woonsocket 3909,"3. Housing and Community Opportunity - $65,000,000",,NON,Reject,188,188,0,0
+Woonsocket,Woonsocket 3909,"4. Transportation Infrastructure - $71,700,000",,NON,Approve,173,173,0,0
+Woonsocket,Woonsocket 3909,"4. Transportation Infrastructure - $71,700,000",,NON,Reject,113,113,0,0
+Woonsocket,Woonsocket 3909,"5. Early Care & Education Capital Fund - $15,000,000",,NON,Approve,115,115,0,0
+Woonsocket,Woonsocket 3909,"5. Early Care & Education Capital Fund - $15,000,000",,NON,Reject,179,179,0,0
+Woonsocket,Woonsocket 3909,"6. Arts, Economy & State Preservation Grants $7,000,000",,NON,Approve,110,110,0,0
+Woonsocket,Woonsocket 3909,"6. Arts, Economy & State Preservation Grants $7,000,000",,NON,Reject,179,179,0,0
+Woonsocket,Woonsocket 3909,"7. Industrial Facilities Infrastructure - $60,000,000",,NON,Approve,120,120,0,0
+Woonsocket,Woonsocket 3909,"7. Industrial Facilities Infrastructure - $60,000,000",,NON,Reject,171,171,0,0
+Woonsocket,Woonsocket 3912,"1. Higher Education Facilities - $107,300,000",,NON,Approve,56,56,0,0
+Woonsocket,Woonsocket 3912,"1. Higher Education Facilities - $107,300,000",,NON,Reject,79,79,0,0
+Woonsocket,Woonsocket 3912,"2. Beach, Clean Water and Green Bond - $74,000,000",,NON,Approve,70,70,0,0
+Woonsocket,Woonsocket 3912,"2. Beach, Clean Water and Green Bond - $74,000,000",,NON,Reject,63,63,0,0
+Woonsocket,Woonsocket 3912,"3. Housing and Community Opportunity - $65,000,000",,NON,Approve,58,58,0,0
+Woonsocket,Woonsocket 3912,"3. Housing and Community Opportunity - $65,000,000",,NON,Reject,75,75,0,0
+Woonsocket,Woonsocket 3912,"4. Transportation Infrastructure - $71,700,000",,NON,Approve,81,81,0,0
+Woonsocket,Woonsocket 3912,"4. Transportation Infrastructure - $71,700,000",,NON,Reject,53,53,0,0
+Woonsocket,Woonsocket 3912,"5. Early Care & Education Capital Fund - $15,000,000",,NON,Approve,67,67,0,0
+Woonsocket,Woonsocket 3912,"5. Early Care & Education Capital Fund - $15,000,000",,NON,Reject,68,68,0,0
+Woonsocket,Woonsocket 3912,"6. Arts, Economy & State Preservation Grants $7,000,000",,NON,Approve,53,53,0,0
+Woonsocket,Woonsocket 3912,"6. Arts, Economy & State Preservation Grants $7,000,000",,NON,Reject,81,81,0,0
+Woonsocket,Woonsocket 3912,"7. Industrial Facilities Infrastructure - $60,000,000",,NON,Approve,63,63,0,0
+Woonsocket,Woonsocket 3912,"7. Industrial Facilities Infrastructure - $60,000,000",,NON,Reject,71,71,0,0
